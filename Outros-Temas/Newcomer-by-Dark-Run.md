@@ -60,7 +60,7 @@ Trabalhei na Deutsche Bahn (os caminhos de ferro alemães). Certa vez, vi-me rod
 
 **↪** 
 
- 🔁 [Index](Index.md)
+ 🔁 [Index](../Index.md)
  ...→
 **←**
 

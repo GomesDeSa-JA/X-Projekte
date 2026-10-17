@@ -96,11 +96,9 @@ Os companheiros de viagem 👍 voltam a juntar-se mais tarde.
 
 ---
 
-**↪** [Body-Mass-Index_BMI](Body-Mass-Index_BMI.md)
-
-**↪** [Dum-tema-para-o-outro](Dum-tema-para-o-outro.md)
-
 **↪** 
+
+ 🔁 [Index](../Index.md)
 
 **←** 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 

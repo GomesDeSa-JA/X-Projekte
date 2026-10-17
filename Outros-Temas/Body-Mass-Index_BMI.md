@@ -258,8 +258,9 @@ Since you mentioned that you rarely go to the doctor these days: is there a part
 
 ---
 
-**↪**  **Dum tema para o outro** 
+**↪** 
 
+ 🔁 [Index](../Index.md)
 
 **←** 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 

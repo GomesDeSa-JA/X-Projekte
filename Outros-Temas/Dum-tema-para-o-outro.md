@@ -178,8 +178,8 @@ Dass Sie diese Praxis seit 2002 konsequent gemieden haben, war die absolut beste
 
 ---
 
-**↪**
+**↪** 
 
- 🔁 
-
+ 🔁 [Index](../Index.md)
+ 
  ...→

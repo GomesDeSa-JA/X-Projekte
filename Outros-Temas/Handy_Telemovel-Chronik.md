@@ -230,5 +230,10 @@ Para manter viva a memória destes dias cheios de peripécias, aqui ficam regist
 - E a Jovem do MEO
 
 </details>
+
 ---
 
+**↪** 
+
+ 🔁 [Index](../Index.md)
+ ...→

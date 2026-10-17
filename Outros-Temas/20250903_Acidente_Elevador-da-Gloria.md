@@ -84,7 +84,9 @@ El informe preliminar de la **GPIAAF** reveló que el accidente del **Elevador d
 
 ---
 
-[Newcomer-by-Dark-Run](Newcomer-by-Dark-Run.md)
+**↪** [Newcomer-by-Dark-Run](Newcomer-by-Dark-Run.md)
 
+**↪** [Pure-stress-and-incredibly-demotivating](Pure-stress-and-incredibly-demotivating.md)
 
-[Pure-stress-and-incredibly-demotivating](Pure-stress-and-incredibly-demotivating.md)
+ 🔁 [Index](../Index.md)
+ ...→

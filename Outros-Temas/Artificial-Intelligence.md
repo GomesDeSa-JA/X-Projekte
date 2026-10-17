@@ -53,6 +53,9 @@ Everyone else who wasn’t born in Wuppertal always gets soaked because they don
 </details>
 
 ---
+**↪** 
+
+ 🔁 [Index](../Index.md)
 
 **←** 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 

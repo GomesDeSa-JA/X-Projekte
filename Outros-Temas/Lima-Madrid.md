@@ -93,4 +93,8 @@ El 10 de junio de 2016, hacia las 19:00 horas, estaba en la cola para tomar mi v
 </details>
 
 ---
+**↪** 
+
+ 🔁 [Index](../Index.md)
+ ...→
 

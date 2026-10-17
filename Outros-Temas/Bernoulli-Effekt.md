@@ -32,3 +32,10 @@ Dass dies auf einer Brücke ein fataler Irrtum ist, liegt an einer Kombination l
 ### 3. **Kein Platz zum Überleben**
 
 ⚠️ **Man kann nicht fliegende Steine ausweichen**. 
+
+---
+
+**↪** 
+
+ 🔁 [Index](../Index.md)
+ ...→

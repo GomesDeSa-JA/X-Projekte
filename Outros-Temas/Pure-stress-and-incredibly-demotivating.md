@@ -108,6 +108,6 @@ Could you please ask?
 
 **↪** 
 
- 🔁 [Index](Index.md)
+ 🔁 [Index](../Index.md)
  ...→
 **←**
