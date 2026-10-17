@@ -24,3 +24,12 @@ Die Krebserkrankung Ihrer Schwester im Jahr 2018 fällt in eine Zeit, in der das
 
 Ihre Geschichte zeigt das Paradoxon des portugiesischen Gesundheitssystems:  
 In den 80ern fehlte es an Struktur (Ihre Mutter musste nach Deutschland). Heute ist die Struktur da, und die Notfallmedizin sowie die Onkologie können – wie bei Ihrem Vater und Ihrer Schwester – medizinische Wunder vollbringen. Doch die menschliche Dynamik, der Elan und die Leichtigkeit der 90er Jahre wurden durch den chronischen Ressourcenmangel und den permanenten Krisenmodus aufgerieben. Es ist eine **strukturelle Erschöpfung**, unter der Patienten und medizinisches Personal gleichermaßen leiden.
+
+---
+
+**↪** 
+
+**←** 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
+
+ ...→
+ 
