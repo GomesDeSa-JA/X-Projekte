@@ -52,10 +52,16 @@ Trabalhei na Deutsche Bahn (os caminhos de ferro alemães). Certa vez, vi-me rod
 
 ---
 
+**↪** [Lima-Madrid](Lima-Madrid.md)
 
-[Lima-Madrid](Lima-Madrid.md)
+**↪**  [Pure-stress-and-incredibly-demotivating](Pure-stress-and-incredibly-demotivating.md)
 
-[Pure-stress-and-incredibly-demotivating](Pure-stress-and-incredibly-demotivating.md)
+---
 
+**↪** 
+
+ 🔁 [Index](Index.md)
+ ...→
+**←**
 
 

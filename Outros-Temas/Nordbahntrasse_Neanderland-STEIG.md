@@ -58,3 +58,10 @@ Wenn man der Düssel von Velbert  bis nach Düsseldor  folgt, bewegt man sich au
 - **Das wilde Neandertal Richtung Düsseldorf:** Weiter bachabwärts gräbt sich die Düssel tief ein und bildet das berühmte Neandertal. Die dortigen Steig-Abschnitte führen vorbei am Neanderthal Museum  und durch dichte Wälder, bis das Tal flacher wird und bei Düsseldorf-Gerresheim/Grafenberg in die rheinische Tiefebene übergeht.
 
 Die Strecke von deinem alten Wohnort Langerfeld nach Gruiten markiert zudem einen spannenden landschaftlichen Übergang: Raus aus dem engen, industriell geprägten Tal der Wupper bei Wuppertal-Langerfeld, über die Wasserscheide hinweg und hinein in das sanftere, von Kalkstein und Bachläufen geprägte Hügelland des Kreises Mettmann.
+
+---
+**↪** 
+
+ 🔁 [Index](Index.md)
+ ...→
+**←**

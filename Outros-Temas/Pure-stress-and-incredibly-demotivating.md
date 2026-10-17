@@ -104,6 +104,10 @@ Could you please ask?
 
 </details>
 
+---
 
+**↪** 
 
-
+ 🔁 [Index](Index.md)
+ ...→
+**←**
