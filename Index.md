@@ -1,4 +1,4 @@
-
+**←** 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 ### Index 
 #### 🔠 [ A ](#A) · [ B ](#B) · [ C ](#C) · [ D ](#D) · [ E ](#E) · [ F ](#F) · [ G ](#G) · [ H ](#H) · [ I ](#I) · [ J ](#J) · [ K ](#K) · [ L ](#L) · [ M ](#M) · [ N ](#N) · [ O ](#O) · [ P ](#P) · [ Q ](#Q) · [ R ](#R) · [ S ](#S) · [ T ](#T) · [ U ](#U) · [ V ](#V) · [ W ](#W) · [ X ](#X) · [ Y ](#Y) · [ Z ](#Z)
 ### A – F
@@ -10,7 +10,6 @@
 - 
 
 ---
-Outros-Temas/
 ### B
 [🔠](#Index) 
 
@@ -41,7 +40,6 @@ Outros-Temas/
 - 
 
 ---
-
 ### E
  [🔠](#Index) 
 
@@ -54,7 +52,7 @@ Outros-Temas/
  [🔠](#Index) 
 
 
-- 
+-  [Fumadinha](202205_O-Retorno/20220521_Fumadinha.md)
 
 - 
 
@@ -106,9 +104,9 @@ Outros-Temas/
 ### M
  [🔠](#Index) 
 
--  [Muedigkeit-im-Gesundheitssystem](Outros-Temas/Muedigkeit-im-Gesundheitssystem.md)
+- [Muedigkeit-im-Gesundheitssystem](Outros-Temas/Muedigkeit-im-Gesundheitssystem.md)
 - 
-- [Lima-Madrid](Outros-Temas/Lima-Madrid.md)
+-  [Lima-Madrid](Outros-Temas/Lima-Madrid.md)
 
 
 ---
@@ -116,7 +114,7 @@ Outros-Temas/
  [🔠](#Index) 
 
 - 
-- [Nordbahntrasse_Neanderland-STEIG](Outros-Temas/Nordbahntrasse_Neanderland-STEIG.md)
+-  [Nordbahntrasse_Neanderland-STEIG](Outros-Temas/Nordbahntrasse_Neanderland-STEIG.md)
 - 
 - 
 
@@ -205,7 +203,6 @@ Outros-Temas/
 - 
 - 
 
-
 ---
 ### Z
  [🔠](#Index) 
@@ -214,5 +211,21 @@ Outros-Temas/
 
 ---
 
+<details>
+<summary>  </summary>
+
+🇬🇧 🇪🇸 🇵🇹 🇩🇪 
+
+</details>
+
+---
+
+**↪** 
+
+ 🔁 [Index_Dendrochronologie](Index_Dendrochronologie.md)
+
+**←** 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
+
+ ...→
 
 

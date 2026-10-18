@@ -1,4 +1,5 @@
 
+
 #### 🇩🇪  Ein krasser Gegensatz
 
 Ein krasser Gegensatz zwischen der **streng regulierten Bürokratie der Deutschen Bahn** und dem **völligen Mangel an Kontrolle bei Carris** in Lissabon, wo einfach nicht zertifizierte Kabel verlegt wurden. Ein weiterer Aspekt für einen **vergleichenden Kommentar*
@@ -6,7 +7,7 @@ Ein krasser Gegensatz zwischen der **streng regulierten Bürokratie der Deutsche
 <details>
 <summary>Ich sehe die Dinge anders</summary>
 
-Als ich am 10. Juni 2016 gegen 19:00 Uhr meinen Flug mit Iberia von Lima nach Madrid in einemA340-600 nehmen wollte und bereits eine Weile in der Schlange stand, wurde plötzlich durchgesagt, dass sich der Abflug bis Mitternacht verzögern würde. Viele Passagiere waren besorgt, verärgert oder empört. Ich hingegen blieb ruhig, obwohl mir klar war, dass ich meinen Anschlussflug nach Düsseldorf verpassen würde. So kam ich statt am Samstagabend erst am Sonntagabend nach Hause – und am Montag stand ich schon wieder stramm bei der Arbeit, genau wie auf dem Hinflug.
+Als ich am 10. Juni 2016 gegen 19:00 Uhr meinen Flug mit Iberia von Lima nach Madrid in einem A340-600 nehmen wollte und bereits eine Weile in der Schlange stand, wurde plötzlich durchgesagt, dass sich der Abflug bis Mitternacht verzögern würde. Einige Passagiere waren besorgtboder empört. Ich hingegen blieb ruhig, obwohl mir klar war, dass ich meinen Anschlussflug nach Düsseldorf verpassen würde. So kam ich statt am Samstagabend erst am Sonntagabend nach Hause – und am Montag stand ich schon wieder stramm bei der Arbeit, genau wie auf dem Hinflug.
 > 
 > Später erfuhr ich, dass bei dem A340-600, der uns abholen sollte, eine Warnleuchte aufgeleuchtet war. Iberia ließ die Maschine deshalb am Boden und wartete auf ein Ersatzflugzeug.
 > 
@@ -16,12 +17,12 @@ Als ich am 10. Juni 2016 gegen 19:00 Uhr meinen Flug mit Iberia von Lima nach Ma
 
 > Manchmal ärgere ich mich zwar auch, wenn ein Zug Verspätung hat, aber meistens bleibe ich gelassen. 
 
-
 **Das Wichtigste ist einfach, „am Sonntagabend gesund zu Hause anzukommen“.**
 
 </details>
 
 ---
+![](media01/02.jpg)
 
 ### 🇬🇧 A Harsh Contrast
 
@@ -30,9 +31,9 @@ A stark contrast between the **strictly regulated bureaucracy of Deutsche Bahn**
 <details>
 <summary>I see things differently</summary>
 
- On June 10, 2016, around 6:00 PM, I was waiting in line to board my Iberia flight from Lima to Madrid on anA340-600when it was announced that the departure would be delayed until around midnight. Many passengers were anxious, angry, and outraged. I stayed calm, even though I knew I would miss my connecting flight to Düsseldorf. Instead of getting home on Saturday evening, I didn't arrive until Sunday evening — and on Monday, I was straight back at work with no room to breathe, just like on the outbound flight.
+ On June 10, 2016, around 6:00 PM, I was waiting in line to board my Iberia flight from Lima to Madrid on an A340-600when it was announced that the departure would be delayed until around midnight. Some passengers were anxious, and outraged. I stayed calm, even though I knew I would miss my connecting flight to Düsseldorf. Instead of getting home on Saturday evening, I didn't arrive until Sunday evening — and on Monday, I was straight back at work with no room to breathe, just like on the outbound flight.
 > 
-> Later, I learned that a warning light had come on in theA340-600that was supposed to pick us up, which is why Iberia grounded the plane and waited for a replacement aircraft.
+> Later, I learned that a warning light had come on in the A340-600 that was supposed to pick us up, which is why Iberia grounded the plane and waited for a replacement aircraft.
 > 
 > I ended up having a pleasant flight with excellent service; I even treated myself to a small bottle of wine. When I landed and picked up my backpack, I felt completely at peace. But the moment I stepped into the arrival hall, I saw those damn ambulance-chasing lawyers with their business cards in hand, asking if we wanted to sue the airline.
 > 
@@ -45,6 +46,7 @@ A stark contrast between the **strictly regulated bureaucracy of Deutsche Bahn**
 </details>
 
 ---
+![](media01/521_Iberia-Airbus-A340-600.webp)
 
 #### 🇵🇹 Um contraste marcante
 
@@ -55,7 +57,7 @@ Um contraste gritante entre a **burocracia rigorosamente regulamentada da Deutsc
 
 Quando estava prestes a apanhar o meu voo da Iberia de Lima para Madrid num A340-600 , no dia 10 de junho de 2016 por volta das 19:00, e já me encontrava na fila há algum tempo, foi anunciado que a partida seria adiada para perto da meia-noite. 
 
-Muitos passageiros ficaram preocupados, zangados e indignados. Eu permaneci calmo, embora soubesse que iria perder a minha ligação para Düsseldorf. Em vez de chegar a casa no sábado à noite, só cheguei no domingo à noite — e na segunda-feira já estava a trabalhar sem qualquer margem de manobra, tal como tinha acontecido no voo de ida.
+Alguns passageiros ficaram preocupados e indignados. Eu permaneci calmo, embora soubesse que iria perder a minha ligação para Düsseldorf. Em vez de chegar a casa no sábado à noite, só cheguei no domingo à noite — e na segunda-feira já estava a trabalhar sem qualquer margem de manobra, tal como tinha acontecido no voo de ida.
 
 > Mais tarde, soube que uma luz de aviso tinha acendido no A340-600 que nos vinha buscar, razão pela qual a Iberia manteve o avião em terra e esperou por outra aeronave para efetuar o voo.
 > 
@@ -69,6 +71,8 @@ Muitos passageiros ficaram preocupados, zangados e indignados. Eu permaneci calm
 
 </details>
 
+![](media01/A340_600_5.webp)
+
 ---
 
 🇪🇸 Un contraste flagrante 
@@ -78,9 +82,9 @@ Un contraste flagrante entre la **burocracia estrictamente regulada de Deutsche 
 <details>
 <summary>Yo veo las cosas de manera diferente</summary>
 
-El 10 de junio de 2016, hacia las 19:00 horas, estaba en la cola para tomar mi vuelo de Iberia desde Lima a Madrid en unA340-600 cuando anunciaron que la salida se retrasaría hasta la medianoche. Muchos pasajeros se mostraron preocupados, enfadados e indignados. Yo mantuve la calma, a pesar de saber que perdería mi vuelo de conexión a Düsseldorf. En lugar de llegar a casa el sábado por la tarde, no lo hice hasta el domingo por la tarde, y el lunes ya estaba trabajando sin apenas margen, exactamente igual que en el viaje de ida.
+El 10 de junio de 2016, hacia las 19:00 horas, estaba en la cola para tomar mi vuelo de Iberia desde Lima a Madrid en un A340-600 cuando anunciaron que la salida se retrasaría hasta la medianoche. Algunos pasajeros se mostraron preocupados e indignados. Yo mantuve la calma, a pesar de saber que perdería mi vuelo de conexión a Düsseldorf. En lugar de llegar a casa el sábado por la tarde, no lo hice hasta el domingo por la tarde, y el lunes ya estaba trabajando sin apenas margen, exactamente igual que en el viaje de ida.
 
-> Más tarde me enteré de que se había encendido una luz de advertencia en elA340-600que debía recogernos, razón por la cual Iberia dejó ese avión en tierra y esperó a otra aeronave para llevarnos.
+> Más tarde me enteré de que se había encendido una luz de advertencia en el A340-600 que debía recogernos, razón por la cual Iberia dejó ese avión en tierra y esperó a otra aeronave para llevarnos.
 > 
 > Tuve un vuelo agradable y con un servicio excelente; incluso me di el capricho de una botellita de vino. Al aterrizar y recoger mi mochila, me sentía en paz conmigo mismo, pero en cuanto entré en el vestíbulo de llegadas, vi a esos malditos abogados picapleitos con sus tarjetas de visita en la mano, preguntando si queríamos demandar a la aerolínea.
 > 
@@ -92,9 +96,24 @@ El 10 de junio de 2016, hacia las 19:00 horas, estaba en la cola para tomar mi v
 
 </details>
 
+![](media01/adios-airbus-340-600-iberia-quito-ecuador.webp)
+
 ---
-**↪** 
+
+<details>
+<summary>  </summary>
+
+🇬🇧 🇪🇸 🇵🇹 🇩🇪 
+
+</details>
+
+---
+
+**↪** [Newcomer-by-Dark-Run](Newcomer-by-Dark-Run.md)
+
+**↪** [Pure-stress-and-incredibly-demotivating](Pure-stress-and-incredibly-demotivating.md)
 
  🔁 [Index](../Index.md)
+ 
  ...→
 

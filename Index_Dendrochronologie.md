@@ -7,59 +7,59 @@
 
 ---
 #### 1909
-[📅](#Ano]) 
+[📅](#Ano) 
 
- Meu avô paterno nasceu: [ YYYY](1909G08δ12Σ47J324Æ 📘M08-W32)
+ Meu avô paterno nasceu: `[ YYYY](1909G08δ12Σ47J324Æ 📘M08-W32)`
 
 ---
 #### 1945 
-[📅](#Ano]) 
+[📅](#Ano) 
 
 ---
 #### 1976
-[📅](#Ano])
+[📅](#Ano)
 
- Meu avô paterno morreu:  1909G08δ12Σ47J324Æ 📘M08-W32
+ Meu avô paterno morreu:  `1909G08δ12Σ47J324Æ 📘M08-W32`
  
 ---
 
 #### 2006
-[📅](#Ano])
+[📅](#Ano)
 #### 6. de Maio de 2006
 
 
 ---
 #### 2021
-[📅](#Ano])
+[📅](#Ano)
 
 `[[202201 Janeiro Chronologie)`
 
 
 #### 2022
-[📅](#Ano])
+[📅](#Ano)
 
 `[[202205 Maio Chronologie)`
 
 
 #### 2023
-[📅](#Ano])
+[📅](#Ano)
 
 
 ---
 
 #### 2024
-[📅](#Ano])
+[📅](#Ano)
 
 
 ---
 #### 2025
-[📅](#Ano])
+[📅](#Ano)
 
 ---
 
 
 #### 2026
-[📅](#Ano])
+[📅](#Ano)
 
 ```
 [[202601 Janeiro Chronologie)
@@ -78,4 +78,24 @@
 
 
 ```
+
+---
+
+<details>
+<summary>  </summary>
+
+🇬🇧 🇪🇸 🇵🇹 🇩🇪 
+
+</details>
+
+---
+
+**↪** 
+
+ 🔁 [Index](Index.md)
+
+**←** 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
+
+ ...→
+
 

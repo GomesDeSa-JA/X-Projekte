@@ -4,7 +4,7 @@
 
 Ich habe früher in einem Instandhaltungswerk der Deutschen Bahn in der Elektronikabteilung gearbeitet. Wir waren für die Prüfung und Reparatur von Elektronikmodulen der Steuerungs-, Regelungs- und Leittechnik zuständig.
 > 
-> Wie oft musste ich bei einer Reparatur feststellen, dass das defekte Bauteil gar nicht mehr auf dem Markt existierte. Nach den Zeitvorgaben, die noch aus der Mehdorn-Ära stammten, sollte der Austausch eines solchen Teils – das alte ablöten, das neue holen, einlöten, testen und dokumentieren – eigentlich nur etwa 5 bis 10 Minuten dauern.
+> Wie oft musste ich bei einer Reparatur feststellen, dass das defekte Bauteil gar nicht mehr auf dem Markt existierte. Nach den Zeitvorgaben, die noch aus der Mehdorn-Ära stammten, sollte der Austausch eines solchen Teils – das alte ablöten, das neue holen, einlöten, testen und dokumentieren – eigentlich nur etwa 5 bis 10 Minuten dauern. (Nur für einzelne Bauteile)
 > 
 > Was also tun? Dank meiner Ausbildung und praktischen Erfahrung hatte ich das nötige Fachwissen, um aus hunderten ähnlicher und kompatibler Bauteile eine Alternative auszuwählen. Ich wusste genau, welche dieser Komponenten, die auch in der Sicherheitstechnik zum Einsatz kommen, exakt dieselbe Funktion erfüllen würden.
 > 
@@ -31,8 +31,8 @@ Könntest du bitte nachfragen?
 <summary>🇵🇹 Podias perguntar, por favor?</summary>
 
  Trabalhei numa oficina de manutenção da Deutsche Bahn, no departamento de eletrónica. Éramos responsáveis pela verificação e reparação de módulos eletrónicos de tecnologia de controlo, comando e sinalização.
-> 
-> Quantas vezes, durante uma reparação, me deparei com o facto de a peça defeituosa já nem sequer existir no mercado. De acordo com os tempos padrão definidos há anos — ainda na era Mehdorn —, a substituição de uma peça destas (dessoldar a antiga, buscar a nova, soldar, testar e documentar) deveria demorar cerca de 5 a 10 minutos.
+
+> Quantas vezes, durante uma reparação, me deparei com o facto de a peça defeituosa já nem sequer existir no mercado. De acordo com os tempos padrão definidos há anos — ainda na era Mehdorn —, a substituição de uma peça destas (dessoldar a antiga, buscar a nova, soldar, testar e documentar) deveria demorar cerca de 5 a 10 minutos. (Apenas para uma peça)
 > 
 > O que fazer então? Graças à minha formação e experiência prática, eu tinha o conhecimento necessário para escolher uma alternativa entre centenas de componentes semelhantes e compatíveis à nossa disposição. Sabia perfeitamente que alguns desses componentes, também utilizados em sistemas de segurança, funcionariam exatamente da mesma forma.
 > 
@@ -58,7 +58,7 @@ Podias perguntar, por favor?
 
 Trabajé en un taller de mantenimiento de la Deutsche Bahn, en el departamento de electrónica. Nos encargábamos de la revisión y reparación de módulos electrónicos de tecnología de control, regulación y señalización.
 > 
-> Cuántas veces, al hacer una reparación, me encontré con que la pieza defectuosa ya ni siquiera existía en el mercado. Según los tiempos estándar fijados hace años —en la era Mehdorn—, el cambio de una pieza así (desoldar la vieja, buscar la nueva, soldarla, probarla y documentarlo) debía llevar entre 5 und 10 minutos.
+> Cuántas veces, al hacer una reparación, me encontré con que la pieza defectuosa ya ni siquiera existía en el mercado. Según los tiempos estándar fijados hace años —en la era Mehdorn—, el cambio de una pieza así (desoldar la vieja, buscar la nueva, soldarla, probarla y documentarlo) debía llevar entre 5 und 10 minutos. (Solo para una pieza)
 > 
 > ¿Qué hacíamos entonces? Gracias a mi formación y experiencia práctica, tenía los conocimientos necesarios para elegir una alternativa entre los cientos de componentes similares y compatibles que teníamos a mano. Sabía perfectamente que algunos de esos componentes, que también se usan en sistemas de seguridad, funcionarían exactamente igual.
 > 
@@ -84,7 +84,7 @@ Y luego siempre la misma pregunta: ¿qué pasa con esto o aquello? No lo sé.
 
 > I used to work in a Deutsche Bahn maintenance depot within the electronics department. We were responsible for testing and repairing electronic modules for control, regulation, and signaling technology.
 > 
-> How often did I find during a repair that the defective part no longer even existed on the market. According to the standard times established years ago — during the Mehdorn era — replacing such a part (desoldering the old one, fetching the new one, soldering it in, testing, and documenting) was supposed to take about 5 to 10 minutes.
+> How often did I find during a repair that the defective part no longer even existed on the market. According to the standard times established years ago — during the Mehdorn era — replacing such a part (desoldering the old one, fetching the new one, soldering it in, testing, and documenting) was supposed to take about 5 to 10 minutes. (For one piece only)
 > 
 > So what do you do? Thanks to both my training and practical experience, I had the technical know-how to select an alternative from hundreds of similar, compatible components available to us. I knew for a fact that some of these components, which are also used in safety-critical systems, would function exactly the same way.
 > 
@@ -109,5 +109,7 @@ Could you please ask?
 **↪** 
 
  🔁 [Index](../Index.md)
+
  ...→
-**←**
+
+

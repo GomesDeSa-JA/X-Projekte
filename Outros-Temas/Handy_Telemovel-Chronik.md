@@ -233,7 +233,10 @@ Para manter viva a memória destes dias cheios de peripécias, aqui ficam regist
 
 ---
 
+
+
 **↪** 
 
  🔁 [Index](../Index.md)
+ 
  ...→

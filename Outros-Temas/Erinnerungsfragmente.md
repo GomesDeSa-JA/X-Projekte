@@ -88,10 +88,7 @@ Os companheiros de viagem 👍 voltam a juntar-se mais tarde.
 
 <details>
 <summary>  </summary>
-🇬🇧
-🇪🇸
-🇵🇹
-🇩🇪
+🇬🇧 🇪🇸 🇵🇹 🇩🇪
 </details>
 
 ---

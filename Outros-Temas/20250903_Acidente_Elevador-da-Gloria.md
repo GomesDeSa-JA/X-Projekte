@@ -1,4 +1,6 @@
 
+
+
 <details>
 <summary>🇩🇪 Unfall  Elevador da Glória</summary>
 
@@ -89,4 +91,5 @@ El informe preliminar de la **GPIAAF** reveló que el accidente del **Elevador d
 **↪** [Pure-stress-and-incredibly-demotivating](Pure-stress-and-incredibly-demotivating.md)
 
  🔁 [Index](../Index.md)
+ 
  ...→

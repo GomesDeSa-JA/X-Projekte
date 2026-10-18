@@ -1,5 +1,5 @@
 
- #### 🇩🇪 Neuling bei Dunkel-Fahrt
+#### 🇩🇪 Neuling bei Dunkel-Fahrt
 
 <details>
 <summary>Dunkel-Fahrt</summary>
@@ -11,7 +11,6 @@
 </details>
 
 ---
-
 #### 🇵🇹 Recém-chegado numa circulação às escuras
 
 <details>
@@ -25,7 +24,7 @@ Trabalhei na Deutsche Bahn (os caminhos de ferro alemães). Certa vez, vi-me rod
 
 ---
 
-🇬🇧 Newcomer by "Dark Run"
+#### 🇬🇧 Newcomer by "Dark Run"
 
 <details>
 <summary>Dark Run</summary>
@@ -38,7 +37,7 @@ Trabalhei na Deutsche Bahn (os caminhos de ferro alemães). Certa vez, vi-me rod
 
 ---
 
- 🇪🇸 Recién llegado en una "Circulación a Oscuras"
+ #### 🇪🇸 Recién llegado en una "Circulación a Oscuras"
 
 <details>
 <summary>Circulación a Oscuras</summary>
@@ -49,19 +48,26 @@ Trabalhei na Deutsche Bahn (os caminhos de ferro alemães). Certa vez, vi-me rod
 
 </details>
 
+---
+
+<details>
+<summary>  </summary>
+
+🇬🇧 🇪🇸 🇵🇹 🇩🇪 
+
+</details>
 
 ---
+
+**↪** [20250903_Acidente_Elevador-da-Gloria](Outros-Temas/20250903_Acidente_Elevador-da-Gloria.md)
 
 **↪** [Lima-Madrid](Lima-Madrid.md)
 
-**↪**  [Pure-stress-and-incredibly-demotivating](Pure-stress-and-incredibly-demotivating.md)
+**↪**  [Pure-stress-and-incredibly-demotivating](Outros-Temas/Pure-stress-and-incredibly-demotivating.md)
 
----
 
-**↪** 
 
  🔁 [Index](../Index.md)
+ 
  ...→
-**←**
-
 
