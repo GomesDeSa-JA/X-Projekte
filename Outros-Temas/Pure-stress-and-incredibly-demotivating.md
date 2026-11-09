@@ -14,7 +14,7 @@ Ich habe früher in einem Instandhaltungswerk der Deutschen Bahn in der Elektron
 > 
 > Dieser muss nämlich erst alle technischen Spezifikationen prüfen, ein Angebot einholen und anschließend die Genehmigung der gesamten Dokumentation durch das Eisenbahn-Bundesamt erwirken. Alternativ muss er den jeweiligen Hersteller kontaktieren, um zu klären, ob ein zertifiziertes Ersatzteil existiert.
 > 
-> Aus den ursprünglichen 5 bis 10 Minuten wurden so schnell 5 bis 10 Monate. Ich habe mich zwar immer gefreut, wenn nach so langer Zeit endlich eine Lösung vorlag, aber viel zu oft musste ich eine Baugruppe letztlich unrepariert aussortieren – trotz der vielen Zeit, die ich schon investiert hatte. 
+> Aus den ursprünglichen 5 bis 10 Minuten wurden so schnell 5 bis 10 Monate. Ich habe mich zwar immer gefreut, wenn nach so langer Zeit endlich eine Lösung vorlag, aber  oft musste ich eine Baugruppe letztlich unrepariert aussortieren – trotz der vielen Zeit, die ich schon investiert hatte. 
 > 
 
 
@@ -42,7 +42,7 @@ Könntest du bitte nachfragen?
 > 
 > Isto porque ele precisa primeiro de verificar todas as especificações técnicas da peça, solicitar um orçamento e, depois, obter a aprovação de toda a documentação junto da Autoridade Ferroviária Federal (EBA). Ou então, tem de contactar o fabricante do equipamento para saber se já existe outra peça de substituição homologada.
 > 
-> Assim, o que seriam 5 a 10 minutos transformava-se em 5 a 10 meses. Ficava sempre contente quando, após tanto tempo, se encontrava finalmente uma solução, mas na maioria das vezes era obrigado a descartar o módulo após ter investido demasiado tempo nele. 
+> Assim, o que seriam 5 a 10 minutos transformava-se em 5 a 10 meses. Ficava sempre contente quando, após tanto tempo, se encontrava finalmente uma solução, mas na muitas das vezes era obrigado a descartar o módulo após ter investido demasiado tempo nele. 
 
 E depois sempre a mesma pergunta: o que se passa com isto ou aquilo? Não sei.
 Podias perguntar, por favor?
@@ -68,7 +68,7 @@ Trabajé en un taller de mantenimiento de la Deutsche Bahn, en el departamento d
 > 
 > Esto se debe a que primero él tiene que comprobar todas las especificaciones técnicas de la pieza, solicitar un presupuesto y, después, obtener la aprobación de toda la documentación por parte de la Autoridad Federal de Ferrocarriles (EBA). O bien, debe ponerse en contacto con el fabricante correspondiente para ver si ya existe otro repuesto homologado.
 > 
-> De este modo, lo que debían ser 5 o 10 minutos se convertía en 5 o 10 meses. Siempre me alegraba cuando, después de tanto tiempo, por fin se encontraba una solución, pero la mayoría de las veces tenía que descartar el módulo tras haber invertido demasiado tiempo en él. 
+> De este modo, lo que debían ser 5 o 10 minutos se convertía en 5 o 10 meses. Siempre me alegraba cuando, después de tanto tiempo, por fin se encontraba una solución, pero muchas de las veces tenía que descartar el módulo tras haber invertido demasiado tiempo en él. 
 
 Y luego siempre la misma pregunta: ¿qué pasa con esto o aquello? No lo sé.
 ¿Podrías preguntarlo, por favor?
@@ -94,7 +94,7 @@ Y luego siempre la misma pregunta: ¿qué pasa con esto o aquello? No lo sé.
 > 
 > This is because they first have to check all the technical specifications of the part, request a quote, and then obtain approval for all the documentation from the Federal Railway Authority (EBA). Alternatively, they must contact the manufacturer to see if a certified replacement part is already available.
 > 
-> And just like that, what should have been 5 to 10 minutes turned into 5 to 10 months. I was always glad when a solution was finally found after such a long time, but more often than not, I had to scrap the component after investing way too much time in it. 
+> And just like that, what should have been 5 to 10 minutes turned into 5 to 10 months. I was always glad when a solution was finally found after such a long time, but often , I had to scrap the component after investing way too much time in it. 
 
 
 And then it’s always the same question: What’s the matter with this or that? I don’t know.

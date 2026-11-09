@@ -56,7 +56,7 @@ Das GPIAAF stellte in seinem Bericht heraus, dass historische Transportmittel wi
 <summary>🇵🇹 Acidente Elevador da Glória</summary>
 
 
- Resumo do Relatório: Acidente Elevador da Glória
+ Resumo do Relatório: Acidente "Elevador da Glória"
 
 O relatório preliminar do **GPIAAF** revelou que o acidente com o **Elevador da Glória** foi causado por falhas graves de segurança: o **cabo de aço usado estava incorreto** (não certificado para transporte de passageiros), o **sistema de travagem de emergência falhou** completamente em parar a cabine na descida íngreme, e os **registos de manutenção foram falsificados** (inspeções documentadas que nunca existiram na realidade). Além disso, criticou-se a **falta de fiscalização pública independente** sobre os ascensores históricos da Carris. Como resultado, o veículo atingiu entre **41 e 49 km/h** antes de descarrilar e colidir contra um edifício.
 
@@ -86,7 +86,7 @@ El informe preliminar de la **GPIAAF** reveló que el accidente del **Elevador d
 
 ---
 
-**↪** [Newcomer-by-Dark-Run](Newcomer-by-Dark-Run.md)
+**↪** [Newcomer by Dark Run](Newcomer-by-Dark-Run.md)
 
 **↪** [Pure-stress-and-incredibly-demotivating](Pure-stress-and-incredibly-demotivating.md)
 

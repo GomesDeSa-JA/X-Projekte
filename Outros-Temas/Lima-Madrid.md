@@ -7,7 +7,7 @@ Ein krasser Gegensatz zwischen der **streng regulierten Bürokratie der Deutsche
 <details>
 <summary>Ich sehe die Dinge anders</summary>
 
-Als ich am 10. Juni 2016 gegen 19:00 Uhr meinen Flug mit Iberia von Lima nach Madrid in einem A340-600 nehmen wollte und bereits eine Weile in der Schlange stand, wurde plötzlich durchgesagt, dass sich der Abflug bis Mitternacht verzögern würde. Einige Passagiere waren besorgtboder empört. Ich hingegen blieb ruhig, obwohl mir klar war, dass ich meinen Anschlussflug nach Düsseldorf verpassen würde. So kam ich statt am Samstagabend erst am Sonntagabend nach Hause – und am Montag stand ich schon wieder stramm bei der Arbeit, genau wie auf dem Hinflug.
+Als ich am 10. Juni 2016 gegen 19:00 Uhr meinen Flug mit Iberia von Lima nach Madrid in einem A340-600 nehmen wollte und bereits eine Weile in der Schlange stand, wurde plötzlich durchgesagt, dass sich der Abflug bis Mitternacht verzögern würde. Einige Passagiere waren besorgt oder empört. Ich hingegen blieb ruhig, obwohl mir klar war, dass ich meinen Anschlussflug nach Düsseldorf verpassen würde. So kam ich statt am Samstagabend erst am Sonntagabend nach Hause – und am Montag stand ich schon wieder stramm bei der Arbeit, genau wie auf dem Hinflug.
 > 
 > Später erfuhr ich, dass bei dem A340-600, der uns abholen sollte, eine Warnleuchte aufgeleuchtet war. Iberia ließ die Maschine deshalb am Boden und wartete auf ein Ersatzflugzeug.
 > 
@@ -74,7 +74,6 @@ Alguns passageiros ficaram preocupados e indignados. Eu permaneci calmo, embora 
 ![](media01/A340_600_5.webp)
 
 ---
-
 🇪🇸 Un contraste flagrante 
 
 Un contraste flagrante entre la **burocracia estrictamente regulada de Deutsche Bahn** y la **total falta de control en Carris**, en Lisboa, donde simplemente se instalaron cables no certificados. Otro aspecto para un **comentario comparativo*

@@ -16,7 +16,9 @@
 <details>
 <summary>Circulação às escuras</summary>
 
-Trabalhei na Deutsche Bahn (os caminhos de ferro alemães). Certa vez, vi-me rodeado por uma equipa de inspetores da Autoridade Ferroviária Federal Alemã (EBA) e outros especialistas técnicos devido à ocorrência de uma chamada **"Dunkel-Fahrt" (circulação às escuras)** durante a noite. Uma "Dunkel-Fahrt" acontece, por exemplo, quando um comboio passa por uma passagem de nível e as barreiras não se fecham — muitas vezes sem que haja qualquer indício prévio de avaria técnica. Felizmente não aconteceu nada, mas o incidente teve de ser investigado. Uma das placas de circuito eletrónico fazia parte do sistema de monitorização técnica e um componente algures na cadeia de comando estava a falhar. Devo admitir que, apesar de ter várias pessoas a observar cada movimento meu, mantive a calma absoluta — provavelmente por conhecer todos os passos e estar totalmente familiarizado com os procedimentos de segurança e de trabalho. 
+Trabalhei na Deutsche Bahn (os caminhos de ferro alemães). Certa vez, vi-me rodeado por uma equipa de inspetores da Autoridade Ferroviária Federal Alemã (EBA) e outros especialistas técnicos devido à ocorrência de uma chamada **"Dunkel-Fahrt" (circulação às escuras)** durante a noite. Uma "Dunkel-Fahrt" acontece, por exemplo, quando um comboio passa por uma passagem de nível e as barreiras não se fecham — muitas vezes sem que haja qualquer indício prévio de avaria técnica. Felizmente não aconteceu nada, mas o incidente teve de ser investigado. Uma das placas de circuito eletrónico fazia parte do sistema de monitorização técnica e um componente algures na cadeia de comando estava a falhar. 
+
+Devo admitir que, apesar de ter várias pessoas a observar cada movimento meu, mantive a calma absoluta — provavelmente por conhecer todos os passos e estar totalmente familiarizado com os procedimentos de segurança e de trabalho.
 
 **Mas como teria eu reagido se tivesse ido para Lisboa trabalhar na Carris, sendo um recém-chegado que apenas precisava de substituir um cabo?**
 
@@ -59,13 +61,11 @@ Trabalhei na Deutsche Bahn (os caminhos de ferro alemães). Certa vez, vi-me rod
 
 ---
 
-**↪** [20250903_Acidente_Elevador-da-Gloria](Outros-Temas/20250903_Acidente_Elevador-da-Gloria.md)
+**↪** [20250903_Acidente_Elevador-da-Gloria](20250903_Acidente_Elevador-da-Gloria.md)
 
 **↪** [Lima-Madrid](Lima-Madrid.md)
 
-**↪**  [Pure-stress-and-incredibly-demotivating](Outros-Temas/Pure-stress-and-incredibly-demotivating.md)
-
-
+**↪**  [Pure-stress-and-incredibly-demotivating](Pure-stress-and-incredibly-demotivating.md)
 
  🔁 [Index](../Index.md)
  
