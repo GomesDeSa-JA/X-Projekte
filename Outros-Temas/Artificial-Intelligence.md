@@ -5,7 +5,6 @@
 
 **Es ist wichtig,** besonders aufmerksam zu sein und sicherzustellen, dass Ideen, Gedanken oder Erzählungen, die den Charakter einer Legende haben, nicht zu Fakten werden.
 
-
 > **Das weiß ich besser als jeder andere, denn ich habe dort gelebt.**
 
 Alle anderen, die nicht in Wuppertal geboren sind, werden immer nass, weil sie keinen Regenschirm dabei haben. Das ist ganz normal, es liegt ihnen einfach nicht im Blut.
@@ -16,7 +15,6 @@ Alle anderen, die nicht in Wuppertal geboren sind, werden immer nass, weil sie k
 **Nota:** Quando se interage com a IA para fazer perguntas, pesquisar determinados temas ou verificar memórias — como, por exemplo, pesquisar o horário de um determinado comboio do passado para testar a própria memória — e a IA indica, ao apresentar o resultado, que não encontrou informações, é possível, em determinadas circunstâncias, que a IA inclua então as memórias como factos. Ou, ao verificar uma ideia baseada numa determinada narrativa, como, por exemplo, **a ideia** **de que todas as pessoas nascidas em Wuppertal têm sempre um guarda-chuva à mão**, a IA incorpora essas informações nos textos.
 
 **É importante** estar particularmente atento e garantir que ideias, pensamentos ou narrativas que tenham o caráter de uma lenda não se transformem em factos.
-
 
 > **Eu sei disso melhor do que ninguém, porque já lá vivi.**
 

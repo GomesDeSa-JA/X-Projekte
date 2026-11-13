@@ -1,7 +1,6 @@
 Wie sah die wirtschaftliche Lage in Deutschland zwischen 2000 und 2007 aus?
 
 Die Wirtschaftslage in Deutschland durchlief im Zeitraum von 2000 bis 2007 eine spürbare Trendwende: Sie wandelte sich **von einer Phase der wirtschaftlichen Stagnation und Rekordarbeitslosigkeit hin zu einem kräftigen Aufschwung**. In dieser Ära festigte Deutschland zudem seine Rolle als globaler „Exportweltmeister“.
-Die Wirtschaftslage in Deutschland durchlief im Zeitraum von 2000 bis 2007 eine spürbare Trendwende: Sie wandelte sich von einer Phase der wirtschaftlichen Stagnation und Rekordarbeitslosigkeit hin zu einem kräftigen Aufschwung. In dieser Ära festigte Deutschland zudem seine Rolle als globaler „Exportweltmeister“.
 
 1. Phase (2000–2005): Stagnation und Krise („Der kranke Mann Europas“)
 
@@ -26,8 +25,6 @@ Jahr	BIP-Wachstum (real)	Arbeitslosenquote (ILO-Schätzung)
 2006	+3,9 %	10,3 %
 2007	+2,9 %	8,7 %
 
-Möchten Sie mehr darüber erfahren, welche Rolle die Agenda 2010 bei diesem Aufschwung spielte, oder interessieren Sie sich für die Auswirkungen der darauffolgenden Finanzkrise ab Ende 2007?
-
 
 Wie sah die wirtschaftliche Lage in Portugal zwischen 2000 und 2007 aus?
 
@@ -48,7 +45,6 @@ Nach dem tatsächlichen Übergang zum Euro geriet der private Konsum ins Stocken
 Analog zur restlichen Eurozone zog die portugiesische Wirtschaft dank der anziehenden Weltkonjunktur vorübergehend wieder an. [
 
 
-
 • Wachstum: Im Jahr 2007 wuchs das reale BIP wieder um immerhin 2,51 %.
 • Das Erbe der Krise: Trotz des Wachstums blieben die strukturellen Ungleichgewichte (wie das hohe Haushalts- und Leistungsbilanzdefizit) ungelöst. Die Arbeitslosigkeit stagnierte auf hohem Niveau und erreichte 2007 rund 7,97 %, was den Nährboden für die darauffolgende schwere Euro-Schuldenkrise ab 2008 ebnete. 
 
@@ -66,4 +62,3 @@ Jahr	BIP-Wachstum (real)	Arbeitslosenquote (ILO)	Inflation (Verbraucherpreise)
 2006	+1,63 %	7,65 %	3,11 %
 2007	+2,51 %	7,97 %	2,45 %
 
-Möchten Sie wissen, wie sich die Einführung des Euro im Detail auf Portugals Wettbewerbsfähigkeit ausgewirkt hat, oder interessiert Sie, wie das Land die darauffolgende Eurokrise (ab 2010) gemeistert hat?

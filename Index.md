@@ -31,11 +31,13 @@
 #### Caminhos
 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 
-**Obsidia Links**
+**Obsidia Links** 
+>*Internal links that don't work on GitHub*
+
 - ↪ [A-Promessa-Herdada](A-Promessa-Herdada.md)
 - ↪ [Caminho de Fatima ](Camino-del-Salvador/Caminhos-de-Fatima/2_Santiago_Fatima_2019/Caminho-de-Fatima_Etapas.md)
 - ↪ [Rota Carmelita](Fatima_Rota-Carmelita_Etapas.md)
-- 
+---
 - ↪ [Camino Francés ](Camino-Frances_Etapas.md)
 - ↪ [Camino Mozárabe](Camino_Mozarabe_Etapas.md)
 - ↪ [Camino de Levante](Camino-de-Levante_Etapas.md)
@@ -71,7 +73,7 @@
  [🔠](#Index) 
 
 
--  [Fumadinha](20220521_Fumadinha.md)
+-  [Fumadinha](202205_O-Retorno/20220521_Fumadinha.md)
 
 - 
 
@@ -150,9 +152,18 @@
 ### P
  [🔠](#Index) 
 
+-  
+- -
+---
+#### Processo Judicial
+
+-  [20230203_Rechnung-ohne-Rechtsberatung](20230203_Rechnung-ohne-Rechtsberatung.md)
 - 
+-   
+---
 - 
-- 
+-  
+
 
 ---
 ### Q

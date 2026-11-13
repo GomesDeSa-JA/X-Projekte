@@ -23,7 +23,6 @@ Als ich am 10. Juni 2016 gegen 19:00 Uhr meinen Flug mit Iberia von Lima nach Ma
 
 ---
 ![](media01/02.jpg)
-
 ### 🇬🇧 A Harsh Contrast
 
 A stark contrast between the **strictly regulated bureaucracy of Deutsche Bahn** and the **complete lack of oversight at Carris** in Lisbon, where uncertified cables were simply laid. Another point to consider in a **comparative commentary*
