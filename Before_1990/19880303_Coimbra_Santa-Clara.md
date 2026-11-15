@@ -1,4 +1,9 @@
 
-#### 1988-03-03-20 Coimbra santa Clara
+#### 1988-03-20 Coimbra santa Clara
 
-![](19880303-20_Coimbra_Santa-Clara.webp)
+![](Before_1990/media01/19880303-20_Coimbra_Santa-Clara.webp)
+
+
+
+
+[Index](../Index.md)

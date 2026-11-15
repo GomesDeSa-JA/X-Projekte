@@ -42,7 +42,7 @@ Könntest du bitte nachfragen?
 > 
 > Isto porque ele precisa primeiro de verificar todas as especificações técnicas da peça, solicitar um orçamento e, depois, obter a aprovação de toda a documentação junto da Autoridade Ferroviária Federal (EBA). Ou então, tem de contactar o fabricante do equipamento para saber se já existe outra peça de substituição homologada.
 > 
-> Assim, o que seriam 5 a 10 minutos transformava-se em 5 a 10 meses. Ficava sempre contente quando, após tanto tempo, se encontrava finalmente uma solução, mas na muitas das vezes era obrigado a descartar o módulo após ter investido demasiado tempo nele. 
+> Assim, o que seriam 5 a 10 minutos transformava-se em 5 a 10 meses. Ficava sempre contente quando, após tanto tempo, se encontrava finalmente uma solução, mas muitas das vezes era obrigado a descartar o módulo após ter investido demasiado tempo nele. 
 
 E depois sempre a mesma pergunta: o que se passa com isto ou aquilo? Não sei.
 Podias perguntar, por favor?
