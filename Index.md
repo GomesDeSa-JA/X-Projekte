@@ -6,8 +6,21 @@
 #### A
 [🔠](#Index) 
 
-- [Artificial-Intelligence](Outros-Temas/Artificial-Intelligence.md)
 - 
+- 
+
+---
+#### Advogada
+**Obsidia Links** 
+>*⚠️  Internal links that don't work on GitHub*
+>
+-  [20221007_Nelas](20221007_Nelas.md)
+- [20230203_Rechnung-ohne-Rechtsberatung](20230203_Rechnung-ohne-Rechtsberatung.md)
+-  [20230216_Viana-do-Castelo_Nelas](20230216_Viana-do-Castelo_Nelas.md)
+- 
+---
+
+- [Artificial-Intelligence](Outros-Temas/Artificial-Intelligence.md)
 
 ---
 ### B
@@ -27,17 +40,20 @@
 
 -  
 - 
-- 
+- [19880303_Coimbra_Santa-Clara](Before_1990/19880303_Coimbra_Santa-Clara.md)
+
+---
 #### Caminhos
+
 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 
 **Obsidia Links** 
->*Internal links that don't work on GitHub*
+>*⚠️  Internal links that don't work on GitHub*
 
 - ↪ [A-Promessa-Herdada](A-Promessa-Herdada.md)
 - ↪ [Caminho de Fatima ](Camino-del-Salvador/Caminhos-de-Fatima/2_Santiago_Fatima_2019/Caminho-de-Fatima_Etapas.md)
 - ↪ [Rota Carmelita](Fatima_Rota-Carmelita_Etapas.md)
----
+>
 - ↪ [Camino Francés ](Camino-Frances_Etapas.md)
 - ↪ [Camino Mozárabe](Camino_Mozarabe_Etapas.md)
 - ↪ [Camino de Levante](Camino-de-Levante_Etapas.md)
@@ -47,6 +63,10 @@
 - ↪ [Camino del Norte ](Jakobswege/07_Camino-del-Norte_2024/Camino-del-Norte_Etapas.md)
 - ↪ [Camino Inglés ](Camino-Ingles_Etapas.md)
 
+---
+
+-  
+-  
 - 
 
 ---
@@ -73,9 +93,9 @@
  [🔠](#Index) 
 
 
--  [Fumadinha](202205_O-Retorno/20220521_Fumadinha.md)
+-  [Fumadinha](20220521-19h00_Fumadinha.md)
 
-- 
+-  
 
 ---
 ### G – L
@@ -134,6 +154,7 @@
 ### N
  [🔠](#Index) 
 
+- [20011109_Nine-Eleven](Before_2010/20011109_Nine-Eleven.md)
 - 
 -  [Nordbahntrasse_Neanderland-STEIG](Outros-Temas/Nordbahntrasse_Neanderland-STEIG.md)
 - 
@@ -208,7 +229,7 @@
 ### V
  [🔠](#Index) 
 
-- 
+-  [20 anos: Muito mais que duas Semanas na Vida](Before_2000/20anos_Muito-mais-que-duas_Semanas_na_vida.md)
 
 - 
 

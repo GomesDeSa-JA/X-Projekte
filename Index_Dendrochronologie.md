@@ -22,9 +22,24 @@
  Meu avô paterno morreu:  `1909G08δ12Σ47J324Æ 📘M08-W32`
  
 ---
+
+#### 1988
+[📅](#Ano)
+
+- [19880303_Coimbra_Santa-Clara](Before_1990/19880303_Coimbra_Santa-Clara.md)
+
+---
+#### 1998
+[📅](#Ano)
+
+ [20 anos: Muito mais que duas Semanas na Vida](Before_2000/20anos_Muito-mais-que-duas_Semanas_na_vida.md)
+
+---
 #### 2006
 [📅](#Ano)
-#### 6. de Maio de 2006
+
+ 6 de Maio de 2006
+
 
 ---
 #### 2020

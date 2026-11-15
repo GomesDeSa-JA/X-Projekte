@@ -1,5 +1,4 @@
 
-
 ### 🇵🇹 Fatura sem avaliação jurídica
 
 ### 🇩🇪 Rechnung ohne Rechtsberatung
@@ -11,6 +10,17 @@
 
 ![](media01/20230203_DUC_702780085043338.jpeg)
 
+
+#### 20230601-Provisão de Honorários Proc 702-780-085-043-338.webp
+
+![](20230224-163021_Anwaltsprovision1.webp)
+
+![](20230224-163021_Anwaltsprovision2.webp)
+
+![](20230224-163021_Anwaltsprovision3.webp)
+
+![](20230601-Anwaltsprovision.webp)
+
 ---
 
 <details>
@@ -20,13 +30,22 @@
 
 ---
 
-**↪** [20220521_Fumadinha](../202205_O-Retorno/20220521_Fumadinha.md)
+**↪** [20220521-19h00_Fumadinha](../202205_O-Retorno/20220521-19h00_Fumadinha.md)
+
+**↪ [20221007_Nelas](20221007_Nelas.md)**
+
+**↪** [20230216_Viana-do-Castelo_Nelas](20230216_Viana-do-Castelo_Nelas.md)
+
+**↪**
+
 
 ---
 
 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 
+
 ---
+
 #### Obsidian-Link
 >*Internal links that don't work on GitHub*
 

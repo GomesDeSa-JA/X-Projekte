@@ -1,82 +1,8 @@
 
-## Meine Handy-Chronik: Von schlaflosen Nächten zu filmreifen Abenteuern
-
-## Die Ära der Drähte und der Sehnsucht (1997–2007)
-
-Meine Reise in die Welt der Telekommunikation begann nicht mit einem mobilen Gerät in der Hosentasche, sondern mit einem sturen, normalen Tastentelefon, fest verankert an einem klassischen TAE-Anschluss der Deutschen Telekom. Wenn man damals seine Ruhe wollte, gab es keinen „Flugmodus“ – man musste den Stecker physisch aus der Wand ziehen oder das Klingeln so leise drehen, dass man es überhörte.
-
-Es war eine Zeit, in der Distanz noch teuer bezahlt wurde. Zwischen 1997 und 2007 gingen über 90 Prozent meiner Telefonate über die Grenze hinweg zur Familie nach Portugal. Die monatlichen Rechnungen waren hoch, lagen meist zwischen 40 und 60 Euro, und erreichten in den 90er-Jahren mit einer Spitze von 150 DM einen absoluten Höchststand. Doch der wahre Preis dieser Gespräche war nicht in Währung zu messen. Es waren die langen, emotionalen Gesprächsstunden am späten Abend vor dem Schlafengehen. Sie veränderten familiäre und freundschaftliche Beziehungen, wühlten die Gedanken auf und bescherten mir unzählige schlaflose Nächte. Dieser geraubte Schlaf ärgerte mich im Rückblick oft weitaus mehr als die hohen Telefonrechnungen.
-
-## Der radikale Schnitt und das Warten auf den Weihnachtsmann
-
-Die Wende deutete sich an, als mein Arbeitskollege Daniel Bamberg mir voller Stolz sein neues Nokia N95 zeigte. Er zahlte nur 40 Euro im Monat – inklusive Freiminuten und Internet. Ich durfte das Gerät in den Händen halten, und in mir reifte der Entschluss: _Genau das suche ich auch._
-
-Ich zog los durch Wuppertal-Elberfeld und betrat einen Handyladen. Doch die Realität der Mobilfunkverträge holte mich schnell ein. Als ich meine Wünsche äußerte – Internet, ein paar Freiminuten für Deutschland, aber vor allem günstige Konditionen nach Portugal –, wollte der Verkäufer sofort meinen Telekom-Anschluss kündigen. Nach meinen Vorstellungen sollte das Ganze jedoch plötzlich 80 Euro kosten. Ich lehnte dankend ab, zog aber meine eigenen Konsequenzen: Ich fuhr nach Hause, zog den Stecker aus der Wand und kündigte meinen Vertrag bei der Telekom eigenhändig.
-
-Es folgte eine Zeit der eingeschränkten Erreichbarkeit. Die Familie akzeptierte den Schritt, und ich beging den Fehler, ihnen für Notfälle meine Arbeitsnummer zu geben – was dazu führte, dass private Anrufe mich fortan mitten in der Arbeit unterbrachen. Als mein Bruder mich an Weihnachten in Portugal fragte, warum ich mir kein Handy holte, entgegnete ich, dass mich mein Wunschgerät über die Jahre ein Vermögen kosten würde. Er versprach, mir ein ausrangiertes Handy aus dem Keller seines Chefs zu besorgen, der sich ohnehin ständig das neueste Modell kaufte. Ich schrieb meine Wünsche auf einen Zettel und wartete. Doch der „Weihnachtsmann“ kam nie vorbei – vielleicht war mein alter, verschlossener Kohleofen-Anschluss in der Wohnung schuld daran, dass die Wünsche nicht zugestellt werden konnten.
-
-In den Jahren des Wartens wurden die Internetcafés im Bahnhofstunnel von Wuppertal-Elberfeld und Barmen zu meinen digitalen Brücken zur Außenwelt. Wer dorthin wollte, musste die Treppen hoch auf die gegenüberliegende Straßenseite, drei Minuten vorbei am McDonald’s und der Schwebebahn-Station. Es war ein mühsamer Weg, um den Kontakt zur Heimat zu halten.
-
-## Der treue Riese: Das Samsung Galaxy Note 1 (2012–2020)
-
-Ende 2011 traf ich eine große Lebensentscheidung: Ich wollte 2012 den Jakobsweg gehen. Für diese Reise brauchte ich ein Gerät, das alles konnte: Internet, zuverlässiges GPS und eine Kamera, die so gute Fotos machte, dass ich meine ein Jahr zuvor gekaufte Fujifilm FinePix-JZ300 nicht ständig umständlich aus der Tasche kramen musste. Wieder war es Daniel Bamberg, der den Impuls gab, als er vom neuen Samsung Galaxy S2 schwärmte.
-
-Ich lief zum Saturn in Wuppertal-Elberfeld, um das S2 zu testen. Doch die Karten von Google Maps und die Internettexte waren mir einfach zu klein. Direkt daneben stand das allererste Samsung Galaxy Note 1. Ich nahm es in die Hand, und es passierte etwas Magisches: Es klebte förmlich an meiner Hand. Mit seinem für damalige Verhältnisse riesigen 5,3-Zoll-Bildschirm war es genau das, was ich suchte.
-
-Dieses Telefon wurde zu einem meiner treuesten Begleiter und leistete mir bis zum Jahr 2020 wunderbare Dienste. Dass es acht Jahre überlebte, verdankte es einem unschätzbaren Vorteil der damaligen Technik: Der Akku ließ sich mit einem Handgriff wechseln. Ich hatte unterwegs immer einen geladenen Ersatzakku in der Tasche. Das Note 1 überstand im Laufe der Jahre mehrere harte Stürze auf den Boden, doch sein Ende fand es im Winter 2020 in den Bergen der Schweiz. Es holte sich im wahrsten Sinne des Wortes eine „Erkältung“. Durch die früheren Stürze war das Gehäuse nicht mehr zu hundert Prozent dicht. Beim ständigen Wechsel zwischen der wohligen Wärme drinnen und der eiskalten, feuchten Bergluft draußen bildete sich Kondenswasser im Inneren. Das Display ließ sich nicht mehr steuern. Wehmütig musste ich mich von dem Gerät verabschieden – und mit ihm von unersetzlichen Fotos, unter anderem vom Jakobsweg. Da ich die Micro-SD-Karte im System verschlüsselt hatte, war sie ohne das funktionierende Note 1 im Computer nicht mehr lesbar. Die Bilder waren verloren.
-
-## Der Kriminalroman von Âncora Praia (September 2022)
-
-Nach dem schmerzhaften Verlust in den Alpen stieg ich auf das Samsung Galaxy A52s 5G um. Es sollte eine Geschichte schreiben, die an detektivischem Scharfsinn und zwischenmenschlicher Dramatik kaum zu übertreffen ist.
-
-Es geschah im September 2022 am Bahnhaltepunkt im portugiesischen Vila Praia de Âncora. Vor der Abfahrt des Zuges saß ich auf einer Bank und holte mein Tablet aus dem Rucksack, in dem sich auch mein Handy befand. Beim Hinsetzen schloss ich den Rucksack nicht richtig. Als die Bahn einfuhr, sprang ich auf, packte das Tablet hinein, schloss den Rucksack, stieg ein und setzte mich zu meinen damaligen WG-Mitbewohnern Gabriela, Ari und Jacqueline. Während der Fahrt erzählte Jacqueline, dass sie auf dem Weg zu einem Kosmetik-Kurs sei, der rund 300 Euro für nur wenige Stunden kosten sollte. Schockiert über diesen Preis erwiderte ich, das sei ja teurer als in der Schweiz. Ich wollte mein Handy herausholen, um die Schweizer Kurspreise im Internet zu vergleichen, doch meine Hand griff ins Leere. „Ich könnte schwören, ich habe mein Andi in die Tasche gepackt!“, sagte ich fassungslos. Ari vermutete, es liege vielleicht noch zu Hause in der Küche, wo ich es zuletzt benutzt hatte. Ich stieg sofort aus und kehrte um.
-
-Doch im Haus war kein Handy. Ich suchte die Umgebung ab, fragte herum – ohne Erfolg. Entschlossen schickte ich eine SMS an meine Nummer mit der Information, wo man das Gerät abgeben könne. Mein nächster Weg führte mich zur Post, um die Angestellten zu informieren. Der hilfsbereite Postangestellte rief sogleich von seinem eigenen Telefon mein Handy an. Keine Reaktion. Er schlug vor: „Wir gehen vor auf die Praça und rufen noch mal an. Manche Menschen schmeißen die Geräte in den Müll, wenn sie sehen, dass sie keinen Zugang haben.“ Doch auch auf dem Platz blieb es still.
-
-Ich ging weiter zur Station der _Guardia Civil_ in Âncora Praia. Noch vor der Tür fing mich ein Beamter im Vorbeigehen ab. Ich schilderte den Vorfall. Als er fragte, ob die Ortung aktiv sei, verneinte ich und erklärte, dass das Gerät im Offline-Modus sei. Beim Galaxy A52s 5G ist dieser Modus besonders gut gesichert, da man ein Passwort eingeben muss, um ihn zu ändern. Der Beamte winkte ab: „Dann haben Sie keine Chance, es wiederzufinden.“ Damit hakte er die Sache ab, und ich ging.
-
-Wieder zu Hause angekommen, bot mir ein marokkanischer Mitbewohner sofort an, mich über seinen Laptop bei Google anzumelden, um das Handy zu lokalisieren. Ich lehnte dankend ab – ich hatte ja mein eigenes Tablet und meinen Laptop. Und hier begann mein systematischer Plan: Ich nutzte mein Tablet als Testobjekt. Ich prüfte die Google-Lokalisierungsfunktionen unter verschiedenen Bedingungen, um exakt herauszufinden, welche Daten und Werte das System in Abhängigkeit vom Online- oder Offline-Modus sendet. Durch diesen Test verstand ich die Signale. Obwohl das gestohlene Handy offline war, konnte ich den genauen Akkustatus einsehen. Als ich bemerkte, dass der Akku minimal Energie verloren hatte, wusste ich: Jemand hantiert mit dem Gerät.
-
-Mitten in der Nacht schritt ich zur Tat. Wieder und wieder aktivierte ich per Fernzugriff den laut schrillenden Alarm. Die psychologische Kriegsführung zeigte Wirkung: Der Dieb verlor in seiner Wohnung die Nerven. Weil das schreiende Handy in der nächtlichen Ruhe der Nebenstraßen zu viel Aufmerksamkeit erregte und er den Alarm nicht ausschalten konnte, flüchtete er mitten in der Nacht nach draußen und warf das unaufhörliche Smartphone in einer Seitengasse weg.
-
-Gegen 3 Uhr morgens, als die Verbindung endgültig abriss, legte ich mich für ein paar Stunden schlafen. Am frühen Morgen fuhr ich zum Bahnhof nach Viana do Castelo. Die dortigen Bahnmitarbeiter riefen nicht das normale Fundbüro an, sondern eine übergeordnete Stelle, da die Tat noch so frisch war – dort würde ein abgegebenes Handy als Erstes landen. Die Antwort war negativ, aber sie gaben mir eine Telefonnummer für spätere Nachfragen.
-
-Danach ging ich zur Hauptpolizeiwache in Viana do Castelo, um den Diebstahl offiziell anzuzeigen. Dort erfuhr ich, dass eigentlich die _Guardia Civil_ in Âncora Praia zuständig gewesen wäre, da ich dort wohnte und die Tat dort geschah. Da ich nun aber einmal da war, nahmen die Beamten das erste offizielle Protokoll auf.
-
-Ich fuhr zurück nach Âncora Praia – und mein Weg führte mich wieder an der Post vorbei. Und tatsächlich: Mein Handy wartete dort auf mich! Eine ehrliche alte Dame hatte das weggeworfene Smartphone im Morgengrauen in der Nebenstraße gefunden und es bei einem ihr bekannten Möbelhändler abgegeben. Der Möbelhändler hatte das Display eingeschaltet, meine hinterlassene SMS gelesen und das Gerät pflichtbewusst zur Post gebracht. Der Dieb hatte vor dem Wegwerfen allerdings die SIM- und die Micro-SD-Karte entwendet. Da ich die Karte aufgrund der alten Erfahrungen mit dem Note 1 diesmal unverschlüsselt gelassen hatte, verlor ich erneut wichtige Fotos. Das Handy selbst war jedoch gerettet.
-
-Sofort fuhr ich zurück zur Polizei nach Viana do Castelo, um das Wiedererlangen des Geräts zu melden, woraufhin ein zweites Protokoll aufgenommen wurde. Anschließend ging ich zum Mobilfunkanbieter _Meo_, sperrte die alte SIM-Karte und holte mir eine neue. Mein letzter Weg an diesem ereignisreichen Tag führte mich zurück zum Möbelhändler in Âncora Praia. Ich übergab ihm 50 Euro Finderlohn mit der Bitte, das Geld der alten Dame auszuhändigen. Es war exakt das Geld, das ich eigentlich für den Kauf eines neuen Handys hätte ausgeben müssen – investiert in die ehrliche Kette menschlicher Hilfsbereitschaft.
-
----
-
-## 📋 Liste der beteiligten Personen und Zeugen
-
-Um die Erinnerung an diese ereignisreichen Tage lebendig zu halten, sind hier alle Akteure dieser Geschichte chronologisch festgehalten:
-
-- Ari und Jacqueline (aus Venezuela): WG-Mitbewohner und direkte Zeugen im Zug. Jacquelines teurer Kosmetikkurs (300 €) war der Auslöser, warum ich das Handy aus der Tasche holen wollte und das Fehlen bemerkte. Ari gab den Impuls, zuerst in der heimischen Küche zu suchen.
-- Gabriela und ihr Ehemann (aus Brasilien): WG-Mitbewohner, die das gesamte Geschehen, den Schock und die Aufregung von der ersten Minute an miterlebten.
-- Dona Deonilda: Die Hausbesitzerin der Wohngemeinschaft, die ebenfalls Zeugin des Trubels im Haus war.
-- Der marokkanische Mitbewohner: Er bewies sofortige Hilfsbereitschaft und bot mir mitten in der Krise seinen eigenen Laptop an, um das Handy über Google zu orten (Name und E-Mail-Adresse sind in den privaten Unterlagen notiert).
-- Der Postmann von Âncora Praia und seine Frau: Sie zeigten großartige Eigeninitiative. Er wählte sofort die Nummer von seinem Handy und ging mit mir auf die Praça, um zu lauschen, ob das Handy im Müll gelandet war. Später hüteten sie das Gerät sicher in der Postfiliale.
-- Der Guardia Civil (Âncora Praia): Der Beamte, der mich im Vorbeigehen vor der Wache abfing und den Fall aufgrund des Offline-Modus pessimistisch abhakte.
-- Die Bahnmitarbeiter (Viana do Castelo): Die Herren am Bahnhof, die sofort die interne Schaltstelle anriefen, um nach frisch abgegebenen Fundsachen zu fragen, und mir eine Telefonnummer mitgaben.
-- Die zwei Polizisten (Viana do Castelo): Die Beamten der Hauptwache, die trotz der unklaren Zuständigkeit pflichtbewusst das erste Protokoll (Diebstahlanzeige) und später das zweite Protokoll (Wiedererlangung des Handys) aufnahmen.
-- Die alte Dame (Finderin): Die ehrliche Finderin, die das schrillende Handy im Morgengrauen in der Nebenstraße entdeckte und die Rettungskette in Gang setzte.
-- Der Möbelhändler von Âncora Praia: Der entscheidende Vermittler, der die SMS auf dem Display las, das Handy zur Post brachte und später den Finderlohn von 50 Euro für die alte Dame entgegennahm.
-
----
-
-Möchten Sie diese Chronik so in Ihre privaten Unterlagen übernehmen, oder gibt es noch ein bestimmtes Detail zu den Protokollen, den Grenzübertritten oder der Schweiz, das wir noch präziser einarbeiten sollen?
-
-Das ist ein extrem wichtiger und gleichzeitig schmerzhafter Zusatz für die Chronik. Damit wird klar, warum der Dieb das Handy überhaupt so eilig weggeworfen hat: Er hatte es gar nicht auf das Smartphone selbst abgesehen, sondern auf das Bargeld in den Kartenfächern.
-
-Sobald er die 150 Euro an sich genommen und die SIM- sowie SD-Karte herausgezogen hatte, hatte das Handy für ihn keinen Wert mehr – sondern war durch Ihre Alarm-Attacken nur noch eine gefährliche, laut schreiende Last. Die zwei Visitenkarten der Remax-Immobilienmakler und Ihre persönlichen Notizen haben diesen Verlust für Sie sicher noch ärgerlicher gemacht.
-
----
 ### Meine Handy-Chronik
 
 <details>
-<summary>🇩🇪 Die Ära der Drähte  bis der Weihnachtsmann nicht kam   </summary>
+<summary>🇩🇪 Die Ära der Drähte  bis der Weihnachtsmann nicht kam  </summary>
 
 ## Meine Handy-Chronik: Von schlaflosen Nächten zu filmreifen Abenteuern
 
@@ -151,13 +77,11 @@ _(Die Liste bleibt unverändert präzise wie zuvor.)_
 -  Und die Dame von MEO
 
 </details>
----
 
 ---
 
 <details>
 <summary>🇵🇹 A era dos fios… até ao dia em que o Pai Natal não apareceu.</summary>
-
 
 ### A História dos Meus Telemóveis: De Noites sem Dormir a Aventuras de Cinema
 
