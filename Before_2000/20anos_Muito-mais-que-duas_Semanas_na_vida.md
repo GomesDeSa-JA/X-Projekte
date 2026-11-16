@@ -1,4 +1,9 @@
-19980529_19980612_Mais-que-duas_Semanas_na_vida
+
+> Muitos temas que ainda vou completar, reestruturar e subdividir 
+
+> Viele Themen, die ich noch vervollständigen, neu strukturieren und unterteilen werde 
+
+
 ## 🇵🇹 20 anos 
 
 Durante cerca de 20 anos, falavam sempre em visitar Portugal, mas como não dominavam a língua e, nas aldeias rurais, praticamente não havia infraestruturas turísticas, o dia em que pudessem fazê-lo simplesmente nunca chegou.
@@ -6,7 +11,8 @@ Um dia, elaborei um plano juntamente com eles e garanti que o levassem a cabo.
 
 **..., ... .** 
 
-![](19980601_08-Anni-Hubert_em-Vila-Boa-Fonte-do-Fundo-do-povo-com-Boby-e-Tonecas.webp)
+![](media01/19980601_08-Anni-Hubert_em-Vila-Boa-Fonte-do-Fundo-do-povo-com-Boby-e-Tonecas.webp)
+
 ## 🇩🇪 20 Jahre 
 
 Etwa 20 Jahre lang sprachen sie immer davon, Portugal zu besuchen, aber da sie die Sprache nicht beherrschten und es in den ländlichen Dörfern praktisch keine touristische Infrastruktur gab, kam der Tag, an dem sie dies tun konnten, einfach nie.
@@ -30,15 +36,10 @@ Als mein Vater nach Portugal ging, war er fest entschlossen, diese Tradition for
 
 Nas poucas conversas que tive com ele, contou-me muito sobre o aldeia de antigamente e uma  anedota sobre os mal-entendidos entre as culturas do seu tempo de trabalho na França.
 
-Depois do trabalho uma cerveijinha fresquinha e ao almoço ou jantar um bom vinho frances lá da quinta, mas como explicar isso aos italianos.  Passou toda a temporada a beber cerveja. 
+E assim, durante toda a época, só bebeu cerveja.
 
 Nas poucas conversas que tive com ele, contou-me muito sobre o aldeia de antigamente e uma anedota sobre os mal-entendidos culturais durante o tempo em que trabalhou em França.
 
-**..., ... .** 
-
-Depois do trabalho, uma cerveja gelada e, ao almoço ou ao jantar, um bom vinho francês da adega – mas como explicar isso aos italianos? 
-
-E assim, durante toda a época, só bebeu cerveja.
 
 **..., ... .** 
 
@@ -54,7 +55,9 @@ Und so trank er die ganze Saison über nur Bier
 ---
 ### Expo98
 
-..., ... 
+**..., ... .**  
+
+**..., ... .**
 
 ---
 
@@ -86,6 +89,7 @@ Como havia uma greve e na sexta-feira eu …, … .
 #### À distancia tudo é diferente
 
 A minha tia Cacilda, que morreu (20xx? ) de cancro — creio que ainda antes de completar sessenta anos —, disse, depois de ter conversado com alguns membros da família: «Só isto? Para ti, devia ter sido muito,  muito mais  mais.» 
+
 **..., ... .** 
 
 Sempre foi menos , e não sei por que razão pensam que deveria ser muito, muito mais.
@@ -142,13 +146,20 @@ Como dispunha de poupanças e possuía uma casa em Portugal, isso já era sufici
 
 #### **Informações sobre a(s) casa(s)**
 
-**A casa á esquerda  onde vivem tem 15 m x10 m. 
+### A casa à esquerda
 
-**Notas:** Nos últimos anos, não foram feitos investimentos na casa e muitas obras ficaram por concluir. Quem herdar a(s) casa(s) tem, portanto, de investir, pelo menos, 50 000 euros; e para a tornar verdadeiramente confortável, serão necessários mais alguns  euros.
+**A casa á esquerda**  onde vivem tem 15 m x 10 m. 
+
+**Notas:** Nos últimos anos, não foram feitos investimentos na casa e muitas obras ficaram por concluir. Quem herdar a casa  tem, portanto, de investir, pelo menos, 50 000 euros; e para a tornar verdadeiramente confortável, serão necessários mais alguns  euros.
+
 
 ---
+
+### A casa à direita
+
+
 <details>
-<summary>?</summary>
+<summary>Casa à direita?</summary>
 
 <details>
 <summary>Desde 1983 não foi feito nada</summary>
@@ -158,21 +169,21 @@ Gostaria apenas de obter um orçamento geral, sem detalhes precisos, para tornar
 **A casa do lado direito**  tem uma área útil de 15 m × 10 m e dispõe apenas de paredes de tijolo, que estão «tortas na escadaria interior», bem como portas exteriores e janelas danificadas «feitas de material de baixa qualidade dos anos 80» – mais nada. Tudo tem de ser renovado. Instalações elétricas e sanitárias
 
 Distribuição da casa:
-1 sala de estar
-1 sala no sótão
-3 quartos no primeiro andar
-2 quartos no sótão
-1 casa de banho grande no primeiro andar
-1 casa de banho pequena no sótão
-2 portas exteriores principais
-2 portas exteriores para a sala de estar
-13 portas interiores
-9 janelas normais
-2 janelas na casa de banho, que têm a mesma largura que 
-as janelas normais, mas são menos altas.
-3 janelas de sótão 
-2 portas grandes de garagem no rés-do-chão
-2 portas normais no rés-do-chão para a arrecadação.
+- 1 sala de estar
+- 1 sala no sótão
+- 3 quartos no primeiro andar
+- 2 quartos no sótão
+- 1 casa de banho grande no primeiro andar
+- 1 casa de banho pequena no sótão
+- 2 portas exteriores principais
+- 2 portas exteriores para a sala de estar
+- 13-14  portas interiores
+- 9 janelas normais
+- 2 janelas na casa de banho, que têm a mesma largura que 
+- as janelas normais, mas são menos altas.
+- 3 janelas de sótão "telhado" 
+- 2 portas grandes de garagem no rés-do-chão
+- 2 portas normais no rés-do-chão para a arrecadação.
 
 Para tornar essa casa totalmente habitável partindo do estado em bruto (apenas paredes de tijolo, com necessidade de reboco, pavimentos, instalações e caixilharias novas), deve prever um **orçamento geral entre 180.000 € e 280.000 € (com IVA incluído)**, dependendo do nível de acabamentos escolhidos e da região de Portugal.
 
@@ -243,7 +254,7 @@ Notas Importantes para a Região de Sátão
 ---
 
 <details>
-<summary>1109</summary>
+<summary>Um-buraco-sem-fim</summary>
 
 Quem ficar com a casa terá de assumir, para além do pagamento das tornas (as partes dos restantes cinco herdeiros), um investimento elevado em obras antes de o imóvel ter valor de mercado ou habitabilidade. Na prática, esse custo de reabilitação deve ser descontado do valor teórico que a casa teria se estivesse pronta a habitar em Sátão.
 
@@ -329,6 +340,9 @@ Argumento-Chave para a Reunião de Herdeiros
 ---
 
 <details>
+
+### A casa à esquerda
+
 <summary>Orçamento para a casa à esquerda e faltam as janelas, telhodo e etc</summary>
 
 Für einen kompletten Satz aus **9 Fensterrollläden und 2 Türrollläden** (insgesamt 11 Elemente) inklusive Lieferung und Montage in Portugal solltest du je nach Material und Antrieb mit Gesamtkosten von **ca. 2.500 € bis 5.800 € (inkl. 23 % IVA)**rechnen.
@@ -386,6 +400,7 @@ Damals, in den 80er Jahren, mitten in der Wirtschaftskrise, erhielten diejenigen
 600.000 Contos = 2.000 Arbeitstage à 300 Escudos pro Tag = etwa 9 Jahre Arbeit bei etwa 230 Arbeitstagen pro Jahr.
 
 > So haben die Leute damals gerechnet, und wer in den 90er Jahren seine gesamte Rente bei einer Bank in Portugal angelegt hatte, begann, seine frühere Kaufkraft zu verlieren.
+
 
 </details>
 

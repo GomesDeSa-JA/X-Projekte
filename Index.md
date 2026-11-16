@@ -119,6 +119,10 @@
 ---
 ### I
  [🔠](#Index) 
+ 
+
+
+- 
 
 
 ---
@@ -126,6 +130,8 @@
  [🔠](#Index) 
 
 -  [Jakobsweg 🥾](#Caminhos)
+- 
+-  [Juizes_D_E_vs_PT](202210-202506_O-Processo/Richter_D_E_vs_PT.md)
 - 
 
 ---
@@ -158,7 +164,9 @@
 - 
 -  [Nordbahntrasse_Neanderland-STEIG](Outros-Temas/Nordbahntrasse_Neanderland-STEIG.md)
 - 
-- 
+-   [Horacio Coimbra Rodrigues](202210-202506_O-Processo/Infos_Horacio-Coimbra-Rodrigues.md)
+>Um  de muitos casos estranhos no processo
+
 
 ---
 ### O
@@ -174,13 +182,13 @@
  [🔠](#Index) 
 
 -  
-- -
+- 
 ---
 #### Processo Judicial
 
--  [20230203_Rechnung-ohne-Rechtsberatung](20230203_Rechnung-ohne-Rechtsberatung.md)
+-  [20230203_Rechnung-ohne-Rechtsberatung](202210-202506_O-Processo/20230203_Rechnung-ohne-Rechtsberatung.md)
 - 
--   
+-  
 ---
 - 
 -  
@@ -198,8 +206,9 @@
 ### R
  [🔠](#Index) 
 
-- 
-- 
+-  
+-  
+-  [Richter_D_E_vs_PT](202210-202506_O-Processo/Richter_D_E_vs_PT.md)
 - 
 
 ---

@@ -226,15 +226,12 @@ At 11:59, my break was over, and I returned to work.
 
 ---
 
-
 <details>
 <summary>EAA</summary>
-
 
 ### Baugruppen des Achszählers 65** 
 
 ![](media/03-03.webp)
-
 
 - **Ein- und Ausgabe (EA).** Die Baugruppe empfing die Impulse der Zählpunkte von draußen und gab das Ergebnis als sicheres Signal an das Stellwerk weiter.
 - **Achszähler (A).** Durch das angehängte „A“ ließ sich die Baugruppe im Relaisschrank sofort eindeutig dem Achszählsystem zuordnen und von anderen Ein- und Ausgabebaugruppen (etwa für Weichen oder Signale) unterscheiden.
