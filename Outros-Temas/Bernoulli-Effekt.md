@@ -39,5 +39,15 @@ Dass dies auf einer Brücke ein fataler Irrtum ist, liegt an einer Kombination l
 **↪** 
 
  🔁 [Index](../Index.md)
- 
+
+---
+#### Obsidian-Links
+>*Internal links that don't work on GitHub*
+
+↪ [Readme](Jakobswege/Readme.md) 
+
+↪ [Os Caminhos](Os_Caminhos.md)
+
+↪ [Index](Index.md)
+
  ...→

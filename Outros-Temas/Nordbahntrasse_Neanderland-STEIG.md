@@ -64,5 +64,14 @@ Die Strecke von deinem alten Wohnort Langerfeld nach Gruiten markiert zudem eine
 
  🔁 [Index](../Index.md)
 
+#### Obsidian-Links
+>*Internal links that don't work on GitHub*
+
+↪ [Readme](Jakobswege/Readme.md) 
+
+↪ [Os Caminhos](Os_Caminhos.md)
+
+↪ [Index](Index.md)
+
  ...→
 

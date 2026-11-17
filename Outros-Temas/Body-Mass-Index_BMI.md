@@ -262,6 +262,18 @@ Since you mentioned that you rarely go to the doctor these days: is there a part
 
  🔁 [Index](../Index.md)
 
-**←** 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
+🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 
- ...→
+
+---
+#### Obsidian-Link
+>*Internal links that don't work on GitHub*
+
+↪ [Readme](Jakobswege/Readme.md) 
+
+↪ [Os_Caminhos](Os_Caminhos.md)
+
+↪ [Index](Index.md)
+
+ **...→**
+

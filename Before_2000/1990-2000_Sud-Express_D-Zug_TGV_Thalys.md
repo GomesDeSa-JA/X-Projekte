@@ -11,7 +11,6 @@
 ![](1997-1998_Köln_Paris-Nord.webp)
 
 
-
 ---
 ### Paris → Lisboa
 
@@ -69,7 +68,7 @@ Im Januar 1990 fuhr ich zum ersten Mal mit dem D-Zug von Paris-Nord nach Köln, 
 ![](19970601-19980523_Paris-Nord_Köln.webp)
 
 **Sul-Expresso:**  Mangualde: 21h38  **→** Hendaye: 9h04
-**TGV:** Hendaye : 09h36 **→** Montpaenasse: 15h00
+**TGV:** Hendaye : 09h36  **→**  Paris-Montpaenasse: 15h00
 **Metro:** → Paris-Nord
 **Thalys:** Paris-Nord: 16h55 → Köln: 20h55 → Wuppertal-Oberbarmen→Wpt-Langerfeld 
 **RB48:** Köln: ca.22h00 → Wuppertal-Oberbarmen→Wpt-Langerfeld 

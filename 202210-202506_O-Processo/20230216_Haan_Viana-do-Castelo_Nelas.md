@@ -2,12 +2,14 @@
 
 #### 2023 Febreiro
 
+Düsseldorf →  Braga "ou  Coimbra"  –greve na CP, segui – → Porto → Viana do Castelo       
+
 
 ![](20230212-1800-Redeexpresso_Porto_Viana-do-Castelo.webp)
 
 
 
-[20221007_Nelas](20221007_Nelas.md)
+[20221007_Vila-Praia-de-Ancora_Nelas](20221007_Vila-Praia-de-Ancora_Nelas.md)
 
 [20230203_Rechnung-ohne-Rechtsberatung](20230203_Rechnung-ohne-Rechtsberatung.md)
 

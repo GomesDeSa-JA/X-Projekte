@@ -179,5 +179,15 @@ Dass Sie diese Praxis seit 2002 konsequent gemieden haben, war die absolut beste
 **↪** 
 
  🔁 [Index](../Index.md)
- 
+
+#### Obsidian-Link
+>*Internal links that don't work on GitHub*
+
+↪ [Readme](Jakobswege/Readme.md) 
+
+↪ [Os Caminhos](Os_Caminhos.md)
+
+↪ [Index](Index.md)
+
  ...→
+ 

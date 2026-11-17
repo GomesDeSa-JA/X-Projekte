@@ -14,9 +14,9 @@
 **Obsidia Links** 
 >*⚠️  Internal links that don't work on GitHub*
 >
--  [20221007_Nelas](20221007_Nelas.md)
+-  [20221007_Vila-Praia-de-Ancora_Nelas](20221007_Vila-Praia-de-Ancora_Nelas.md)
 - [20230203_Rechnung-ohne-Rechtsberatung](20230203_Rechnung-ohne-Rechtsberatung.md)
--  [20230216_Viana-do-Castelo_Nelas](20230216_Viana-do-Castelo_Nelas.md)
+-  [20230216_Haan_Viana-do-Castelo_Nelas](20230216_Haan_Viana-do-Castelo_Nelas.md)
 - 
 ---
 
@@ -93,9 +93,10 @@
  [🔠](#Index) 
 
 
--  [Fumadinha](20220521-19h00_Fumadinha.md)
+-  [Fumadinha](202205_O-Retorno/20220521-19h00_Fumadinha.md)
 
--  
+-  [Fátima](Before_2010/20200512_Fatima.md)
+- 
 
 ---
 ### G – L
@@ -131,7 +132,7 @@
 
 -  [Jakobsweg 🥾](#Caminhos)
 - 
--  [Juizes_D_E_vs_PT](202210-202506_O-Processo/Richter_D_E_vs_PT.md)
+-  [Juizes  🇩🇪 vs 🇵🇹](Outros-Temas/Richter_DE_vs_PT.md)
 - 
 
 ---
@@ -181,7 +182,9 @@
 ### P
  [🔠](#Index) 
 
--  
+-  [Praia-Ancora –Termin– ver Quarto ](202205_O-Retorno/Vila-Praia-deAncora/20220904_Praia-Ancora_Termin_ver-um-Quarto.md)
+- 
+- [Perdido em Seixas](202205_O-Retorno/Minho/20220901_Perdido-em-Seixas_Minho)
 - 
 ---
 #### Processo Judicial
@@ -208,7 +211,7 @@
 
 -  
 -  
--  [Richter_D_E_vs_PT](202210-202506_O-Processo/Richter_D_E_vs_PT.md)
+-  [Richter 🇩🇪 vs 🇵🇹](Outros-Temas/Richter_DE_vs_PT.md)
 - 
 
 ---

@@ -62,3 +62,14 @@ Jahr	BIP-Wachstum (real)	Arbeitslosenquote (ILO)	Inflation (Verbraucherpreise)
 2006	+1,63 %	7,65 %	3,11 %
 2007	+2,51 %	7,97 %	2,45 %
 
+---
+#### Obsidian-Links
+>*Internal links that don't work on GitHub*
+
+↪ [Readme](Jakobswege/Readme.md) 
+
+↪ [Os Caminhos](Os_Caminhos.md)
+
+↪ [Index](Index.md)
+
+ ...→

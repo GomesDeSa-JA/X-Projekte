@@ -97,6 +97,17 @@ Os companheiros de viagem 👍 voltam a juntar-se mais tarde.
 
  🔁 [Index](../Index.md)
 
-**←** 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
+🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
+
+
+#### Obsidian-Links
+>*Internal links that don't work on GitHub*
+
+↪ [Readme](Jakobswege/Readme.md) 
+
+↪ [Os Caminhos](Os_Caminhos.md)
+
+↪ [Index](Index.md)
+
 
  ...→

@@ -8,10 +8,15 @@
 ### 🇪🇸 Factura sin asesoramiento jurídico
 
 
-![](media01/20230203_DUC_702780085043338.jpeg)
+![](media01/20230203_DUC_702780085043338.webp)
 
 
-#### 20230601-Provisão de Honorários Proc 702-780-085-043-338.webp
+**..., ... .** 
+
+**..., ... .** 
+
+**..., ... .** 
+
 
 ![](20230224-163021_Anwaltsprovision1.webp)
 
@@ -32,9 +37,9 @@
 
 **↪** [20220521-19h00_Fumadinha](../202205_O-Retorno/20220521-19h00_Fumadinha.md)
 
-**↪ [20221007_Nelas](20221007_Nelas.md)**
+**↪ [20221007_Vila-Praia-de-Ancora_Nelas](20221007_Vila-Praia-de-Ancora_Nelas.md)**
 
-**↪** [20230216_Viana-do-Castelo_Nelas](20230216_Viana-do-Castelo_Nelas.md)
+**↪** [20230216_Haan_Viana-do-Castelo_Nelas](20230216_Haan_Viana-do-Castelo_Nelas.md)
 
 **↪**
 

@@ -1,4 +1,4 @@
-
+[Index](Index.md)
 # ⚖️ Finanzielle Autonomie / Autonomia financeira
 
 & Nebentätigkeiten von Richtern / e atividades paralelas dos juízes
@@ -280,3 +280,9 @@ In Portugal ist die Richterlaufbahn stärker **geschlossen und hierarchisch orga
 ---
 
 Wenn du möchtest, kann ich dir als letzten Schritt eine **Gesamtbewertung aller Dimensionen (die beste „Gesamt-Justiz-Architektur“ aus Bürger-, Richter- und Staatsperspektive)**
+
+---
+
+[Index](../Index.md)
+
+

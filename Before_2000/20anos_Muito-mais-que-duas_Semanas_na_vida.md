@@ -1,7 +1,7 @@
 
-> Muitos temas que ainda vou completar, reestruturar e subdividir 
+> Muitos temas que ainda vou completar, reestruturar e subdividir.
 
-> Viele Themen, die ich noch vervollständigen, neu strukturieren und unterteilen werde 
+> Viele Themen, die ich noch vervollständigen, neu strukturieren und unterteilen werde.
 
 
 ## 🇵🇹 20 anos 
@@ -26,22 +26,24 @@ Eines Tages habe ich gemeinsam mit ihnen einen Plan ausgearbeitet und dafür ges
 
 ![](media01/20260702215456_Anni-Hubert_com_Tio-Agostinho.webp)
 
-- 🇵🇹 Uma das últimas carros de gado "vacas" da aldeia.
-Quando o meu pai se foi  para Portugal, estava firmemente decidido a dar continuidade a esta tradição, mas acabou por ceder, porque o trator é mais cómodo.
 
-- 🇩🇪  Einer der letzten Kuhwagen im Dorf.
-Als mein Vater nach Portugal ging, war er fest entschlossen, diese Tradition fortzuführen, gab aber schließlich nach, weil der Traktor bequemer ist.
-
-### 🇵🇹 O Tio Agostinho 
+### 🇵🇹 O "Tio" Agostinho 
 
 Nas poucas conversas que tive com ele, contou-me muito sobre o aldeia de antigamente e uma  anedota sobre os mal-entendidos entre as culturas do seu tempo de trabalho na França.
 
+Depois do trabalho, uma cerveja fresquinha e, ao almoço ou ao jantar, um bom vinho francês da adega – mas como é que se explica isto aos italianos?
+
 E assim, durante toda a época, só bebeu cerveja.
 
-Nas poucas conversas que tive com ele, contou-me muito sobre o aldeia de antigamente e uma anedota sobre os mal-entendidos culturais durante o tempo em que trabalhou em França.
+---
 
+**- Uma das últimas carros de gado "vacas" da aldeia.**
+
+Quando o meu pai voltou definitivamente para Portugal, estava firmemente decidido a dar continuidade a esta tradição, mas acabou por ceder, porque o trator é mais cómodo.
 
 **..., ... .** 
+
+---
 
 🇩🇪  In den wenigen Gesprächen, die ich mit ihm geführt habe, erzählte er mir viel über das Dorf von früher und eine Anekdote über die kulturellen Missverständnisse während seiner Arbeitszeit in Frankreich.
 
@@ -49,7 +51,13 @@ Nach der Arbeit ein kühles Bierchen und zum Mittag- oder Abendessen ein guter f
 
 Und so trank er die ganze Saison über nur Bier
 
+---
+**-  Einer der letzten Kuhwagen im Dorf.** "Ochsenkarren"
+
+Als mein Vater nach Portugal ging, war er fest entschlossen, diese Tradition fortzuführen, gab aber schließlich nach, weil der Traktor bequemer ist.
+
 **..., ... .** 
+
 </details>
 
 ---
@@ -88,11 +96,11 @@ Como havia uma greve e na sexta-feira eu …, … .
 ---
 #### À distancia tudo é diferente
 
-A minha tia Cacilda, que morreu (20xx? ) de cancro — creio que ainda antes de completar sessenta anos —, disse, depois de ter conversado com alguns membros da família: «Só isto? Para ti, devia ter sido muito,  muito mais  mais.» 
+A minha tia Cacilda, que morreu (20xx? ) de cancro — creio que ainda antes de completar sessenta anos —, depois de ter conversado com alguns membros da família e eu corrigi o mal pensado ou suposto, ela disse: «Só isto? Para ti, devia ter sido muito,  muito mais mais.» 
 
 **..., ... .** 
 
-Sempre foi menos , e não sei por que razão pensam que deveria ser muito, muito mais.
+Sempre foi muito, muito menos , e não sei por que razão pensam que deveria ser muito, muito mais.
 
 **..., ... .** 
 
@@ -118,17 +126,22 @@ Partimos de manhã para visitar o Sr. Pinto — ou, melhor dizendo, para o procu
 - 🇩🇪 Zu jener Zeit war die Region Münster (Nordrhein-Westfalen) Teil der britischen Militärbesatzungszone
 
 ![](../Before_1980/media/1972-1979-Penso-que-o-Sr-Pinto-esta-no-meio.webp)
+
 > **Penso** que o Senhor Pinto é o que está no meio.
+
+![](../Before_1980/media/Oxford-Kaserne3.webp)
 
 ### 🇵🇹 A Caserna de Oxford
 
 As três pessoas na fotografia e muitos outros civis portugueses, alemães e estrangeiros trabalhavam nas bases militares britânicas. Muitos deles viviam nos quartéis e regressaram mais tarde aos seus países de origem, depois de o governo alemão lhes ter proposto o pagamento de todas as pensões num único montante; no entanto, com isso, perderam o direito a uma pensão de velhice alemã.
 
+![](../Before_1980/media/Muenster-Roxelerstr340.webp)
+
 #### Na altura, pouco, mas tentador; depois, nada
 
 Naquela altura, na década de 80, em plena crise económica, aqueles que tinham descontado o mesmo  que o meu pai e aceitaram a oferta receberam cerca de 10.000 - 12 000 marcos, o que, em Portugal, na década de 80 marcada pela inflação, já representava uma quantia considerável. Quem aceitou a oferta ficou sem recursos no início dos anos 90 e deixou de ter direito a qualquer pensão.
 
-10 000–12 000 marcos = 580 000–696 000 escudos
+10 000–12 000 marcos = 580 000  –  696 000 escudos
 
 > Em agosto de 1983, ganhava 100 escudos por dia como ajudante na construção civil – os trabalhadores qualificados ganhavam entre 300 e 400 escudos por dia – ; e, em 1985, ganhava cerca de 200 a 300 escudos.
 
@@ -136,8 +149,7 @@ Naquela altura, na década de 80, em plena crise económica, aqueles que tinham 
 
 > - Era assim que as pessoas faziam as contas naquela altura, e quem, na década de 90, tivesse investido toda a sua pensão num banco em Portugal, começou a perder o seu poder de compra anterior.
 
-O meu pai recebeu, de 1999 a dezembro de 2025, uma pensão da Alemanha no valor de entre cerca de 700 marcos (350 euros) e 430 euros. Isso corresponde, aproximadamente, a uma média de 400 euros por mês e resulta, ao longo desses anos, num total de
-cerca de 27 anos × 12 meses × 400 euros = 129 000 euros, em comparação com a oferta de 5 000 a 6 000 euros (10 000 – 12 000 marcos) na década de 80
+O meu pai recebeu, de 1999 a dezembro de 2025, uma pensão da Alemanha no valor de entre cerca de 700 marcos (350 euros) e 430 euros. Isso corresponde, aproximadamente, a uma média de 400 euros por mês e resulta, ao longo desses anos, num total de cerca de 27 anos × 12 meses × 400 euros = 129 000 euros, em comparação com a oferta de 5 000 a 6 000 euros (10 000 – 12 000 marcos) na década de 80
 
 Como dispunha de poupanças e possuía uma casa em Portugal, isso já era suficiente para cobrir as despesas de subsistência de duas pessoas (e, além disso, o apoio temporal das despesa basicas  de mais uma ou duas pessoas). A partir de 2007, as poupanças começaram a diminuir devido a doenças, mas, graças a duas pensões a partir de 2010, voltaram a ser suficientes para cobrir as despesas de subsistência.
 
@@ -152,11 +164,8 @@ Como dispunha de poupanças e possuía uma casa em Portugal, isso já era sufici
 
 **Notas:** Nos últimos anos, não foram feitos investimentos na casa e muitas obras ficaram por concluir. Quem herdar a casa  tem, portanto, de investir, pelo menos, 50 000 euros; e para a tornar verdadeiramente confortável, serão necessários mais alguns  euros.
 
-
 ---
-
 ### A casa à direita
-
 
 <details>
 <summary>Casa à direita?</summary>
@@ -379,10 +388,14 @@ Da ich als KI kein rechtsverbindliches Handwerkerangebot ausstellen kann, erreic
 
 ---
 
-<details>
-<summary>Die Oxford-Kaserne</summary>
+
+![](../Before_1980/media/Oxford-Kaserne3.webp)
+Foto da internet
 
 ### 🇩🇪 Die Oxford-Kaserne
+
+<details>
+<summary>Die Oxford-Kaserne</summary>
 
 Die drei Personen auf dem Foto und viele andere portugiesische, deutsche und ausländische Zivilisten arbeiteten auf den britischen Militärstützpunkten. Viele von ihnen wohnten in den Kasernen und kehrten später in ihre Heimatländer zurück, nachdem die deutsche Regierung ihnen angeboten hatte, alle Rentenbezüge als Einmalzahlung auszuzahlen; allerdings verloren sie dadurch ihren Anspruch auf eine deutsche Altersrente.
 
@@ -401,13 +414,10 @@ Damals, in den 80er Jahren, mitten in der Wirtschaftskrise, erhielten diejenigen
 
 > So haben die Leute damals gerechnet, und wer in den 90er Jahren seine gesamte Rente bei einer Bank in Portugal angelegt hatte, begann, seine frühere Kaufkraft zu verlieren.
 
-
 </details>
 
 </details>
 
-![](../Before_1980/media/Oxford-Kaserne3.jpg)
-Foto da internet
 
 🇵🇹 Entrei aqui duas vezes entre outubro e dezembro de 1985, mas naquela altura éramos revistados pelos militares à entrada, embora fosse uma revista pouco rigorosa.
 
@@ -435,6 +445,7 @@ Quem tinha procurado outro lugar para viver continuava a vir aqui para visitar o
 - - 100 escudos = cerca de 1,34 DM. O marco alemão valorizou-se quase 39 por cento face à moeda portuguesa nestes dois anos.
 
 - ***1992-2002*:**   1 DM = cerca de 100 escudos
+
 A 1 de janeiro de 1999, ambas as moedas foram irrevogavelmente indexadas ao euro (1 EUR = 1,95583 DM ou 1 EUR = 200,482 PTE), o que, no final da união monetária, resultou numa relação fixa de 1 DM = 102,505 escudos
 
 
@@ -454,18 +465,17 @@ A 1 de janeiro de 1999, ambas as moedas foram irrevogavelmente indexadas ao euro
 
  **Contas:**  3,5 Marcos por hora  =   60 minutos de trabalho.
  Um  corte de cabelo  de 20 Minutos  dentro das muralhas da caserna custava-me 
- > 5 DM /3,5DM x 60 min = **28, 5 Minutos** de trabalho na Alemanha.
+ > 5 DM /3,5DM x 60 min = **85, 7 Minutos** de trabalho na Alemanha.
 
 
  **Contas:**  3,5 Marcos por hora  =  60 minutos de trabalho.
  Um  corte de cabelo  de 20 Minutos para turistas, alentejanos , transmontanos  e para  todos os outros que se perderam pela Alemanha custava um corte de cabelo  fora das muralhas da caserena 14 - 18 DM e 
  
- **eu tinha que trabalhar  240 a 300  para isso.**   
+ Se eu cortasse o cabelo fora das muralhas ** tinha que trabalhar  240 a 300  para isso.**   
  
  > 14 a 18 DM /3,5DM x 60 min = ca. **240  a 300  Minutos** =  4 a  5 horas de trabalho na Alemanha.
  
-
-*Um turista português, que trabalhava em Portugal como ajudante na construção civil, ganhava menos de 500 escudos (1985) por dia e tinha-se perdido por acaso na Alemanha. Como não queria ser confundido com os «Gandulos» que fumavam marijuana, foi ao cabeleireiro cortar o cabelo e teve de trabalhar para pagar o serviço*
+1985: *Um turista português, que trabalhava em Portugal como ajudante na construção civil, ganhava menos de 500 escudos (1985) por dia e perdeu-se por acaso na Alemanha. Como não queria ser confundido com os «Gandulos» que fumavam marijuana, foi ao cabeleireiro para aparar o cabelo e teve de trabalhar para pagar o serviço*
 
 ##### Cálculos
 
@@ -490,7 +500,7 @@ Resumo:
 
 > **Corte de cabelo simples para homens
 
-- 1985: → 5 DM no cabeleireiro dentro das muralhas da cidade (lá fora ****aprox. 14 – 18 DM** )
+- 1985: → 5 DM no cabeleireiro dentro das muralhas da Caserna (lá fora ****aprox. 14 – 18 DM** )
 - 1991: → 16 DM no cabeleireiro junto à esquadra da polícia em Wpt-Langerfeld
 - 2020:  → 9–10 euros em  Wpt-Vohwinkel
 - 2026: → 14 euros

@@ -38,9 +38,11 @@ Währenddessen filmte A. H. das Geschehen. Als schließlich der Transportwagen b
 
 Es waren unbeschwerte Zeiten, in denen das Miteinander während der Mittagspausen noch ganz entspannt war.
 
-Dann kam der 11. September.
+**Dann kam der 11. September.**
 
-Ich erinnerte mich an das Video und bat A. H., es zu löschen. Angesichts der Tragödie, die sich mit unserem damaligen Zeitvertreib auf so makabre Weise verbinden ließ, war das Video für mich nicht mehr die Erinnerung an ein harmloses Spiel. Was vorher ein unbeschwerter Spaß gewesen war, hatte plötzlich einen völlig anderen Beigeschmack bekommen.
+**Ich erinnerte mich an das Video und bat A. H., es zu löschen.** 
+
+Angesichts der Tragödie, die sich mit unserem damaligen Zeitvertreib auf so makabre Weise verbinden ließ, war das Video für mich nicht mehr die Erinnerung an ein harmloses Spiel. Was vorher ein unbeschwerter Spaß gewesen war, hatte plötzlich einen völlig anderen Beigeschmack bekommen.
 
 Danach sagte ich nichts mehr dazu. Ich weiß bis heute nicht, ob er das Video tatsächlich gelöscht hatte.
 
@@ -94,9 +96,11 @@ Entretanto, A. H. estava a filmar tudo. Quando o carrinho de transporte foi movi
 
 Eram tempos descontraídos, em que o convívio durante as pausas de almoço ainda decorria de forma bastante informal e agradável.
 
-Depois chegou o 11 de setembro.
+**Depois chegou o 11 de setembro.**
 
-Lembrei-me do vídeo e pedi a A. H. que o apagasse. Perante a tragédia que, de uma forma tão macabra, passou a estar associada à nossa antiga brincadeira, aquele vídeo deixou de representar para mim a recordação de um simples divertimento. Aquilo que antes tinha sido uma atividade inocente e descontraída adquirira subitamente um significado completamente diferente.
+**Lembrei-me do vídeo e pedi a A. H. que o apagasse.** 
+
+Perante a tragédia que, de uma forma tão macabra, passou a estar associada à nossa antiga brincadeira, aquele vídeo deixou de representar para mim a recordação de um simples divertimento. Aquilo que antes tinha sido uma atividade inocente e descontraída adquirira subitamente um significado completamente diferente.
 
 Depois disso, não voltei a falar no assunto. Até hoje, não sei se ele chegou realmente a apagar o vídeo.
 
@@ -150,9 +154,11 @@ Mientras tanto, A. H. estaba grabándolo todo. Cuando movieron el carro de trans
 
 Eran tiempos distendidos, en los que la convivencia durante las pausas del mediodía todavía era relajada y agradable.
 
-Entonces llegó el 11 de septiembre.
+**Entonces llegó el 11 de septiembre.**
 
-Me acordé del vídeo y le pedí a A. H. que lo borrara. Ante la tragedia que, de una forma tan macabra, pasó a estar relacionada con nuestro antiguo pasatiempo, aquel vídeo dejó de representar para mí el recuerdo de un simple entretenimiento. Lo que antes había sido una actividad inocente y despreocupada adquirió de repente un significado completamente distinto.
+**Me acordé del vídeo y le pedí a A. H. que lo borrara.** 
+
+Ante la tragedia que, de una forma tan macabra, pasó a estar relacionada con nuestro antiguo pasatiempo, aquel vídeo dejó de representar para mí el recuerdo de un simple entretenimiento. Lo que antes había sido una actividad inocente y despreocupada adquirió de repente un significado completamente distinto.
 
 Después de aquello, no volví a decir nada. Hasta hoy no sé si realmente llegó a borrar el vídeo.
 
@@ -206,9 +212,11 @@ Meanwhile, A. H. was filming everything. When the transport trolley was moved, t
 
 They were carefree times, when getting along with one another during lunch breaks was still easy and relaxed.
 
-Then came September 11.
+**Then came September 11.**
 
-I remembered the video and asked A. H. to delete it. In the light of the tragedy, which had now become connected with our former pastime in such a macabre way, the video no longer represented a simple, harmless game to me. Something that had once been innocent fun had suddenly taken on an entirely different meaning.
+**I remembered the video and asked A. H. to delete it.** 
+
+In the light of the tragedy, which had now become connected with our former pastime in such a macabre way, the video no longer represented a simple, harmless game to me. Something that had once been innocent fun had suddenly taken on an entirely different meaning.
 
 After that, I said nothing more about it. To this day, I do not know whether he actually deleted the video.
 
@@ -251,6 +259,7 @@ Da die genaue interne Bauteilbezeichnung für den historischen Achszähler Az 65
 
 </details>
 
-
+---
 
 [Index](../Index.md)
+
