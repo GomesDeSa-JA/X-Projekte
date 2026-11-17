@@ -158,7 +158,7 @@ I wish him a safe journey to Redondela and a safe journey to Santiago de Compost
 
 ---
 
-↪ [Index](../Index.md)
+↪ [Index](../../Index.md)
 
 #### Obsidian-Links
 >*Internal links that don't work on GitHub*

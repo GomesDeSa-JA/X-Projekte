@@ -111,7 +111,7 @@ El 10 de junio de 2016, hacia las 19:00 horas, estaba en la cola para tomar mi v
 
 **↪** [Pure-stress-and-incredibly-demotivating](Pure-stress-and-incredibly-demotivating.md)
 
- 🔁 [Index](../Index.md)
+🔁 [Index](../Index.md)
 
 #### Obsidian-Links
 >*Internal links that don't work on GitHub*
