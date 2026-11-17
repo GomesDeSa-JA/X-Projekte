@@ -114,8 +114,12 @@
  [🔠](#Index) 
 
 - [Handy_Telemovel-Chronik](Outros-Temas/Handy_Telemovel-Chronik.md)
-
 - 
+
+
+-   [Horacio Coimbra Rodrigues](202210-202506_O-Processo/Infos_Horacio-Coimbra-Rodrigues.md)
+>Um  de muitos casos estranhos no processo
+
 
 ---
 ### I
@@ -165,8 +169,6 @@
 - 
 -  [Nordbahntrasse_Neanderland-STEIG](Outros-Temas/Nordbahntrasse_Neanderland-STEIG.md)
 - 
--   [Horacio Coimbra Rodrigues](202210-202506_O-Processo/Infos_Horacio-Coimbra-Rodrigues.md)
->Um  de muitos casos estranhos no processo
 
 
 ---
