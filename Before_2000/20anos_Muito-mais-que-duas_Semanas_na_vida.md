@@ -688,3 +688,7 @@ Da es einen Streik gab und ich …, … .
 > Ich habe über diese Woche bereits ausführlicher darüber geschrieben, ich muss mal nachsehen, wo sich diese Notizen befinden.
 
 
+---
+
+
+[Index](../Index.md)
