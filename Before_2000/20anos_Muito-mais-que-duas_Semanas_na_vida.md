@@ -122,9 +122,9 @@ Partimos de manhã para visitar o Sr. Pinto — ou, melhor dizendo, para o procu
 
 ![](../Before_1980/media/Muenster-Roxeler-Strasse340-Oxfort-Kasern1.webp)
 
-- 🇵🇹  Naquela altura, a região de Münster (Renânia do Norte-Vestefália) era a zona de ocupação militar britânica
+- **🇵🇹  Naquela altura, a região de Münster (Renânia do Norte-Vestefália) era a zona de ocupação militar britânica**
 
-- 🇩🇪 Zu jener Zeit war die Region Münster (Nordrhein-Westfalen) Teil der britischen Militärbesatzungszone
+- **🇩🇪 Zu jener Zeit war die Region Münster (Nordrhein-Westfalen) Teil der britischen Militärbesatzungszone**
 
 ![](../Before_1980/media/1972-1979-Penso-que-o-Sr-Pinto-esta-no-meio.webp)
 
@@ -138,11 +138,11 @@ As três pessoas na fotografia e muitos outros civis alemães, portugueses e out
 
 ![](../Before_1980/media/Muenster-Roxelerstr340.webp)
 
-#### Na altura, pouco, mas tentador; depois, nada
+### Na altura, pouco, mas tentador; depois, nada
 
 Naquela altura, na década de 80, em plena crise económica, aqueles que tinham descontado o mesmo  que o meu pai e aceitaram a oferta receberam cerca de 10.000 - 12 000 marcos, o que, em Portugal, na década de 80 marcada pela inflação, já representava uma quantia considerável. Quem aceitou a oferta ficou sem recursos no início dos anos 90 e deixou de ter direito a qualquer pensão.
 
-10 000 – 12 000 marcos = 580 000  –  696 000 escudos
+10 000 – 12 000 marcos = **580 000  –  696 000 escudos**
 
 > Em agosto de 1983, ganhava 100 escudos por dia como ajudante na construção civil – os trabalhadores qualificados ganhavam entre 300 e 400 escudos por dia – ; e, em 1985, ganhava cerca de 200 a 300 escudos.
 
@@ -166,6 +166,8 @@ Como dispunha de poupanças e possuía uma casa em Portugal, isso já era sufici
 **Notas:** Nos últimos anos, não foram feitos investimentos na casa e muitas obras ficaram por concluir. Quem herdar a casa  tem, portanto, de investir, pelo menos, 50 000 euros; e para a tornar verdadeiramente confortável, serão necessários mais alguns  euros.
 
 ---
+![](media01/19980603-00000_Casas-de-meus-pais-por-compor_casa-habitave-50000-100000%20Euros_1999-06-30-fui-a-Roxel.webp)
+
 ### A casa à direita
 
 <details>
@@ -388,14 +390,11 @@ Da ich als KI kein rechtsverbindliches Handwerkerangebot ausstellen kann, erreic
 </details>
 
 
-![](media01/19980603-00000_Casas-de-meus-pais-por-compor_casa-habitave-50000-100000%20Euros_1999-06-30-fui-a-Roxel.webp)
-
-
 ---
 
 ---
 
-### 🇩🇪 Die Oxford-Kaserne
+### 🇩🇪 Die Oxford-Kaserne in Münster (NRW)
 
 ![](../Before_1980/media/Oxford-Kaserne3.webp)
 Foto da internet
@@ -425,11 +424,11 @@ Damals, in den 80er Jahren, mitten in der Wirtschaftskrise, erhielten diejenigen
 </details>
 
 
-🇵🇹 Entrei aqui duas vezes entre outubro e dezembro de 1985, mas naquela altura éramos revistados pelos militares à entrada, embora fosse uma revista pouco rigorosa.
+🇵🇹 Entrei aqui duas vezes entre outubro e dezembro de 1985, mas naquela altura éramos controlados pelos militares à entrada, embora fosse um controle pouco rigoroso.
 
-> Por volta do ano de 2005, passei de ônibus (BUS10) ao lado  e as muros estavam protegidas com arame farpado. Consequências do 11 de setembro. Em 1985, ainda não havia tantas medidas de segurança. E agora, depois de todos os investimentos, acabaram por desmontar tudo novamente
+> **Por volta do ano de 2005, passei de ônibus (BUS10) ao lado  e as muros estavam protegidas com arame farpado. Consequências do 11 de setembro. Em 1985, ainda não havia tantas medidas de segurança. E agora, depois de todos os investimentos, acabaram por desmontar tudo novamente**
 
-#### A Residencias de muitos Portugueses  – A Caserna Oxford – 
+### A Residencias de muitos Portugueses  – A Caserna Oxford – 
 
 Quem tinha procurado outro lugar para viver continuava a vir aqui para visitar o cabeleireiro da  terra natal. Um corte de cabelo fora destes muros custava cerca de 10 a 14 marcos – em 1992, paguei 16 marcos por um corte de cabelo –, mas dentro destes muros no cabeleireiro da terra natal, um corte de cabelo custava cerca de 5 marcos. Eu ganhava 3,5 marcos – 1,75 euros – na agricultura. Ou seja, tinha de trabalhar uns 90 minutos para poder pagar um corte de cabelo de 20 minutos. Se tivesse ido cortar o cabelo fora destes muros, teria de trabalhar pelo menos 200 minutos para poder pagar um corte de cabelo de 20 minutos.
 
@@ -438,7 +437,7 @@ Quem tinha procurado outro lugar para viver continuava a vir aqui para visitar o
 <details>
 <summary>Infos</summary>
 
-## **Infos:**
+## Infos
 
 #### 🇵🇹 **DM em escudos.**
 
@@ -460,12 +459,14 @@ A 1 de janeiro de 1999, ambas as moedas foram irrevogavelmente indexadas ao euro
 **Portugal**
 
  **Contas:**  3,5 Marcos por hora  =   210 Escudos por 60 minutos de trabalho.
- Um  corte de cabelo  de 20 Minutos  na aldeia em Portugal custava-me 
- > 100/210x60 = **28, 5 Minutos** de trabalho na Alemanha.
+ Um  corte de cabelo  de 20 Minutos na aldeia em Portugal custava-me 
+ 
+> **100/210x60 = **28, 5 Minutos** de trabalho na Alemanha.**
 
  **Contas:**  3,5 Marcos por hora  =   210 Escudos por 60 minutos de trabalho 
  Um  corte de cabelo  de 20 Minutos para turistas, alentejanos  e transmontanos em Lisboa ou no  Algarve  em Portugal custava
- > (200 a  300)/210x60 = ca. **57 a 85  Minutos**  de trabalho na Alemanha.
+ 
+ > **(200 a  300)/210x60 = ca. **57 a 85  Minutos**  de trabalho na Alemanha.**
  
 **Alemanha**
 
@@ -481,9 +482,9 @@ A 1 de janeiro de 1999, ambas as moedas foram irrevogavelmente indexadas ao euro
  
  > 14 a 18 DM /3,5DM x 60 min = ca. **240  a 300  Minutos** =  4 a  5 horas de trabalho na Alemanha.
  
-1985: *Um turista português, que trabalhava em Portugal como ajudante na construção civil, ganhava menos de 500 escudos (1985) por dia e perdeu-se por acaso na Alemanha. Como não queria ser confundido com os «Gandulos» que fumavam marijuana, foi ao cabeleireiro para aparar o cabelo e teve de trabalhar para pagar o serviço*
+1985: ***Um turista português, que trabalhava em Portugal como ajudante na construção civil, ganhava menos de 500 escudos (1985) por dia e perdeu-se por acaso na Alemanha. Como não queria ser confundido com os «Gandulos» que fumavam marijuana, foi ao cabeleireiro para aparar o cabelo e teve de trabalhar para pagar o serviço***
 
-##### Cálculos
+### Cálculos
 
 - Corte de cabelo: 14–18 DM = 812–1044 escudos
 
@@ -493,7 +494,7 @@ A 1 de janeiro de 1999, ambas as moedas foram irrevogavelmente indexadas ao euro
 
 Resumo:
 
-- Um corte de cabelo para turistas em Portugal custova, em 1985, **57 a 85 minutos de trabalho** na Alemanha
+- Um corte de cabelo para turistas, transmontanos e alentejanos em Lisboa ou nos Algarves de Portugal custova, em 1985, **57 a 85 minutos de trabalho** na Alemanha
 
 - Um corte de cabelo na Alemanha, fora do Muro, custava  em 1985, **780 a 1000 minutos de trabalho em Portugal.**
 
@@ -593,7 +594,7 @@ Sie haben Geld in eine Haarschneidemaschine investiert und fragen den Kunden dan
 
 O que não sei é se os trabalhadores tinham um quarto individual ou um quarto partilhado.
 Quem vivia aqui conseguia ainda poupar algum dinheiro, mas quem tinha um apartamento na cidade universitária de Münster mal lhe restava dinheiro para comer depois de pagar a renda
-#### Recusaram
+### Recusaram
 
 Em 1993, o meu pai arranjou trabalho aos meus cunhados numa empresa de jardinagem não muito longe daqui; no entanto, eles não aceitaram a oferta e, como tudo já estava organizado e se esperavam dois trabalhadores, foram, em vez deles, o Carlos, o primo do meu cunhados, e outro senhor de Lamas. Não ganhavam tanto quanto esperavam e viviam numa casa que partilhavam com outros trabalhadores de outros países e que era regularmente inspecionada por uma senhora idosa, para garantir que não se empilhassem montes de panelas na cozinha. Como o estilo de vida e o que ganhavam não correspondiam às suas expectativas, trabalharam lá apenas durante uma época.
 
@@ -612,17 +613,14 @@ Wer sich einen anderen Wohnort gesucht hatte, kam weiterhin hierher, um den Fris
 #### Die Unterkunft
 
 Was ich nicht weiß, ist, ob die Arbeiter ein Einzelzimmer oder ein Mehrbettzimmer hatten.
-Wer hier wohnte, konnte noch etwas Geld sparen, aber wer eine Wohnung im Studentenviertel von Münster hatte, dem blieb nach Zahlung der Miete kaum noch Geld zum Essen übrig
+Wer hier wohnte, konnte noch etwas Geld sparen, aber wer eine Wohnung in der Universitätsstadt von Münster hatte, dem blieb nach Zahlung der Miete kaum noch Geld zum Essen übrig. 
 
-#### Sie lehnten ab
+### Sie lehnten ab
 
-1993 vermittelte mein Vater meinen Schwägern eine Stelle bei einer Gartenbaufirma unweit von hier; sie nahmen das Angebot jedoch nicht an, und da bereits alles organisiert war und zwei Arbeiter erwartet wurden, gingen stattdessen Carlos, der Cousin meines Schwageres, und ein weiterer Herr aus Lamas. Sie verdienten nicht so viel, wie sie erwartet hatten, und wohnten in einem Haus, das sie sich mit anderen Arbeitern aus anderen Ländern teilten und das regelmäßig von einer älteren Dame kontrolliert wurde, um sicherzustellen, dass sich in der Küche keine Berge von Töpfen stapelten. Da der Lebensstil und das, was sie verdienten, nicht ihren Erwartungen entsprachen, arbeiteten sie dort nur eine Saison lang.
+1993 vermittelte mein Vater meinen Schwägern eine Stelle bei einer Gartenbaufirma unweit von hier; sie nahmen das Angebot jedoch nicht an, und da bereits alles organisiert war und zwei Arbeiter erwartet wurden, gingen stattdessen Carlos, der Cousin meines Schwagers, und ein weiterer Herr aus Lamas. Sie verdienten nicht so viel, wie sie erwartet hatten, und wohnten in einem Haus, das sie sich mit anderen Arbeitern aus anderen Ländern teilten und das regelmäßig von einer älteren Dame kontrolliert wurde, um sicherzustellen, dass sich in der Küche keine Berge von Töpfen stapelten. Da der Lebensstil und das, was sie verdienten, nicht ihren Erwartungen entsprachen, arbeiteten sie dort nur eine Saison lang.
 
 
 ![](Muenster-Roxelerstr340.webp)
-
-
-
 
 
 Das ist eindeutig die **Oxford-Kaserne** (Roxeler Straße 340–370 in Gievenbeck). 
