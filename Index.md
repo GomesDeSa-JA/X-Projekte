@@ -40,7 +40,7 @@
 
 -  
 - 
-- [19880303_Coimbra_Santa-Clara](Before_1990/19880303_Coimbra_Santa-Clara.md)
+- [Coimbra  – Santa Clara – ](Before_1990/19880303_Coimbra_Santa-Clara.md)
 
 ---
 #### Caminhos
@@ -184,14 +184,14 @@
 ### P
  [🔠](#Index) 
 
--  [Praia-Ancora –Termin– ver Quarto ](202205_O-Retorno/Vila-Praia-deAncora/20220904_Praia-Ancora_Termin_ver-um-Quarto.md)
+-  [Praia Ancora –Termin– ver Quarto ](202205_O-Retorno/Vila-Praia-deAncora/20220904_Praia-Ancora_Termin_ver-um-Quarto.md)
 - 
 -  [Perdido em Seixas](202205_O-Retorno/Minho/20220901_Perdido-em-Seixas_Minho.md)
 - 
 ---
 #### Processo Judicial
 
--  [20230203_Rechnung-ohne-Rechtsberatung](202210-202506_O-Processo/20230203_Rechnung-ohne-Rechtsberatung.md)
+-  [20230203 Rechnung- ohne Rechtsberatung](202210-202506_O-Processo/20230203_Rechnung-ohne-Rechtsberatung.md)
 - 
 -  
 ---

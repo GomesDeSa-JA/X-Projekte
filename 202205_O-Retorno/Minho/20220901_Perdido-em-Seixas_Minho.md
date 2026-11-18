@@ -16,7 +16,7 @@
 
 Ein 75-jähriger französischer Pilger hatte sich am Bahnhof von Seixas verlaufen.
 
-Er wollte den Zug oder den Bus nach Vigo nehmen und von dort aus weiter nach Redondela fahren.
+Er wollte den Zug oder den Bus nach Vigo nehmen und von dort aus weiter nach Redondela laufen.
 
 Von Redondela aus wollte er den Weg zu Fuß bis nach Santiago de Compostela zurücklegen. Er versuchte, den Zugfahrplan zu studieren und herauszufinden, wie er von dort wegkommen könnte.
 

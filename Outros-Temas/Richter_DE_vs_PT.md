@@ -137,7 +137,10 @@ Richter dürfen Nebentätigkeiten ausüben, aber sehr eingeschränkt:
 |   |   |
 |---|---|
  
-|### 🇩🇪 Deutschland<br><br>➡️ sehr hohe finanzielle Sicherheit  <br>➡️ klare, strenge Regeln für Nebenjobs  <br>➡️ starke institutionelle Kontrolle|### 🇵🇹 Portugal<br><br>➡️ ebenfalls stabile öffentliche Karriere  <br>➡️ ähnliche, teils leicht flexiblere akademische Möglichkeiten  <br>➡️ ebenfalls strenge Unabhängigkeitsregeln|
+### 🇩🇪 Deutschland<br><br>➡️ sehr hohe finanzielle Sicherheit  <br>➡️ klare, strenge Regeln für Nebenjobs  <br>➡️ starke institutionelle Kontrolle
+
+### 🇵🇹 Portugal<br><br>➡️ ebenfalls stabile öffentliche Karriere  <br>➡️ ähnliche, teils leicht flexiblere akademische Möglichkeiten  <br>➡️ ebenfalls strenge Unabhängigkeitsregeln
+
 
 - # 🧭 Zusammenfassend
     

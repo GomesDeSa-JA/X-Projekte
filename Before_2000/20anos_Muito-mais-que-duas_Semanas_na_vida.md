@@ -3,7 +3,6 @@
 
 > Viele Themen, die ich noch vervollständigen, neu strukturieren und unterteilen werde.
 
-
 ## 🇵🇹 20 anos 
 
 Durante cerca de 20 anos, falavam sempre em visitar Portugal, mas como não dominavam a língua e, nas aldeias rurais, praticamente não havia infraestruturas turísticas, o dia em que pudessem fazê-lo simplesmente nunca chegou.
@@ -109,7 +108,7 @@ Sei o que as pessoas pensavam; expliquei que não era assim, mas elas mantiveram
 Uns dias antes desta semana e  esta semana, as memórias ainda estão tão vivas.
 
 ---
-### À procura do Senhor  Pinto
+### À procura do Senhor  Pinto na Beira Alta
 
 Fiquei a saber do acidente na quinta-feira de manhã. Estava a viajar de carro algures no distrito da Guarda e procurava no mapa uma pequena aldeia cujo nome já me escapou.
 
@@ -118,6 +117,8 @@ Partimos de manhã para visitar o Sr. Pinto — ou, melhor dizendo, para o procu
 **..., ... .** 
 
 ### **infos:**
+
+#### Münster (NRW)
 
 ![](../Before_1980/media/Muenster-Roxeler-Strasse340-Oxfort-Kasern1.webp)
 
@@ -129,11 +130,11 @@ Partimos de manhã para visitar o Sr. Pinto — ou, melhor dizendo, para o procu
 
 > **Penso** que o Senhor Pinto é o que está no meio.
 
+### 🇵🇹 A Caserna de Oxford em Münster (NRW)
+
 ![](../Before_1980/media/Oxford-Kaserne3.webp)
 
-### 🇵🇹 A Caserna de Oxford
-
-As três pessoas na fotografia e muitos outros civis portugueses, alemães e estrangeiros trabalhavam nas bases militares britânicas. Muitos deles viviam nos quartéis e regressaram mais tarde aos seus países de origem, depois de o governo alemão lhes ter proposto o pagamento de todas as pensões num único montante; no entanto, com isso, perderam o direito a uma pensão de velhice alemã.
+As três pessoas na fotografia e muitos outros civis alemães, portugueses e outros estrangeiros trabalhavam nas bases militares britânicas. Muitos deles viviam nos quartéis e regressaram mais tarde aos seus países de origem, depois de o governo alemão lhes ter proposto o pagamento de todas as pensões num único montante; no entanto, **com isso, perderam o direito a uma pensão de velhice alemã.**
 
 ![](../Before_1980/media/Muenster-Roxelerstr340.webp)
 
@@ -141,13 +142,13 @@ As três pessoas na fotografia e muitos outros civis portugueses, alemães e est
 
 Naquela altura, na década de 80, em plena crise económica, aqueles que tinham descontado o mesmo  que o meu pai e aceitaram a oferta receberam cerca de 10.000 - 12 000 marcos, o que, em Portugal, na década de 80 marcada pela inflação, já representava uma quantia considerável. Quem aceitou a oferta ficou sem recursos no início dos anos 90 e deixou de ter direito a qualquer pensão.
 
-10 000–12 000 marcos = 580 000  –  696 000 escudos
+10 000 – 12 000 marcos = 580 000  –  696 000 escudos
 
 > Em agosto de 1983, ganhava 100 escudos por dia como ajudante na construção civil – os trabalhadores qualificados ganhavam entre 300 e 400 escudos por dia – ; e, em 1985, ganhava cerca de 200 a 300 escudos.
 
 600 000 contos = 2 000 dias de trabalho a 300 escudos por dia = cerca de 9 anos de trabalho, a uma média de cerca de 230 dias úteis por ano.
 
-> - Era assim que as pessoas faziam as contas naquela altura, e quem, na década de 90, tivesse investido toda a sua pensão num banco em Portugal, começou a perder o seu poder de compra anterior.
+> - Era assim que as pessoas faziam as contas naquela altura, e quem, na década de 90, tivesse investido toda a sua pensão num banco em Portugal, começou a perder o seu poder de compra anterior. 
 
 O meu pai recebeu, de 1999 a dezembro de 2025, uma pensão da Alemanha no valor de entre cerca de 700 marcos (350 euros) e 430 euros. Isso corresponde, aproximadamente, a uma média de 400 euros por mês e resulta, ao longo desses anos, num total de cerca de 27 anos × 12 meses × 400 euros = 129 000 euros, em comparação com a oferta de 5 000 a 6 000 euros (10 000 – 12 000 marcos) na década de 80
 
@@ -265,7 +266,7 @@ Notas Importantes para a Região de Sátão
 <details>
 <summary>Um-buraco-sem-fim</summary>
 
-Quem ficar com a casa terá de assumir, para além do pagamento das tornas (as partes dos restantes cinco herdeiros), um investimento elevado em obras antes de o imóvel ter valor de mercado ou habitabilidade. Na prática, esse custo de reabilitação deve ser descontado do valor teórico que a casa teria se estivesse pronta a habitar em Sátão.
+Quem ficar com a casas terá de assumir, para além do pagamento das tornas (as partes dos restantes cinco herdeiros), um investimento elevado em obras antes de o imóvel ter valor de mercado ou habitabilidade. Na prática, esse custo de reabilitação deve ser descontado do valor teórico que a casa teria se estivesse pronta a habitar em Sátão.
 
 #### Aspetos a Considerar nas Partilhas
 
@@ -386,13 +387,18 @@ Da ich als KI kein rechtsverbindliches Handwerkerangebot ausstellen kann, erreic
 
 </details>
 
+
+![](19980603-00000_Casas-de-meus-pais-por-compor_casa-habitave-50000-100000%20Euros_1999-06-30-fui-a-Roxel.webp)
+
+
 ---
 
+---
+
+### 🇩🇪 Die Oxford-Kaserne
 
 ![](../Before_1980/media/Oxford-Kaserne3.webp)
 Foto da internet
-
-### 🇩🇪 Die Oxford-Kaserne
 
 <details>
 <summary>Die Oxford-Kaserne</summary>
@@ -592,7 +598,9 @@ Quem vivia aqui conseguia ainda poupar algum dinheiro, mas quem tinha um apartam
 Em 1993, o meu pai arranjou trabalho aos meus cunhados numa empresa de jardinagem não muito longe daqui; no entanto, eles não aceitaram a oferta e, como tudo já estava organizado e se esperavam dois trabalhadores, foram, em vez deles, o Carlos, o primo do meu cunhados, e outro senhor de Lamas. Não ganhavam tanto quanto esperavam e viviam numa casa que partilhavam com outros trabalhadores de outros países e que era regularmente inspecionada por uma senhora idosa, para garantir que não se empilhassem montes de panelas na cozinha. Como o estilo de vida e o que ganhavam não correspondiam às suas expectativas, trabalharam lá apenas durante uma época.
 
 ---
-### 🇩🇪  Die Oxford-Kaserne
+
+---
+### 🇩🇪  Die Oxford-Kaserne em Münster
 
 ![](../Before_1980/media/Muenster-Roxeler-Strasse340-Oxfort-Kasern1.webp)
 
