@@ -388,7 +388,7 @@ Da ich als KI kein rechtsverbindliches Handwerkerangebot ausstellen kann, erreic
 </details>
 
 
-![](19980603-00000_Casas-de-meus-pais-por-compor_casa-habitave-50000-100000%20Euros_1999-06-30-fui-a-Roxel.webp)
+![](media01/19980603-00000_Casas-de-meus-pais-por-compor_casa-habitave-50000-100000%20Euros_1999-06-30-fui-a-Roxel.webp)
 
 
 ---

@@ -20,7 +20,9 @@ Er wollte den Zug oder den Bus nach Vigo nehmen und von dort aus weiter nach Red
 
 Von Redondela aus wollte er den Weg zu Fuß bis nach Santiago de Compostela zurücklegen. Er versuchte, den Zugfahrplan zu studieren und herauszufinden, wie er von dort wegkommen könnte.
 
-Ich war nach Seixas gefahren, um einen Spaziergang durch das Dorf zu machen und Eindrücke zu sammeln. Als ich den Warteraum der Eisenbahn betrat, fragte er mich, ob ich Französisch spreche – ich sprach ein wenig; obwohl ich etwas Französisch verstand, konnte ich es nicht sprechen. Er wollte nach Vigo.
+Ich war nach Seixas gefahren, um einen Spaziergang durch das Dorf zu machen und Eindrücke zu sammeln. Als ich den Warteraum der Eisenbahn betrat, fragte er mich, ob ich Französisch spreche – ich sprach ein wenig; obwohl ich etwas Französisch verstand, konnte ich es nicht sprechen. 
+
+Er wollte nach Vigo.
 
 Wie?
 
@@ -52,10 +54,13 @@ Um peregrino francês de 75 anos tinha-se perdido na estação ferroviária de S
 Ele queria apanhar o comboio ou o autocarro para Vigo e, a partir daí, seguir para Redondela.
 A partir de Redondela, pretendia percorrer o caminho a pé até Santiago de Compostela. Tentou estudar o horário dos comboios e descobrir como poderia sair dali.
 
-Eu tinha ido até Seixas para dar um passeio pela aldeia e recolher impressões do lugar. Quando entrei na sala de espera da estação ferroviária, ele perguntou-me se eu falava francês – eu falava um pouco; embora compreendesse um pouco de francês, não conseguia falar. Ele queria ir para Vigo. 
+Eu tinha ido até Seixas para dar um passeio pela aldeia e recolher impressões do lugar. Quando entrei na sala de espera da estação ferroviária, ele perguntou-me se eu falava francês – eu soletrava duas palavras ; embora compreendesse um pouco mais que falasse, o meu francês não dava para uma conversação. 
+
+Ele queria ir para Vigo. 
 
 Como?
 Com mapas, planos da cidade, horários dos comboios, fotografias de Vigo e a Internet, consegui finalmente dar-lhe as informações que procurava.
+
 Ele queixou-se de que não havia nenhum sítio onde se pudesse obter informações.
 Só tinha um guia de peregrinação consigo.
 
