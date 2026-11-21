@@ -10,17 +10,17 @@
 
 **Im Café Pita**
 
-1 Bier „Extra 1906“, 4 „Papossecos“-Vollkornbrötchen, 3 Euro und 15 Cent.
+1 Bier „Extra 1906“, 4 „Papossecos –Mistura–“ -Vollkornbrötchen, 3 Euro und 15 Cent.
 
 - **Verloren** in Seixas**
 
 Ein 75-jähriger französischer Pilger hatte sich am Bahnhof von Seixas verlaufen.
 
-Er wollte den Zug oder den Bus nach Vigo nehmen und von dort aus weiter nach Redondela laufen.
+Er wollte den Zug oder den Bus nach Vigo nehmen und von dort aus weiter nach Redondela fahren /laufen?.
 
 Von Redondela aus wollte er den Weg zu Fuß bis nach Santiago de Compostela zurücklegen. Er versuchte, den Zugfahrplan zu studieren und herauszufinden, wie er von dort wegkommen könnte.
 
-Ich war nach Seixas gefahren, um einen Spaziergang durch das Dorf zu machen und Eindrücke zu sammeln. Als ich den Warteraum der Eisenbahn betrat, fragte er mich, ob ich Französisch spreche – ich sprach ein wenig; obwohl ich etwas Französisch verstand, konnte ich es nicht sprechen. 
+Ich war nach Seixas gefahren, um einen Spaziergang durch das Dorf zu machen und mir einen Eindruck von dem Ort zu verschaffen. Als ich den Warteraum des Bahnhofs betrat, fragte er mich, ob ich Französisch spreche – ich verstehe zwar ein paar Wörter Französisch, aber das reicht nicht aus, um ein Gespräch zu führen.
 
 Er wollte nach Vigo.
 
@@ -54,7 +54,8 @@ Um peregrino francês de 75 anos tinha-se perdido na estação ferroviária de S
 Ele queria apanhar o comboio ou o autocarro para Vigo e, a partir daí, seguir para Redondela.
 A partir de Redondela, pretendia percorrer o caminho a pé até Santiago de Compostela. Tentou estudar o horário dos comboios e descobrir como poderia sair dali.
 
-Eu tinha ido até Seixas para dar um passeio pela aldeia e recolher impressões do lugar. Quando entrei na sala de espera da estação ferroviária, ele perguntou-me se eu falava francês – eu soletrava duas palavras ; embora compreendesse um pouco mais que falasse, o meu francês não dava para uma conversação. 
+Tinha ido a Seixas para dar um passeio pela aldeia e ficar com uma ideia do local. Quando entrei na sala de espera da estação, ele perguntou-me se eu falava francês – compreendo algumas palavras em francês, mas não o suficiente para manter uma conversa.
+
 
 Ele queria ir para Vigo. 
 
@@ -68,15 +69,11 @@ Desejo-lhe uma boa viagem até Redondela e um bom caminho até Santiago de Compo
 
 Traduzido com a versão gratuita do tradutor - DeepL.com
 
-
 ---
-
 
 Titel: Domingo Hotel Meira, Vila Ancôra do Mar 14h20
 
 Beginn: Sonntag, 4. September 2022 um 15:00 (Sonntag, 4. September 2022 
-
-
 
 
 </details>
@@ -100,7 +97,9 @@ Quería coger el tren o el autobús a Vigo y, desde allí, continuar hasta Redon
 
 Desde Redondela quería recorrer el camino a pie hasta Santiago de Compostela. Intentó estudiar el horario de trenes y averiguar cómo podía salir de allí.
 
-Yo había ido a Seixas para dar un paseo por el pueblo y recabar impresiones. Cuando entré en la sala de espera de la estación, me preguntó si hablaba francés; yo hablaba un poco; aunque entendía algo de francés, no sabía hablarlo. Quería ir a Vigo.
+Había ido a Seixas para dar un paseo por el pueblo y hacerme una idea del lugar. Cuando entré en la sala de espera de la estación, me preguntó si hablaba francés; entiendo algunas palabras en francés, pero no lo suficiente como para mantener una conversación.
+
+Quería ir a Vigo.
 
 ¿Cómo?
 
@@ -134,7 +133,9 @@ He wanted to take the train or bus to Vigo and travel on from there to Redondela
 
 From Redondela, he intended to walk the rest of the way to Santiago de Compostela. He tried to study the train timetable and work out how he could get away from there.
 
-I had travelled to Seixas to take a stroll through the village and soak up the atmosphere. When I entered the railway waiting room, he asked me if I spoke French – I spoke a little; although I understood some French, I couldn’t speak it. He wanted to go to Vigo.
+I’d gone to Seixas to have a stroll through the village and get a feel for the place. When I walked into the station’s waiting room, he asked me if I spoke French – I do understand a few words of French, but it’s not enough to hold a conversation.
+
+He wanted to go to Vigo.
 
 How?
 

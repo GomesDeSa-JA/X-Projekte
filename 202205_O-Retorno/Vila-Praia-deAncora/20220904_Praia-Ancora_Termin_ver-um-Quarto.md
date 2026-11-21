@@ -48,10 +48,10 @@ Ich habe angerufen, um einen Termin zu vereinbaren, und wir haben uns vor dem Ho
 
 ---
 
-↪ [Index](../Index.md)
+↪ [Index](../../Index.md)
 
 #### Obsidian-Links
->*Internal links that don't work on GitHub*
+>⚠️ *Internal links that don't work on GitHub*
 
 ↪ [Readme](Jakobswege/Readme.md) 
 

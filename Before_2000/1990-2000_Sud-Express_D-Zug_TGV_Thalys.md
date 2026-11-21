@@ -1,18 +1,23 @@
 
-### Köln → Paris
+### A Viagem 
+
+#### Wuppertal-Langerfeld → Mangualde 
+
+Wuppertal-Langerfeld (S8) **→** Wuppertal-Oberbarmem (RB48)**→** Köln (D-ZUG) **→** Paris-Nord (M4 ou M5 ?) **→** Paris-Austerlitz (Sul Expresso) **→** Hendaye (sair e passar por o controle na fronteira) **→** Irun **→** Mangualde 
+
+#### Köln → Paris
 
 ![](1994-1997_Köln-Paris.webp)
 
 | [Köln Hbf](https://www.fernbahn.de/datenbank/suche/?fv_suche_fahrplan=1&fahrplan_ansicht=1&bahnhof_name=Köln%20Hbf&fahrplan_jahr=1986#time2300 "Abfahrtsplan Köln Hbf aufrufen") | 23:27 |     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --- |
 
-### 1997 Köln → Paris-Nord
+#### 1997 Köln → Paris-Nord
 
 ![](1997-1998_Köln_Paris-Nord.webp)
 
-
 ---
-### Paris → Lisboa
+#### Paris → Lisboa
 
 #### Vor dem TGV und Thalys
 - **Ankunft in Paris-Nord:** 6:25 Uhr
@@ -23,11 +28,11 @@
 
 - **Ankunft in Hendaye-Irun:** 21:00 Uhr
 
-1 Stunde in Irun, um einen Sitzplatz im Sud-Express zu reservieren.
+**1 Stunde in Irun, um einen Sitzplatz im Sud-Express zu reservieren.**
+
 An Weihnachten klappt das selten, da der Zug überfüllt war und einige Passagiere – mich eingeschlossen – schon froh waren, einen ruhigen Platz im Gang zu finden, da ständig Leute hin und her liefen, um das Bordrestaurant zu besuchen.
 
-Ein oder zwei Tage vor dem Weihnachtswochenende war es relativ normal, den Luxus zu genießen, sich ein Abteil mit ein oder zwei weiteren Fahrgästen zu teilen und die vier Sitze nutzen zu können, um uns hinzulegen und erholsam zu schlafen. Manchmal mussten wir in der Gegenrichtung den Frühschichtarbeitern Platz machen, die ab Burgos eingestiegen waren.
-
+Ein oder zwei Tage vor dem Weihnachtswochenende war es relativ normal, den Luxus zu genießen, sich ein Abteil mit ein oder zwei weiteren Fahrgästen zu teilen und die 4 von 8 Sitze nutzen zu können, um uns hinzulegen und erholsam zu schlafen. Manchmal mussten wir in der Gegenrichtung den Frühschichtarbeitern Platz machen, die ab Burgos eingestiegen waren.
 #### Nach dem TGV: 
 
 > Thalys: Köln - Paris 06h30 , die spätere Verbindung waren meistens ausgebucht. 

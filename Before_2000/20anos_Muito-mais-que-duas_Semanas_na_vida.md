@@ -1,7 +1,7 @@
 
-> Muitos temas que ainda vou completar, reestruturar e subdividir.
+> ⚠️ Muitos temas que ainda vou completar, reestruturar e subdividir.
 
-> Viele Themen, die ich noch vervollständigen, neu strukturieren und unterteilen werde.
+> ⚠️ Viele Themen, die ich noch vervollständigen, neu strukturieren und unterteilen werde.
 
 ## 🇵🇹 20 anos 
 
@@ -95,17 +95,18 @@ Como havia uma greve e na sexta-feira eu …, … .
 ---
 #### À distancia tudo é diferente
 
-A minha tia Cacilda, que morreu (20xx? ) de cancro — creio que ainda antes de completar sessenta anos —, depois de ter conversado com alguns membros da família e eu corrigi o mal pensado ou suposto, ela disse: «Só isto? Para ti, devia ter sido muito,  muito mais mais.» 
+A minha tia Cacilda, que morreu (20xx? ) de cancro — creio que ainda antes de completar sessenta anos —, depois de ter conversado com alguns membros da família, ela disse: «Só isto? Para ti, devia ter sido muito,  muito mais mais.» 
 
 **..., ... .** 
 
 Sempre foi muito, muito menos , e não sei por que razão pensam que deveria ser muito, muito mais.
 
-**..., ... .** 
 
 Sei o que as pessoas pensavam; expliquei que não era assim, mas elas mantiveram a mesma atitude mesmo depois disso.
 
-Uns dias antes desta semana e  esta semana, as memórias ainda estão tão vivas.
+**..., ... .** 
+
+ Eu corrigi o mal pensado ou suposto, mas mesmo aqueles que viveram e sabem disso negam-no com o seu silêncio. Trata-se de um tema muito complexo da psicologia geral da sociedade portuguesa, que tem origem nos copos da taberna do «Zé Po Vinho» e que chega mesmo a afetar pessoas ao mais alto nível académico. É um tema sobre o qual, um dia, gostaria de escrever em pormenor. 
 
 ---
 ### À procura do Senhor  Pinto na Beira Alta
@@ -130,11 +131,11 @@ Partimos de manhã para visitar o Sr. Pinto — ou, melhor dizendo, para o procu
 
 > **Penso** que o Senhor Pinto é o que está no meio.
 
-### 🇵🇹 A Caserna de Oxford em Münster (NRW)
+#### 🇵🇹 A Caserna de Oxford em Münster (NRW)
 
 ![](../Before_1980/media/Oxford-Kaserne3.webp)
 
-As três pessoas na fotografia e muitos outros civis alemães, portugueses e outros estrangeiros trabalhavam nas bases militares britânicas. Muitos deles viviam nos quartéis e regressaram mais tarde aos seus países de origem, depois de o governo alemão lhes ter proposto o pagamento de todas as pensões num único montante; no entanto, **com isso, perderam o direito a uma pensão de velhice alemã.**
+As três pessoas na fotografia e muitos civis alemães, portugueses e outros estrangeiros trabalhavam nas bases militares britânicas. Muitos deles viviam nos quartéis e regressaram mais tarde aos seus países de origem, depois de o governo alemão lhes ter proposto o pagamento de todas as pensões num único montante; no entanto, **com isso, perderam o direito a uma pensão de velhice alemã.**
 
 ![](../Before_1980/media/Muenster-Roxelerstr340.webp)
 
@@ -163,7 +164,7 @@ Como dispunha de poupanças e possuía uma casa em Portugal, isso já era sufici
 
 **A casa á esquerda**  onde vivem tem 15 m x 10 m. 
 
-**Notas:** Nos últimos anos, não foram feitos investimentos na casa e muitas obras ficaram por concluir. Quem herdar a casa  tem, portanto, de investir, pelo menos, 50 000 euros; e para a tornar verdadeiramente confortável, serão necessários mais alguns  euros.
+**Notas:** Nos últimos anos, não foram feitos investimentos na casa e muitas obras ficaram por concluir. Quem herdar a casa  tem, portanto, de investir, pelo menos, 50 000 euros; e para a tornar verdadeiramente confortável, terão que adissionar mais alguns  euros.
 
 ---
 ![](media01/19980603-00000_Casas-de-meus-pais-por-compor_casa-habitave-50000-100000%20Euros_1999-06-30-fui-a-Roxel.webp)
@@ -191,8 +192,7 @@ Distribuição da casa:
 - 2 portas exteriores para a sala de estar
 - 13-14  portas interiores
 - 9 janelas normais
-- 2 janelas na casa de banho, que têm a mesma largura que 
-- as janelas normais, mas são menos altas.
+- 2 janelas na casa de banho, que têm a mesma largura que  as janelas normais, mas são menos altas.
 - 3 janelas de sótão "telhado" 
 - 2 portas grandes de garagem no rés-do-chão
 - 2 portas normais no rés-do-chão para a arrecadação.
@@ -637,13 +637,7 @@ Nachdem die britischen Streitkräfte die Oxford-Kaserne 2013 als letzten Standor
 
 ..., ... . 
 
-
 ---
-
-
-
-
-
 
 ### Expo98
 
