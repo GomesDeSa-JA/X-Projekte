@@ -16,7 +16,7 @@
 
 Ein 75-jähriger französischer Pilger hatte sich am Bahnhof von Seixas verlaufen.
 
-Er wollte den Zug oder den Bus nach Vigo nehmen und von dort aus weiter nach Redondela fahren /laufen?.
+Er wollte den Zug oder den Bus nach Vigo nehmen und von dort aus weiter nach Redondela fahren.
 
 Von Redondela aus wollte er den Weg zu Fuß bis nach Santiago de Compostela zurücklegen. Er versuchte, den Zugfahrplan zu studieren und herauszufinden, wie er von dort wegkommen könnte.
 
@@ -24,7 +24,7 @@ Ich war nach Seixas gefahren, um einen Spaziergang durch das Dorf zu machen und 
 
 Er wollte nach Vigo.
 
-Wie?
+**Wie?**
 
 Mit Karten, Stadtplänen, Zugfahrplänen, Fotos von Vigo und dem Internet gelang es mir schließlich, ihm die Informationen zu geben, die er suchte.
 

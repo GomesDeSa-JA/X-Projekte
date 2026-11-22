@@ -1,4 +1,7 @@
 
+### A dança das Damas
+
+
 <details>
 <summary>🇩🇪 Das_Damespiel </summary>
 
@@ -286,7 +289,7 @@ Den leicht selbstironischen Ton deiner Erinnerungen und die abschließende offen
 
 ---
 
-↪ [Index](../../Index.md)
+↪ [Index](../Index.md)
 #### Obsidian-Links
 > ⚠️ *Internal links that don't work on GitHub*
 

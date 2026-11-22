@@ -2,9 +2,7 @@
 
 > **Bemerkung:**  Conferir as datas, os e-Mails  e os apontamentos
 
-
 ### 2022 Outubro
-
 
 
 ![](20221007-1400_20230216-114251_ver-Email.webp) ; ![](20221007-1400_20230216_114258_ver-Email.webp)

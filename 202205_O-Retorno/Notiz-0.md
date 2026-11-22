@@ -1,8 +1,6 @@
 
 
 
-↪ [Index](../../Index.md)
-
 ---
 
 <details>
@@ -11,6 +9,8 @@
 </details>
 
 ---
+
+↪ [Index](../Index.md)
 #### Obsidian-Links
 >*Internal links that don't work on GitHub*
 

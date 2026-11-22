@@ -10,19 +10,17 @@
 - 
 
 ---
-#### Advogada
-**Obsidia Links** 
->*⚠️  Internal links that don't work on GitHub*
->
--  [20221007_Vila-Praia-de-Ancora_Nelas](20221007_Vila-Praia-de-Ancora_Nelas.md)
+#### Advogada(s)
+
+-  [Vila Praia de Ancora → Nelas](202210-202506_O-Processo/202205_O-Retorno/Vila-Praia-deAncora/20221007_Vila-Praia-de-Ancora_Nelas.md)
 - 
-- [20230203_Rechnung-ohne-Rechtsberatung](20230203_Rechnung-ohne-Rechtsberatung.md)
+-  [Rechnung ohne Rechtsberatung](202210-202506_O-Processo/20230203_Rechnung-ohne-Rechtsberatung.md)
 - 
--  [20230216_Haan_Viana-do-Castelo_Nelas](20230216_Haan_Viana-do-Castelo_Nelas.md)
+-  [Haan → Viana do Castelo → Nelas](202210-202506_O-Processo/20230216_Haan_Viana-do-Castelo_Nelas.md)
 - 
 ---
 
-- [Artificial-Intelligence](Outros-Temas/Artificial-Intelligence.md)
+-  [AI – Artificial Intelligence](Outros-Temas/Artificial-Intelligence.md)
 
 ---
 ### B
@@ -30,11 +28,11 @@
 
 
 
-- [Bernoulli-Effekt](Outros-Temas/Bernoulli-Effekt.md)
+-  [Bernoulli-Effekt](Outros-Temas/Bernoulli-Effekt.md)
 
 -  [Os Bisavós](Before_1950/Meine_Urgroßeltern.md)
 
-- [BMI – Body Mass Index ](Outros-Temas/Body-Mass-Index_BMI.md)
+-  [BMI – Body Mass Index ](Outros-Temas/Body-Mass-Index_BMI.md)
 
 - 
 
@@ -77,7 +75,7 @@
 ### D
  [🔠](#Index) 
 
--  [Dança-de-Damas](Outros-Temas/Dança-de-Damas.md)
+-  [A Dança das Damas](Outros-Temas/Dança-de-Damas.md)
 - 
 -  [Dunkel Fahrt or Newcomer by Dark Run](Outros-Temas/Newcomer-by-Dark-Run.md)
 - 
@@ -230,7 +228,7 @@
 -  
 -  [Richter 🇩🇪 vs 🇵🇹](Outros-Temas/Richter_DE_vs_PT.md)
 - 
--  [Raupe "Die Raupe"](A-lagarta.md)
+-  [Die Raupe](A-lagarta.md)
 
 ---
 ###  S – Z

@@ -15,6 +15,7 @@ Wenn man kein Entomologe ist und eine Raupe betrachtet, sieht man ein hässliche
 
 ---
 
+↪ [Index](../Index.md)
 #### Obsidian-Links
 >⚠️ *Internal links that don't work on GitHub*
 

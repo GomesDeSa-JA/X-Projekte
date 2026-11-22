@@ -8,7 +8,9 @@ Ich habe beschlossen, mich mit einem der tiefsten Ursprünge meiner Existenz aus
 **Ihr Name wurde vom Wind der Vergessenheit davongetragen.**
 
 <details>
-<summary>Als deine Urgroßmutter starb, </summary>
+<summary> Wie hieß sie?</summary>
+
+ #### Wie hieß sie?
 
 Ich erinnere mich nicht an den Namen meiner Urgroßmutter. Wenn er einmal erwähnt wurde, schien ihn der Wind der Vergessenheit davonzutragen, sobald er ausgesprochen war. Meine Erinnerung konnte ihn nicht festhalten.
 
@@ -235,7 +237,9 @@ Decidi dedicar-me a um dos aspetos mais profundos das minhas origens: a família
 **O seu nome foi levado pelo vento do esquecimento.**
 
 <details>
-<summary>Quando a tua bisavó morreu</summary>
+<summary> Como é que ela se chamava?</summary>
+
+ #### Como é que ela se chamava?
 
 Não me lembro do nome da minha bisavó. Quando, por vezes, o seu nome era mencionado, parecia que o vento do esquecimento o levava assim que era pronunciado. A minha memória nunca conseguiu retê-lo.
 
@@ -463,7 +467,9 @@ He decidido dedicarme a uno de los aspectos más profundos de mis orígenes: la 
 **Su nombre se lo llevó el viento del olvido.**
 
 <details>
-<summary>Cuando murió tu bisabuela, </summary>
+<summary> ¿Cómo se llamaba? </summary>
+
+ ¿Cómo se llamaba?
 
 No recuerdo el nombre de mi bisabuela. Cuando alguna vez se mencionaba, parecía que el viento del olvido se lo llevaba en cuanto era pronunciado. Mi memoria nunca consiguió retenerlo.
 
@@ -691,7 +697,9 @@ I have decided to explore one of the deepest roots of my existence: my mother's 
 **Her name was carried away by the wind of oblivion.**
 
 <details>
-<summary>When your great-grandmother died, </summary>
+<summary>What was her name? </summary>
+
+#### What was her name?
 
 I cannot remember my great-grandmother's name. Whenever it was mentioned, it seemed to be carried away by the wind of oblivion as soon as it was spoken. My memory never managed to hold on to it.
 
@@ -907,3 +915,24 @@ Distribution of the Estate
 </details>
 
 ----
+
+---
+
+<details>
+<summary></summary>
+
+</details>
+
+---
+↪ [Index](../Index.md)
+
+#### Obsidian-Links
+>⚠️ *Internal links that don't work on GitHub*
+
+↪ [Readme](Jakobswege/Readme.md) 
+
+↪ [Os Caminhos](Os_Caminhos.md)
+
+↪ [Index](Index.md)
+
+ ...→

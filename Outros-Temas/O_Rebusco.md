@@ -14,7 +14,7 @@ Quando eu era criança, o mundo rural já se encontrava em transformação. A me
 
 No entanto, o «rebusco» das azeitonas — manteve a sua importância, e via-se gente a inclinar-se sobre o chão frio, com sacos de juta nas mãos, repetindo gestos que remontavam a séculos atrás, pois antigamente cada gota de azeite tinha para as pessoas um valor muito maior do que hoje e era cuidadosamente racionada ao longo do ano – não se ia simplesmente ao supermercado para comprar mais.
 
-Hoje, olhando para trás, percebo que cada rebusco era mais do que um passeio ou uma brincadeira: era o eco de uma história longa, feita de trabalho duro, uma pobreza digna, onde nem sequer se desperdiçava uma azeitona  e uma relação íntima com a terra que moldou gerações.
+Hoje, olhando para trás, percebo que cada rebusco era mais do que um passeio ou uma brincadeira: era o eco de uma história longa, feita de trabalho duro, uma pobreza digna, onde nem sequer se desperdiçava uma azeitona  e era uma relação íntima com a terra que moldou gerações.
 
 ---
 
@@ -34,8 +34,7 @@ Dennoch behielt , „O Rebusco“,  das Sammeln der Oliven seine Bedeutung, denn
 
 Dennoch behielt das „Rebusco“ – das Sammeln der Oliven – seine Bedeutung, und man sah Menschen, die sich über den kalten Boden beugten, mit Jutesäcken in den Händen, und Gesten wiederholten, die Jahrhunderte zurückreichten, denn früher hatte jeder Tropfen Olivenöl für die Menschen einen viel größeren Wert als heute und wurde über das Jahr hinweg sorgfältig rationiert – man ging nicht einfach in den Supermarkt, um Nachschub zu kaufen. 
 
-Wenn ich heute zurückblicke, wird mir klar, dass jeder "Rebusco" mehr war als nur ein Spaziergang oder ein Spiel: Er war das Echo einer langen Geschichte, geprägt von harter Arbeit, würdevoller Armut, in der nicht einmal eine Olive verschwendet wurde und einer innigen Verbindung zum Land, die Generationen geprägt hat.
-
+Wenn ich heute zurückblicke, wird mir klar, dass jeder "Rebusco" mehr war als nur ein Spaziergang oder ein Spiel: Er war das Echo einer langen Geschichte, geprägt von harter Arbeit, würdevoller Armut, in der nicht einmal eine Olive verschwendet wurde und war einer innigen Verbindung zum Land, die Generationen geprägt hat.
 
 ---
 ## 🌾‘Rebusco’
@@ -49,7 +48,6 @@ Wenn ich heute zurückblicke, wird mir klar, dass jeder "Rebusco" mehr war als n
 In the days of my grandparents and great-grandparents, the rural economy was harsh and precarious. Those without land worked as day labourers and were paid by the day; any additional source of food made all the difference. ‘Gathering’ was, therefore, an indispensable practice: every olive, every ear of corn, every chestnut picked up from the ground meant one more day with food on the table. It was a custom dictated by necessity and tradition, tolerated by landowners and respected by the community.
 
 When I was a child, the rural world was already undergoing change. Mechanisation was slowly taking hold, migration to the cities and abroad was depopulating rural areas, and absolute dependence on the land was waning.
-
 
 Nevertheless, the ‘rebusco’ – the olive harvest – retained its importance, and one would see people bending over the cold ground, jute sacks in their hands, repeating gestures that dated back centuries; for in the past, every drop of olive oil was of far greater value to people than it is today and was carefully rationed throughout the year – people didn’t simply pop into the supermarket to buy more.
 
@@ -73,7 +71,6 @@ Sin embargo, el «rebusco» —la recolección de aceitunas— conservó su impo
 
 Hoy, al echar la vista atrás, me doy cuenta de que cada "Rebusco" era más que un paseo o un juego: era el eco de una larga historia, forjada por el trabajo duro,  la pobreza digna en la que no se desperdiciaba ni una aceituna y una relación íntima con la tierra que ha moldeado a generaciones.
 
-
 ---
 
 <details>
@@ -82,10 +79,10 @@ Hoy, al echar la vista atrás, me doy cuenta de que cada "Rebusco" era más que 
 </details>
 
 ---
-↪ [Index](Index.md)
+↪ [Index](../Index.md)
 
 #### Obsidian-Links
->*Internal links that don't work on GitHub*
+>⚠️ *Internal links that don't work on GitHub*
 
 ↪ [Readme](Jakobswege/Readme.md) 
 

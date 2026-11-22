@@ -73,3 +73,24 @@ Behälter: Nach dem Mahlen wird das Mehl dort abgelegt, wo es gelagert wird  
      Casa do Moinho: Construção em pedra (geralmente granito) para abrigar o maquinário (Moleiro: ele levava uma maquia de 10% para a moagem do grão “a maquia”. 
 
 5. Physische Struktur      Mühlenhaus: Bau aus Stein (meist Granit) zur Unterbringung der Maschinen (Mühler: Er nahm eine 10%ige Kompensation “a Maquia” für das Mahlen des Getreides.
+
+---
+
+<details>
+<summary></summary>
+
+</details>
+
+---
+↪ [Index](../Index.md)
+
+#### Obsidian-Links
+>⚠️ *Internal links that don't work on GitHub*
+
+↪ [Readme](Jakobswege/Readme.md) 
+
+↪ [Os Caminhos](Os_Caminhos.md)
+
+↪ [Index](Index.md)
+
+ ...→

@@ -389,9 +389,6 @@ Da ich als KI kein rechtsverbindliches Handwerkerangebot ausstellen kann, erreic
 
 </details>
 
-
----
-
 ---
 
 ### 🇩🇪 Die Oxford-Kaserne in Münster (NRW)
@@ -422,7 +419,6 @@ Damals, in den 80er Jahren, mitten in der Wirtschaftskrise, erhielten diejenigen
 </details>
 
 </details>
-
 
 🇵🇹 Entrei aqui duas vezes entre outubro e dezembro de 1985, mas naquela altura éramos controlados pelos militares à entrada, embora fosse um controle pouco rigoroso.
 
@@ -596,7 +592,7 @@ O que não sei é se os trabalhadores tinham um quarto individual ou um quarto p
 Quem vivia aqui conseguia ainda poupar algum dinheiro, mas quem tinha um apartamento na cidade universitária de Münster mal lhe restava dinheiro para comer depois de pagar a renda
 ### Recusaram
 
-Em 1993, o meu pai arranjou trabalho aos meus cunhados numa empresa de jardinagem não muito longe daqui; no entanto, eles não aceitaram a oferta e, como tudo já estava organizado e se esperavam dois trabalhadores, foram, em vez deles, o Carlos, o primo do meu cunhados, e outro senhor de Lamas. Não ganhavam tanto quanto esperavam e viviam numa casa que partilhavam com outros trabalhadores de outros países e que era regularmente inspecionada por uma senhora idosa, para garantir que não se empilhassem montes de panelas na cozinha. Como o estilo de vida e o que ganhavam não correspondiam às suas expectativas, trabalharam lá apenas durante uma época.
+Em 1993, o meu pai arranjou trabalho aos meus cunhados numa empresa de jardinagem não muito longe daqui; no entanto, eles não aceitaram a oferta e, como tudo já estava organizado e se esperavam dois trabalhadores, foram, em vez deles, o Carlos, o primo do meu cunhado, e outro senhor de Lamas. Não ganhavam tanto quanto esperavam e viviam numa casa que partilhavam com outros trabalhadores de outros países e que era regularmente inspecionada por uma senhora idosa, para garantir que não se empilhassem montes de panelas na cozinha. Como o estilo de vida e o que ganhavam não correspondiam às suas expectativas, trabalharam lá apenas durante uma época.
 
 ---
 
