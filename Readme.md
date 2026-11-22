@@ -28,7 +28,7 @@ Ein solches Konto soll es ermöglichen, eine längere Auszeit vom Berufsleben zu
 
 Das angesparte Guthaben konnte beispielsweise für ein Sabbatjahr, berufliche Weiterbildungen, die Pflege von Angehörigen oder größere persönliche Veränderungen im Leben genutzt werden. Unter bestimmten Voraussetzungen war es sogar möglich, das Langzeitkonto auf ein anderes Unternehmen zu übertragen, sofern dieses ebenfalls ein vergleichbares Kontenmodell anbot.
 
-Da ich in Steuerklasse I eingestuft war und entsprechend hohe Abzüge von meinem Gehalt hatte, beschloss ich, einen Teil meines Bruttogehalts auf dieses Konto einzuzahlen.
+Da ich in **Steuerklasse I** eingestuft war und entsprechend hohe Abzüge von meinem Gehalt hatte, beschloss ich, einen Teil meines Bruttogehalts auf dieses Konto einzuzahlen.
 
 Für meine Jakobswege nahm ich ein- oder zweimal jeweils bis zu eineinhalb Wochen Guthaben von diesem Konto in Anspruch. Während der COVID-19-Pandemie nutzte ich es für eine Auszeit von mehr als einem Monat. Im Jahr 2022 waren es schließlich zehn Monate.
 
@@ -107,7 +107,7 @@ O objetivo desta conta é permitir que os trabalhadores façam uma pausa prolong
 
 O montante acumulado podia ser utilizado, por exemplo, para um ano sabático, formação e aperfeiçoamento profissional, assistência a familiares ou mudanças importantes na vida pessoal. Em determinadas condições, também era possível transferir a conta de longo prazo para outra empresa, desde que esta dispusesse de um modelo semelhante.
 
-Como estava enquadrado na "classe1" fiscal I e tinha, consequentemente, muitos descontos no salário, decidi depositar uma parte do meu salário bruto nesta conta.
+Como estava enquadrado na **classe fiscal I** e tinha, consequentemente, muitos descontos no salário, decidi depositar uma parte do meu salário bruto nesta conta.
 
 Para fazer os meus Caminhos de Santiago, utilizei o saldo desta conta uma ou duas vezes, em períodos de até uma semana e meia. Durante a pandemia de COVID-19, recorri a ela para fazer uma pausa de mais de um mês. Em 2022, foram finalmente dez meses.
 
@@ -188,7 +188,7 @@ El objetivo de esta cuenta es permitir que los trabajadores puedan tomarse una p
 
 El saldo acumulado podía utilizarse, por ejemplo, para tomarse un año sabático, realizar cursos de formación profesional, cuidar de familiares o afrontar cambios importantes en la vida personal. En determinadas condiciones, también era posible transferir la cuenta a otra empresa, siempre que esta dispusiera de un sistema similar.
 
-Como pertenecía al grupo fiscal I y tenía, por tanto, numerosas deducciones en mi salario, decidí ingresar una parte de mi salario bruto en esta cuenta.
+Como pertenecía al **grupo fiscal I** y tenía, por tanto, numerosas deducciones en mi salario, decidí ingresar una parte de mi salario bruto en esta cuenta.
 
 Para realizar mis Caminos de Santiago, recurrí al saldo de esta cuenta una o dos veces, durante períodos de hasta una semana y media. Durante la pandemia de COVID-19, la utilicé para tomarme una pausa de más de un mes. En 2022, finalmente, fueron diez meses.
 
@@ -270,7 +270,7 @@ The purpose of this account is to allow employees to take an extended break from
 
 The accumulated funds could be used for various purposes, such as taking a sabbatical year, pursuing further professional training, caring for family members or making significant changes in one's personal life. Under certain conditions, it was also possible to transfer the long-term savings account to another company, provided that the new employer offered a comparable scheme.
 
-Since I was in German tax class I and therefore had substantial deductions from my salary, I decided to contribute part of my gross salary to this account.
+Since I was in German **tax class I** and therefore had substantial deductions from my salary, I decided to contribute part of my gross salary to this account.
 
 For my Camino pilgrimages, I withdrew funds from this account once or twice, taking periods of up to a week and a half each time. During the COVID-19 pandemic, I used it to take a break of more than a month. In 2022, I eventually took ten months.
 
@@ -324,7 +324,7 @@ Today, I am writing all this down to come to terms with many aspects of my life 
 
 ---
 
-↪ [Index](../Index.md)
+↪ [Index](Index.md)
 
 #### Obsidian-Links
 >*Internal links that don't work on GitHub*
