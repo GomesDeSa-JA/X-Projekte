@@ -4,8 +4,8 @@
 
 > El verbo «rebuscar» significa, en portugués, «buscar minuciosamente».
 
-![](20250521_121649-Oliveiras.webp)
-  
+![](Media01/20250521_121649-Oliveiras.webp)
+
   🇵🇹 Na minha aldeia, a palavra rebusco não era apenas uma expressão do quotidiano: era um vestígio vivo de um modo de vida antigo, marcado pela agricultura de subsistência e pela desigualdade na posse da terra. Durante gerações, ir ao rebusco significou percorrer vinhas, searas, olivais  e soutos depois da vindima ou da colheita, à procura dos frutos que tinham ficado para trás. Para muitos, sobretudo para quem não tinha terras próprias, esse gesto simples era uma estratégia de sobrevivência.
 
 No tempo dos meus avós e bisavós, a economia rural era dura e frágil. Quem não tinha terras trabalhava como jornaleira/o, recebendo o pagamento ao dia, e qualquer suplemento alimentar fazia diferença. O rebusco era, por isso, uma prática essencial: cada azeitona, cada espiga, cada castanha apanhada do chão representava mais um dia com comida na mesa. Era um costume regulado pela necessidade e pela tradição, tolerado pelos proprietários e respeitado pela comunidade.

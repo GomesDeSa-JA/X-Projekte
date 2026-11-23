@@ -433,7 +433,7 @@ No entanto, o dinheiro obtido com a venda das propriedades não foi suficiente. 
 
 **Nota:** Uma parte dessas dívidas ainda teve de ser paga pela minha mãe, que trabalhava à jorna.
 
-Mais tarde, no final da década de 1960, quando nós nascemos, foi o meu avô quem a ajudou financeiramente. Enviou-lhe do Brasil 1.000 escudos para que pudesse pagar os medicamentos e o leite em pó de que precisávamos na farmácia do Dr. Lausto Xavier, em Lamas.
+Mais tarde, no final da década de 1960, quando nós nascemos, foi o meu avô quem a ajudou financeiramente. Enviou-lhe do Brasil 1.000 escudos para que pudesse pagar os medicamentos e o leite em pó de que precisávamos na farmácia do Dr. Fausto Xavier, em Lamas.
 
 Naquela época, era habitual as pessoas levantarem os medicamentos a crédito na farmácia e pagarem a conta quando tivessem condições financeiras para o fazer.
 
@@ -665,7 +665,7 @@ Sin embargo, el dinero de la venta de las propiedades no fue suficiente. Por eso
 
 **Nota:** Una parte de esas deudas todavía tuvo que ser pagada por mi madre, que trabajaba como jornalera.
 
-Más tarde, a finales de la década de 1960, cuando nosotros nacimos, fue mi abuelo quien la ayudó económicamente. Desde Brasil le envió 1.000 escudos para que pudiera pagar los medicamentos y la leche en polvo que necesitábamos en la farmacia del Dr. Lausto Xavier, en Lamas.
+Más tarde, a finales de la década de 1960, cuando nosotros nacimos, fue mi abuelo quien la ayudó económicamente. Desde Brasil le envió 1.000 escudos para que pudiera pagar los medicamentos y la leche en polvo que necesitábamos en la farmacia del Dr. Fausto Xavier, en Lamas.
 
 En aquella época era habitual que la gente retirara los medicamentos de la farmacia a crédito y pagara la cuenta cuando tuviera medios económicos para hacerlo.
 
@@ -893,7 +893,7 @@ However, the money from selling the properties was not enough. My grandfather th
 
 **Note:** My mother, who worked as a day labourer, still had to repay part of these debts.
 
-Later, towards the end of the 1960s, when we were born, my grandfather was the one who provided her with financial support. He sent her 1,000 Escudos from Brazil so that she could pay for the medicines and powdered milk we needed at Dr. Lausto Xavier's pharmacy in Lamas.
+Later, towards the end of the 1960s, when we were born, my grandfather was the one who provided her with financial support. He sent her 1,000 Escudos from Brazil so that she could pay for the medicines and powdered milk we needed at Dr. Fausto Xavier's pharmacy in Lamas.
 
 At that time, it was common for people to obtain their medicines from the pharmacy on credit and settle the bill once they were financially able to do so.
 

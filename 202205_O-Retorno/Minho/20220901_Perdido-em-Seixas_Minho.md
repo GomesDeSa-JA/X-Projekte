@@ -59,7 +59,8 @@ Tinha ido a Seixas para dar um passeio pela aldeia e ficar com uma ideia do loca
 
 Ele queria ir para Vigo. 
 
-Como?
+**Como?**
+
 Com mapas, planos da cidade, horários dos comboios, fotografias de Vigo e a Internet, consegui finalmente dar-lhe as informações que procurava.
 
 Ele queixou-se de que não havia nenhum sítio onde se pudesse obter informações.
@@ -101,7 +102,7 @@ Había ido a Seixas para dar un paseo por el pueblo y hacerme una idea del lugar
 
 Quería ir a Vigo.
 
-¿Cómo?
+**¿Cómo?**
 
 Con mapas, planos de la ciudad, horarios de trenes, fotos de Vigo e Internet, al final conseguí darle la información que buscaba.
 
@@ -137,7 +138,7 @@ I’d gone to Seixas to have a stroll through the village and get a feel for the
 
 He wanted to go to Vigo.
 
-How?
+**How?**
 
 With the help of maps, city plans, train timetables, photos of Vigo and the internet, I finally managed to give him the information he was looking for.
 

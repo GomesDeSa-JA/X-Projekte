@@ -44,6 +44,23 @@ Ich ging weiter zur Station der _Guardia Civil_ in Âncora Praia. Noch vor der T
 
 Wieder zu Hause angekommen, bot mir ein marokkanischer Mitbewohner sofort an, mich über seinen Laptop bei Google anzumelden, um das Handy zu lokalisieren. Ich lehnte dankend ab – ich hatte ja mein eigenes Tablet und meinen Laptop. Und hier begann mein systematischer Plan: Ich nutzte mein Tablet als Testobjekt. Ich prüfte die Google-Lokalisierungsfunktionen unter verschiedenen Bedingungen, um exakt herauszufinden, welche Daten und Werte das System in Abhängigkeit vom Online- oder Offline-Modus sendet. Durch diesen Test verstand ich die Signale. Obwohl das gestohlene Handy offline war, konnte ich den genauen Akkustatus einsehen. Als ich bemerkte, dass der Akku minimal Energie verloren hatte, wusste ich: Jemand hantiert mit dem Gerät.
 
+![](Media01/20220928025957_Galaxy-Tab_Vila-Praia-de-A.webp)
+
+<details>
+<summary></summary>
+
+21:26
+
+![](20220927212608-A52S-Vila-Praia-de-A.webp)
+
+03:04
+![](Media01/20220928030436_Galaxy-Tab_Vila-Praia-de-A.webp)
+
+03:22
+![](Media01/20220928032250-A52_Vila-Praia-de-A.webp)
+
+</details>
+
 Mitten in der Nacht schritt ich zur Tat. Wieder und wieder aktivierte ich per Fernzugriff den laut schrillenden Alarm. Die psychologische Kriegsführung zeigte Wirkung: Der Dieb verlor in seiner Wohnung die Nerven. In den praktischen Kartenfächern meiner Handyhülle hatte er genau das gefunden, worauf er es abgesehen hatte: etwa 150 Euro Bargeld. Zudem steckten dort zwei Visitenkarten von Remax-Immobilienmaklern sowie einige meiner persönlichen Notizen.
 
 Nachdem er das Geld an sich genommen und die SIM- sowie die unverschlüsselte Micro-SD-Karte herausgerissen hatte, wurde ihm das laut schreiende Handy in der nächtlichen Ruhe der Nebenstraßen zu einer akuten Gefahr. Da er den schrillenden Alarm nicht ausschalten konnte und Angst vor Entdeckung hatte, flüchtete er mitten in der Nacht nach draußen und warf das unaufhörliche Smartphone in einer Seitengasse weg.

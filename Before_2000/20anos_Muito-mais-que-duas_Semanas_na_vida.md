@@ -455,12 +455,12 @@ A 1 de janeiro de 1999, ambas as moedas foram irrevogavelmente indexadas ao euro
 **Portugal**
 
  **Contas:**  3,5 Marcos por hora  =   210 Escudos por 60 minutos de trabalho.
- Um  corte de cabelo  de 20 Minutos na aldeia em Portugal custava-me 
+ Um  corte de cabelo  de 20 Minutos **na aldeia** em Portugal custava-me 
  
 > **100/210x60 = **28, 5 Minutos** de trabalho na Alemanha.**
 
  **Contas:**  3,5 Marcos por hora  =   210 Escudos por 60 minutos de trabalho 
- Um  corte de cabelo  de 20 Minutos para turistas, alentejanos  e transmontanos em Lisboa ou no  Algarve  em Portugal custava
+ Um  corte de cabelo  de 20 Minutos para turistas, alentejanos  e transmontanos **em Lisboa** ou no  Algarve  em Portugal custava
  
  > **(200 a  300)/210x60 = ca. **57 a 85  Minutos**  de trabalho na Alemanha.**
  

@@ -30,7 +30,6 @@ El domingo por la mañana, cuando París todavía no había despertado del todo,
 
 El parque de la Villa Cathala también era un lugar maravilloso para relajarse durante las pausas del almuerzo; quizá el lugar más agradable para descansar que he conocido a lo largo de toda mi vida laboral. Durante aquellos calurosos días de verano, buscaba un rincón a la sombra, simplemente cerraba los ojos y disfrutaba de la tranquilidad y del frescor de los árboles.
 
-
 #### 🇬🇧 A Month in Paris
 
 - **Period:** Sunday, 28 June 2009, 08:00 – Friday, 17 July 2009, 16:00
@@ -41,8 +40,16 @@ On Sunday morning, before Paris had properly woken up, I went for a walk to Mont
 
 The park at the Villa Cathala was also a wonderful place to relax during lunch breaks – perhaps the most pleasant place to take a break that I have ever experienced throughout my working life. On those hot summer days, I would find a shady spot, simply close my eyes and enjoy the peace and the cool shade of the trees.
 
-
 ---
+<details>
+<summary></summary>
+
+![](media00/20090622_15h30-16h30_CMSM_Exame-medico1.webp)
+
+![](20090623-30_Contrat-de-MissionTemporaire.webp)
+
+</details>
+
 ### Villa Cathala - Maison des arts
 
 > **2 Allée de Maintenon, 93160 Noisy-le-Grand, Frankreich**

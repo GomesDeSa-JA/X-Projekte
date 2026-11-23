@@ -153,7 +153,7 @@ Enquanto na Alemanha as regras relativas à pandemia se tornavam cada vez mais r
 
 Desde então, muita coisa aconteceu e tudo acabou por seguir um caminho muito diferente daquele com que tinha sonhado. 
 
-Hoje, escrevo tudo isto para para processar muitas coisas da minha vida e das experiências que vivi, tomar consciência do que aconteceu e, ao mesmo tempo, partilhar estas experiências com outras pessoas.
+Hoje, escrevo tudo isto para processar muitas coisas da minha vida e das experiências que vivi, tomar consciência do que aconteceu e, ao mesmo tempo, partilhar estas experiências com outras pessoas.
 
 </details>
 

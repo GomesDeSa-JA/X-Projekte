@@ -12,7 +12,7 @@
 ---
 #### Advogada(s)
 
--  [Vila Praia de Ancora → Nelas](202210-202506_O-Processo/202205_O-Retorno/Vila-Praia-deAncora/20221007_Vila-Praia-de-Ancora_Nelas.md)
+-  [Vila Praia de Ancora → Nelas](202210-202506_O-Processo/20221007_Vila-Praia-de-Ancora_Nelas.md)
 - 
 -  [Rechnung ohne Rechtsberatung](202210-202506_O-Processo/20230203_Rechnung-ohne-Rechtsberatung.md)
 - 
@@ -153,7 +153,7 @@
 ### L
  [🔠](#Index) 
 
-- [Lagarta –A lagarta–](Outros-Temas/A-lagarta.md)
+-  [A lagarta ](Outros-Temas/A-lagarta.md)
 -  
 - 
 -  [Lima – Madrid](Outros-Temas/Lima-Madrid.md)
@@ -186,7 +186,7 @@
  [🔠](#Index) 
 
 -  
--  [O Rebusco](Outros-Temas/O_Rebusco.md)
+
 -  
 -  
 
@@ -225,25 +225,30 @@
  [🔠](#Index) 
 
 -  
--  
+-  [Die Raupe](Outros-Temas/A-lagarta.md)
+-   
+-  [O Rebusco](Outros-Temas/O_Rebusco.md) 
+- 
 -  [Richter 🇩🇪 vs 🇵🇹](Outros-Temas/Richter_DE_vs_PT.md)
 - 
--  [Die Raupe](A-lagarta.md)
+
 
 ---
 ###  S – Z
 ### S
  [🔠](#Index) 
 
--  [Der Sinn des Lebens / O sentido da Vida](X-Projekte/Readme.md)
-
+-  [Der Sinn des Lebens / O sentido da Vida](Readme.md)
+- 
 -  
 
 ---
 ### T
  [🔠](#Index) 
 
-- [Handy / Telemóvel Chronik](Outros-Temas/Handy_Telemovel-Chronik.md)
+-  [Os Tanganhos ](Before_1990/Os-Tanganhos_A-Lenha.md)
+- 
+- [Telemóvel Chronik](Outros-Temas/Handy_Telemovel-Chronik.md)
 - 
 
 ---
