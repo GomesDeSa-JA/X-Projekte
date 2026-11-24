@@ -77,7 +77,6 @@ Hoy, al echar la vista atrás, me doy cuenta de que cada "Rebusco" era más que 
 </details>
 
 ---
-↪ [Os Tanganhos –A Lenha– ](Before_1990/Os-Tanganhos_A-Lenha.md)
 
 ↪ [Index](../Index.md)
 

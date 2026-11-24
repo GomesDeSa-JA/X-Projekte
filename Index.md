@@ -6,7 +6,7 @@
 #### A
 [🔠](#Index) 
 
-- 
+-  [A-gestao-tradicional-da-paisagem](Before_1960/A-gestao-tradicional-da-paisagem.md)
 - 
 
 ---
@@ -45,11 +45,12 @@
 - [Coimbra  – Santa Clara – ](Before_1990/19880303_Coimbra_Santa-Clara.md)
 
 ---
-#### Caminhos
+#### Os Caminhos / Jakobswege
 
 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 
-**Obsidia Links** 
+---
+#### **Obsidia Links** 
 >*⚠️  Internal links that don't work on GitHub*
 
 - ↪ [A-Promessa-Herdada](A-Promessa-Herdada.md)
@@ -64,7 +65,6 @@
 - ↪ [Camino del Salvador ](Camino-del-Salvador_Etappen.md)
 - ↪ [Camino del Norte ](Jakobswege/07_Camino-del-Norte_2024/Camino-del-Norte_Etapas.md)
 - ↪ [Camino Inglés ](Camino-Ingles_Etapas.md)
-
 ---
 
 -  
@@ -168,7 +168,11 @@
 
 - [Muedigkeit im Gesundheitssystem](Outros-Temas/Muedigkeit-im-Gesundheitssystem.md)
 - 
--  [Lima – Madrid](Outros-Temas/Lima-Madrid.md)
+-  [Lima – Madrid](Outros-Temas/Lima-Madrid.md) 
+- 
+-  [O Milho,  Der Mais, El Maîz, The Maize ](Before_1990/Experiencias-na-Vida_O-Milho.md)
+
+
 
 
 ---
@@ -184,8 +188,7 @@
 ### O
  [🔠](#Index) 
 
--  [O Milho](Before_1990/Experiencias-na-Vida_O-Milho.md)
-
+-  
 -  
 -  
 

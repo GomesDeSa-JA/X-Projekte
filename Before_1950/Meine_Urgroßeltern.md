@@ -1,4 +1,4 @@
-
+ - [Index](../Index.md)
 ### 🇩🇪 Meine Urgroßeltern
 
 #### Meine Urgroßmutter mütterlicherseits
@@ -181,7 +181,7 @@ Mit dem Erlös wollten sie einen Teil der Reisekosten und der übrigen Ausgaben 
 <details>
 <summary>📌 Anmerkung </summary>
 
-### Anmerkung
+#### Anmerkung
 
 Ich weiß, dass es in Carril ein Grundstück gab, das nicht verkauft wurde. Ein Teil dieses geerbten Grundstücks wurde in den 1980er-Jahren von meinem Großvater erworben. Den anderen Teil kauften "Tio Agostinho", der Ehemann von "Tia Elena", von meinen Großonkeln, die damals in Brasilien lebten.
 
@@ -279,7 +279,7 @@ A minha mãe nunca chegou a conhecer a avó dela, ou seja, a minha bisavó. Pelo
 
 ---
 
-### O meu bisavô materno
+#### O meu bisavô materno
 
 O nome do meu bisavô era Antonio Cardoso.
 
@@ -407,7 +407,7 @@ Uma das minhas hipóteses é que, após a morte da minha bisavó, tenha ocorrido
 <details>
 <summary>📌 Nota </summary>
 
-### Nota
+#### Nota
 
 Sei que existia no Carril um terreno que não foi vendido. Uma parte desse terreno herdado foi adquirida pelo meu avô na década de 1980. A outra parte foi comprada aos meus tios-avós, que na altura viviam no Brasil, pelo "Tio Agostinho", marido da  "Tia Elena".
 
@@ -452,7 +452,6 @@ Repartição da herança
 - Cônjuge sobrevivo 7/12 = 58,33 %
 - Cinco filhos no total  5/12 = 41,67 %
 - Cada filho recebe: 1/12 = 8,33 %
-
 
 </details>
 
@@ -639,7 +638,7 @@ Una de mis hipótesis es que, tras la muerte de mi bisabuela, se procedió al re
 <details>
 <summary>📌 Nota </summary>
 
-### Nota
+#### Nota
 
 Sé que en Carril había una parcela que no se vendió. Una parte de ese terreno heredado fue adquirida por mi abuelo en la década de 1980. La otra parte fue comprada a mis tíos abuelos, que por aquel entonces vivían en Brasil, por mi tío Agostinho, marido de mi tía Elena.
 
@@ -914,25 +913,10 @@ Distribution of the Estate
 
 </details>
 
-----
-
 ---
 
-<details>
-<summary></summary>
+## 📌
 
-</details>
-
----
 ↪ [Index](../Index.md)
-
-#### Obsidian-Links
->⚠️ *Internal links that don't work on GitHub*
-
-↪ [Readme](Jakobswege/Readme.md) 
-
-↪ [Os Caminhos](Os_Caminhos.md)
-
-↪ [Index](Index.md)
 
  ...→

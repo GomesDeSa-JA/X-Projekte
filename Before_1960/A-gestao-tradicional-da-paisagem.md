@@ -1,4 +1,4 @@
-
+- [Index](../Index.md)
 ### A gestão tradicional da paisagem
 
  Nas aldeias do interior português, a sobrevivência dependia de um conjunto de práticas diárias que uniam economia, cultura e gestão ambiental. A recolha de lenha, o pastoreio, a limpeza dos campos e a utilização dos baldios formavam um sistema integrado que, além de sustentar as famílias, mantinha a paisagem rural limpa e resistente aos incêndios — algo que hoje, mesmo com tecnologia avançada, não se consegue replicar com a mesma eficácia.
@@ -40,13 +40,13 @@ Estes materiais eram transportados em nos carros de vacas ou reboques de tratore
 Ao retirar regularmente o mato "giestas, tojos, fentãos, caruma etc. " das encostas, matas  e dos caminhos, as populações reduziam drasticamente o risco de incêndios. Esta limpeza era feita à mão, com gadanhas, foices e ancinhos, machadas  e repetida várias vezes ao longo do ano. Hoje, mesmo com máquinas modernas, não se consegue replicar a mesma intensidade nem a mesma regularidade.
 
 ---
-### 💧 A limpeza dos lameiros: água, pasto e ordenamento
+#### 💧 A limpeza dos lameiros: água, pasto e ordenamento
 
 Os lameiros, fundamentais para alimentar o gado durante o ano , eram mantidos com extremo cuidado. As valas eram limpas, as levadas desentupidas e a água distribuída de forma comunitária.  
 Ao manter os lameiros limpos , criava-se uma rede de zonas que funcionavam como barreiras naturais ao fogo. Estes espaços limpos,  eram pontos de segurança para pessoas e animais em caso de incêndio.
 
 ---
-# 🌱 Síntese final
+#### 🌱 Síntese final
 
 Todas estas práticas — tanganhos, pastoreio, recolha de mato, estrume, lameiros e trabalhar as terras — formavam um sistema completo, sustentável e profundamente enraizado na vida rural. Era um modelo de economia circular, onde nada se desperdiçava e tudo tinha função. E, sem que as pessoas o soubessem, era também um dos sistemas de prevenção de incêndios mais eficazes que Portugal já teve.
 
@@ -57,34 +57,10 @@ E, ao contrário do que hoje se pensa, as pessoas tinham plena consciência diss
 «A tua mata está cheia de mato. Tens de ir limpá-la, porque se houver um incêndio, tanto a tua como a minha vão arder.»
 Era uma vigilância comunitária natural, baseada no bom senso e na interdependência.
 
-
 ---
-
-<details>
-<summary></summary>
-
-⚠️  🇬🇧  🇪🇸  🇵🇹  🇩🇪 
-
-</details>
-
----
-
-↪ [Os Tanganhos –A Lenha– ](Before_1990/Os-Tanganhos_A-Lenha.md)
-
-↪ [O_Rebusco](O_Rebusco.md)
-
-↪ 
+  ### ➢
 
 ↪ [Index](../Index.md)
-
-#### Obsidian-Links
->⚠️ *Internal links that don't work on GitHub*
-
-↪ [Readme](Jakobswege/Readme.md) 
-
-↪ [Os Caminhos](Os_Caminhos.md)
-
-↪ [Index](Index.md)
 
  ...→
 

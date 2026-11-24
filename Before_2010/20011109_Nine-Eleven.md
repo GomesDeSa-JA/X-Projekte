@@ -1,4 +1,4 @@
-[Index](Index.md)
+[Index](../Index.md)
 ### 🇩🇪 Nine Eleven
 
 _Tage, die das Leben prägen – nicht nur weltweit, sondern auch im Umgang mit den Kollegen am Arbeitsplatz._

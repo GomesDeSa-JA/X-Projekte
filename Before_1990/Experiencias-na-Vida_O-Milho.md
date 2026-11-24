@@ -147,7 +147,7 @@ Aber dass jeder einzelne Faden des Maisbartes einem Maiskorn entspricht … das 
 
 ---
 
-###  🇪🇸 El maíz y la barba de la mazorca
+###  🇪🇸 El maíz
 
 <details>
 <summary>La barba de la mazorca</summary>
@@ -196,7 +196,7 @@ And yet, I experienced practically every stage of growing maize, from working th
 
 I cut grass, ploughed the fields and helped prepare and cultivate the land. I sowed, hoed, watered and cut the crutas of the maize plants.
 
-I cut countless maize stalks — or simply “corn”, as we call it in our village — and took part in several cascadas.
+I cut countless maize stalks — or simply “ the maize”, as we call it in our village — and took part in several cascadas.
 
 I helped dry the maize on the threshing floor, filled it into sacks, loaded them onto the tractor trailer and later transported them again to store the maize in the grain chests.
 
@@ -214,7 +214,7 @@ But that each individual strand of the corn silk corresponds to one kernel… ho
 
 
 ---
-### Links
+### 📌
 
 ---
 
@@ -226,12 +226,6 @@ But that each individual strand of the corn silk corresponds to one kernel… ho
 </details>
 
 ---
-
-↪ [A gestao tradicional da paisagem –das terras– ](Before_1960/A-gestao-tradicional-da-paisagem.md)
-
-↪ [O Rebusco](Before_1980/O_Rebusco.md)
-
-↪  [Os Tanganhos –A Lenha– ](Before_1990/Os-Tanganhos_A-Lenha.md)
 
 ↪ [Index](../Index.md)
 

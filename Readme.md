@@ -169,6 +169,7 @@ Hoje, escrevo tudo isto para processar muitas coisas da minha vida e das experi�
 <details>
 <summary>Readme</summary>
 
+
 ### ¿O qué es la vida?
 
 En los últimos años han sucedido muchas cosas relacionadas con la salud, tanto en el ámbito personal como en el familiar. Muchos familiares han fallecido; algunos, incluso antes de alcanzar la edad de jubilación, mientras que otros murieron poco después. Vi cómo uno tras otro iban desapareciendo de mi vida. Y, mientras tanto, yo mismo llevaba una vida que apenas podía considerarse una vida de verdad.
@@ -326,21 +327,7 @@ Today, I am writing all this down to come to terms with many aspects of my life 
 
 ---
 
-<details>
-<summary></summary>
-
-</details>
-
----
-
-↪ [Index](Index.md)
-
-#### Obsidian-Links
->*Internal links that don't work on GitHub*
-
-↪ [Readme](Jakobswege/Readme.md) 
-
-↪ [Os Caminhos](Os_Caminhos.md)
+## 📌
 
 ↪ [Index](Index.md)
 
