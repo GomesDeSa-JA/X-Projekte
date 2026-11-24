@@ -1,10 +1,10 @@
 
 ### Readme
 
-#### Was ist der Sinn des Lebens?
+#### 🇩🇪 Was ist der Sinn des Lebens?
 
 <details>
-<summary> 🇩🇪 Readme</summary>
+<summary> Readme</summary>
 
 
 ### Oder was ist Leben? 
@@ -16,6 +16,8 @@ Dann kam die COVID-19-Pandemie. Ich saß allein in einer Wohnung irgendwo in Deu
 Der Stress im Berufsleben hatte sich seit 2017/18 zunehmend verschärft, und die Einschränkungen während des Lockdowns schlugen zusätzlich auf die Stimmung. Als uns die Firma mitteilte, dass die Belegschaft aufgrund der Pandemie in zwei Gruppen aufgeteilt werden sollte und wir künftig im Schichtbetrieb arbeiten müssten, wurde mir klar, dass sich dadurch auch meine Schlafprobleme weiter verschlimmern würden.
 
 Da ich nur noch etwas mehr als einen Monat bis zu meinem nächsten regulären Urlaub hatte und davon ausging, dass die neuen Arbeitsschichten ohnehin nur zwei oder drei Monate dauern würden, fasste ich einen Entschluss: Ich würde unbezahlten Urlaub nehmen und dafür mein **Langzeitkonto** nutzen, auf das ich bereits seit Jahren eingezahlt hatte.
+
+---
 
 <details>
 <summary>Langzeitkonto</summary>
@@ -54,6 +56,8 @@ Ein weiterer Grund für die Abschaffung dürfte die Befürchtung gewesen sein, d
 
 In einem solchen Fall hätte das Unternehmen möglicherweise gleichzeitig Zahlungen an die bereits ausgeschiedenen Mitarbeiter leisten und die Gehälter der neu eingestellten Beschäftigten finanzieren müssen, die deren Aufgaben übernommen hätten. Es wäre also eine doppelte finanzielle Belastung entstanden, ohne dass sichergestellt gewesen wäre, dass genügend Arbeit oder entsprechende Gewinne vorhanden wären, um diese zusätzlichen Ausgaben zu decken.
 
+---
+
 ### Die Arbeitszeitverkürzung zur Sicherung der Arbeitsplätze
 
 Im selben Zeitraum, in dem das Freizeitkonto abgeschafft wurde, erhöhte sich die wöchentliche Arbeitszeit von 37,5 auf 40 Stunden. Gleichzeitig wurde sie offiziell um eine Stunde auf 39 Stunden verkürzt, um die Arbeitsplätze zu sichern.
@@ -62,7 +66,6 @@ Diese Formulierung war durchaus originell. Dahinter steckte allerdings eine etwa
 
 Bereits im September wurde darauf geachtet, dass diese Grenze nicht überschritten wurde. Deshalb wurde empfohlen, die bis dahin angesammelten Überstunden noch vor Jahresende in Anspruch zu nehmen.
 
----
 
 </details>
 
@@ -79,12 +82,12 @@ Seitdem ist viel geschehen, und vieles ist ganz anders gekommen, als ich es mir 
 
 ---
 
-#### Qual é o sentido da vida?
+#### 🇵🇹 Qual é o sentido da vida?
 
 <details>
-<summary>🇵🇹 Readme</summary>
+<summary>Readme</summary>
 
-Ou o que é a vida?
+### Ou o que é a vida?
 
 Nos últimos anos, muita coisa aconteceu na área da saúde, tanto a nível pessoal como familiar. Muitos familiares faleceram, alguns ainda antes de atingirem a idade da reforma, enquanto outros partiram pouco tempo depois. Vi, um após outro, desaparecerem da minha vida. E, entretanto, eu próprio levava uma vida que já pouco tinha de vida.
 
@@ -93,6 +96,8 @@ Depois chegou a pandemia de COVID-19. Fiquei sozinho, fechado num apartamento al
 O stress na vida profissional vinha a agravar-se desde 2017/18, e as restrições do confinamento contribuíam ainda mais para o nosso desânimo. Quando a empresa nos informou de que, devido à pandemia, os trabalhadores seriam divididos em dois grupos e passaríamos a trabalhar por turnos, percebi que isso iria agravar ainda mais os meus problemas de sono.
 
 Como faltava pouco mais de um mês para as minhas próximas férias e partia do princípio de que o problema dos novos horários de trabalho duraria apenas dois ou três meses, tomei uma decisão: iria pedir uma licença sem vencimento e utilizar o meu "Langzeitkonto", para o qual  descontei vários anos.
+
+---
 
 <details>
 <summary>Langzeitkonto</summary>
@@ -133,6 +138,8 @@ Outro motivo para a eliminação deste sistema poderá ter sido o receio de que 
 
 Nesse cenário, a empresa poderia ter de continuar a efetuar pagamentos aos trabalhadores que já tivessem saído ao abrigo desse regime e, ao mesmo tempo, suportar os salários dos novos trabalhadores contratados para assumir as suas funções. Criar-se-ia, assim, uma dupla carga financeira, sem que houvesse garantias de existir trabalho suficiente ou lucros que permitissem cobrir essas despesas adicionais.
 
+---
+
 #### A redução do horário de trabalho para garantir os postos de trabalho
 
 No mesmo período em que a conta de tempo livre foi eliminada, o horário semanal de trabalho passou de 37,5 para 40 horas. Ao mesmo tempo, foi oficialmente reduzido em uma hora para as 39 horas , com o objetivo de garantir os postos de trabalho.
@@ -140,8 +147,6 @@ No mesmo período em que a conta de tempo livre foi eliminada, o horário semana
 A formulação era, sem dúvida, bastante original. No entanto, por detrás dela escondia-se uma realidade um pouco diferente: na prática, trabalhava-se apenas mais 1,5 horas por semana, enquanto o horário normal de trabalho passava a ser contabilizado como 40 horas. A consequência era que os suplementos por horas extraordinárias só eram pagos a partir da 50.ª hora  por ano.
 
 Já em setembro se tinha o cuidado de garantir que esse limite não fosse ultrapassado. Por isso, recomendava-se que as horas extraordinárias acumuladas até então fossem gozadas antes do final do ano.
-
----
 
 </details>
 
@@ -159,10 +164,10 @@ Hoje, escrevo tudo isto para processar muitas coisas da minha vida e das experi�
 
 ---
 
-#### ¿Cuál es el sentido de la vida?
+#### 🇪🇸 ¿Cuál es el sentido de la vida?
 
 <details>
-<summary>🇪🇸 Readme</summary>
+<summary>Readme</summary>
 
 ### ¿O qué es la vida?
 
@@ -214,6 +219,8 @@ Otra razón para eliminar este sistema pudo haber sido el temor a que representa
 
 En ese caso, la empresa podría haberse visto obligada a seguir realizando pagos a los trabajadores que ya se hubieran retirado mediante este sistema y, al mismo tiempo, asumir los salarios de los nuevos empleados contratados para sustituirlos. Se habría generado así una doble carga financiera, sin tener garantías de que hubiera suficiente trabajo o beneficios para cubrir esos gastos adicionales.
 
+---
+
 #### La reducción de la jornada laboral para garantizar los puestos de trabajo
 
 Durante el mismo período en que se suprimió la cuenta de tiempo libre, la jornada laboral semanal pasó de 37,5 a 40 horas. Al mismo tiempo, se anunció oficialmente una reducción de una hora para 39 horas con el objetivo de garantizar los puestos de trabajo.
@@ -222,8 +229,6 @@ La formulación era, sin duda, bastante original. Sin embargo, detrás de ella s
 
 La consecuencia era que los complementos por horas extraordinarias solo se pagaban a partir de la hora extraordinaria número 50 del año.
  Ya en septiembre se vigilaba que no se superara ese límite. Por eso, se recomendaba disfrutar de las horas extraordinarias acumuladas hasta entonces antes de finalizar el año.
-
----
 
 </details>
 
@@ -241,10 +246,10 @@ Hoy escribo todo esto para asimilar muchas cosas de mi vida y de las experiencia
 
 ---
 
-#### What Is the Meaning of Life?
+#### 🇬🇧 What Is the Meaning of Life?
 
 <details>
-<summary>🇬🇧 Readme</summary>
+<summary>Readme</summary>
 
 ### Or what is life?
 
@@ -256,6 +261,7 @@ The stress of working life had been getting worse since 2017/18, and the restric
 
 With just over a month remaining until my next scheduled holiday, and assuming that the new shift arrangements would only last for two or three months, I made a decision: I would take unpaid leave and to use my ‘long-term savings account’, into which I have been paying for several years.
 
+---
 
 <details>
 <summary>Langzeitkonto</summary>
@@ -276,6 +282,7 @@ For my Camino pilgrimages, I withdrew funds from this account once or twice, tak
 
 In March 2023, I requested payment of the remaining balance in the account.
 
+---
 
 ### The Deutsche Bahn Time-Off Account
 
@@ -304,6 +311,8 @@ The wording was certainly rather original. However, behind it lay a somewhat dif
 As a result, overtime premiums were only paid once an employee had exceeded 50 hours of overtime per year. By September, care was already being taken to ensure that this limit was not exceeded. Employees were therefore advised to use their accumulated overtime hours before the end of the year.
 
 </details>
+
+---
 
 During the month I spent at home, I researched the possibilities of travelling to Portugal, preferably to remote places far away from civilisation and face masks.
 

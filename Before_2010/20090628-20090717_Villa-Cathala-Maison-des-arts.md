@@ -46,7 +46,9 @@ The park at the Villa Cathala was also a wonderful place to relax during lunch b
 
 ![](media00/20090622_15h30-16h30_CMSM_Exame-medico1.webp)
 
-![](20090623-30_Contrat-de-MissionTemporaire.webp)
+![](media00/20090623-30_Contrat-de-MissionTemporaire.webp)
+
+
 
 </details>
 

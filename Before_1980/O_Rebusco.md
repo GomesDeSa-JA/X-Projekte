@@ -4,7 +4,7 @@
 
 > El verbo «rebuscar» significa, en portugués, «buscar minuciosamente».
 
-![](Media01/20250521_121649-Oliveiras.webp)
+![](media/20250521_121649-Oliveiras.webp)
 
   🇵🇹 Na minha aldeia, a palavra rebusco não era apenas uma expressão do quotidiano: era um vestígio vivo de um modo de vida antigo, marcado pela agricultura de subsistência e pela desigualdade na posse da terra. Durante gerações, ir ao rebusco significou percorrer vinhas, searas, olivais  e soutos depois da vindima ou da colheita, à procura dos frutos que tinham ficado para trás. Para muitos, sobretudo para quem não tinha terras próprias, esse gesto simples era uma estratégia de sobrevivência.
 
@@ -30,14 +30,12 @@ Zu Zeiten meiner Großeltern und Urgroßeltern war die ländliche Wirtschaft har
 
 Als ich ein Kind war, befand sich die ländliche Welt bereits im Wandel. Die Mechanisierung hielt Einzug, die Abwanderung in die Städte und ins Ausland entvölkerte die ländlichen Gebiete, und die absolute Abhängigkeit vom Land nahm ab.
 
-Dennoch behielt , „O Rebusco“,  das Sammeln der Oliven seine Bedeutung, denn früher hatte jeder Tropfen Olivenöl für die Menschen einen viel größeren Wert als heute und wurde über das ganze Jahr hinweg sorgfältig rationiert – man ging nicht einfach in den Supermarkt, um Nachschub zu kaufen. 
-
 Dennoch behielt das „Rebusco“ – das Sammeln der Oliven – seine Bedeutung, und man sah Menschen, die sich über den kalten Boden beugten, mit Jutesäcken in den Händen, und Gesten wiederholten, die Jahrhunderte zurückreichten, denn früher hatte jeder Tropfen Olivenöl für die Menschen einen viel größeren Wert als heute und wurde über das Jahr hinweg sorgfältig rationiert – man ging nicht einfach in den Supermarkt, um Nachschub zu kaufen. 
 
 Wenn ich heute zurückblicke, wird mir klar, dass jeder "Rebusco" mehr war als nur ein Spaziergang oder ein Spiel: Er war das Echo einer langen Geschichte, geprägt von harter Arbeit, würdevoller Armut, in der nicht einmal eine Olive verschwendet wurde und war einer innigen Verbindung zum Land, die Generationen geprägt hat.
 
 ---
-## 🌾‘Rebusco’
+## 🌾 The ‘Rebusco’
 
 ‘Rebusco’ is derived from ‘rebuscar’
 
@@ -79,6 +77,8 @@ Hoy, al echar la vista atrás, me doy cuenta de que cada "Rebusco" era más que 
 </details>
 
 ---
+↪ [Os Tanganhos –A Lenha– ](Before_1990/Os-Tanganhos_A-Lenha.md)
+
 ↪ [Index](../Index.md)
 
 #### Obsidian-Links

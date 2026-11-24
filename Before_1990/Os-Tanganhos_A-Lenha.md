@@ -3,7 +3,7 @@
 
 #### 🌲 Ir os tanganhos
 
->Queria dizer recolher tanganhos
+>Quer dizer recolher tanganhos
 
 <details>
 <summary>Para sobreviver</summary>
@@ -26,17 +26,23 @@ Quando as pernadas secas eram de outras árvores, o molho recebia naturalmente o
 
 As giestas, abundantes em muitas serras e morros, também eram recolhidas para servir de combustível. Era frequente ouvir expressões como: «Vou buscar um molho de giestas secas para depois pegar o lume ou para cozer o pão».
 
+---
+
 #### A lenha para os fornos e a cozedura do pão
 
 Para aquecer os fornos comunitários da aldeia ou os fornos particulares e cozer o pão, utilizavam-se sobretudo giestas grandes, tanganhos secos e outros tipos de lenha constituídos por pernadas mais pequenas.
 
 O pão era preparado pelas próprias famílias a partir dos cereais que cultivavam. Na minha aldeia, predominava o pão de milho, muitas vezes misturado com farinha de trigo ou de centeio. Não me recordo, porém, de o pão de centeio ser habitualmente cozido nos fornos comunitários.
 
+
+O milho e o centeio eram os principais cereais cultivados nas terras da minha aldeia.  
 O cultivo de trigo e de outros cereais naquela região, caso existisse, seria certamente uma exceção, e não uma prática generalizada.
 
 Quem não tinha campos para cultivar os próprios cereais encomendava aos moleiros um saco de farinha, com o qual depois preparava o pão em casa. Outra possibilidade era comprar pão nas tabernas, que eram abastecidas pelos padeiros locais.
 
 Pela minha memória, cerca de 70% do pão vendido nas tabernas era de centeio ou de mistura de centeio com trigo, sendo o restante de trigo. O pão tradicional de milho, tão comum nas casas da aldeia, geralmente não se encontrava à venda nas tabernas naquela época.
+
+---
 
 #### As pinhas e a preparação do lume
 
@@ -48,7 +54,7 @@ Ir às matas ou à serra para apanhar algumas sacas de pinhas era uma atividade 
 
 Eram frequentes conversas como:
 
-— Então, já levas aí umas pinhas para pegar o lume?
+— Então, já levas aí umas pinhas para **pegar o lume**?
 
 — Sim, porque vou fazer o almoço e já não tenho nenhuma. Quando terminar as sementeiras, vou ter de ir apanhar mais.
 
@@ -56,11 +62,15 @@ Ao contrário de outras formas de recolha de lenha, a apanha de pinhas parecia o
 
 O mesmo acontecia com a procura dos míscaros, os cogumelos silvestres. Eram produtos que se encontravam na natureza e que, segundo o costume, quem primeiro encontrasse podia apanhar.
 
+---
+
 #### A limpeza dos campos e das matas
 
 Estas atividades de subsistência tinham também uma consequência importante para o ambiente: contribuíam para manter os campos e as matas limpos, reduzindo a acumulação de material vegetal seco que poderia alimentar incêndios.
 
 Era uma forma de gestão tradicional da paisagem, realizada através das necessidades quotidianas das famílias rurais. A recolha de lenha, das giestas, da caruma e das pinhas fazia parte de um equilíbrio entre as pessoas e a natureza que, entretanto, se foi perdendo.
+
+---
 
 #### Uma questão de linguagem: pegar o lume ou pegar fogo?
 
@@ -72,7 +82,14 @@ Antes da entrada em vigor de legislação mais restritiva, a utilização do fog
 
 A situação tornou-se ainda mais problemática à medida que as florestas e os terrenos deixaram de ser regularmente limpos. A vegetação arbustiva acumulou-se, criando condições para a propagação de incêndios cada vez mais difíceis de controlar.
 
-> Hoje, olhando para trás, percebe-se que estas práticas, nascidas da necessidade, eram também uma forma de ordenamento florestal tradicional, eficaz e sustentável, que  apesar de toda a tecnologia e dos meios modernos de combate aos incêndios **não conseguiu substituir.**
+- Hoje, olhando para trás, percebe-se que estas práticas, nascidas da necessidade, eram também uma forma de ordenamento florestal tradicional, eficaz e sustentável, que  apesar de toda a tecnologia e dos meios modernos de combate aos incêndios **não conseguiu substituir.**
+
+
+>Resumindo estas práticas tinham uma importância que ia muito além da economia doméstica. Ao recolherem sistematicamente as pernadas secas, as populações mantinham os campos, as matas e as moitas limpas, reduzindo drasticamente a carga de combustível vegetal. 
+
+>Com meios limitados, sem máquinas, sem brigadas especializadas e sem tecnologia, as aldeias conseguiam prevenir fogos de grande dimensão. A limpeza contínua da paisagem — feita por necessidade, todos os dias, por toda a gente — criava um mosaico rural que dificultava a propagação das chamas. Por isso, apesar da pobreza, não existiam tantos fogos devastadores como os que hoje assolam o país, mesmo com sistemas modernos de vigilância e combate.
+
+---
 
 #### Um património de palavras e memórias
 
@@ -85,7 +102,6 @@ Mais do que simples tarefas domésticas, eram conhecimentos transmitidos de gera
 São pequenas histórias de uma vida rural que, embora pareça distante, ainda permanece viva na memória de quem a conheceu.
 
 </details>
-
 
 ---
 
@@ -116,17 +132,21 @@ Wenn die trockenen Äste von anderen Baumarten stammten, erhielt das Bündel ent
 
 Auch Ginster, der in vielen Gebirgsregionen und auf feuchten Wiesen reichlich wuchs, wurde als Brennmaterial gesammelt. Häufig hörte man Sätze wie: «Ich gehe ein Bündel trockenen Ginster holen, damit ich später das Feuer anzünden oder Brot backen kann.»
 
+---
+
 #### Brennholz für die Backöfen und das Brotbacken
 
 Zum Beheizen der gemeinschaftlichen Dorfbacköfen und der privaten Backöfen verwendete man vor allem größere Ginsterzweige, trockene Tanganhos und andere kleinere Äste.
 
 Das Brot wurde von den Familien selbst aus den Getreidesorten hergestellt, die sie anbauten. In meinem Dorf überwog das Maisbrot, häufig auch eine Mischung aus Mais- und Weizenmehl oder Mais- und Roggenmehl. Ich kann mich allerdings nicht daran erinnern, dass Roggenbrot regelmäßig in den gemeinschaftlichen Backöfen gebacken wurde.
 
-Der Anbau von Weizen und anderen Getreidesorten dürfte in dieser Gegend, sofern er überhaupt vorkam, eher eine Ausnahme als eine verbreitete Praxis gewesen sein.
+Mais und Roggen waren die Hauptgetreidearten, die auf den Feldern meines Dorfes angebaut wurden. Der Anbau von Weizen und anderen Getreidesorten dürfte in dieser Gegend, sofern er überhaupt vorkam, eher eine Ausnahme als eine verbreitete Praxis gewesen sein.
 
 Wer keine eigenen Felder hatte, um Getreide anzubauen, bestellte bei den Müllern einen Sack Mehl und backte daraus anschließend sein eigenes Brot. Eine andere Möglichkeit war, Brot in den Dorfkneipen zu kaufen, die von den örtlichen Bäckern beliefert wurden.
 
 Meiner Erinnerung nach bestanden etwa 70 Prozent des in den Kneipen verkauften Brotes aus Roggenbrot oder einer Mischung aus Roggen und Weizen. Der übrige Anteil war Weizenbrot. Das traditionelle Maisbrot, das in den Häusern des Dorfes so verbreitet war, wurde damals in den Kneipen normalerweise nicht zum Verkauf angeboten.
+
+---
 
 #### Kiefernzapfen und das Anzünden des Herdfeuers
 
@@ -146,13 +166,23 @@ Anders als bei anderen Formen des Holzsammelns schien das Sammeln von Kiefernzap
 
 Ähnlich verhielt es sich mit der Suche nach Míscaros, den wild wachsenden Speisepilzen. Es waren Naturprodukte, für die nach dem örtlichen Brauch offenbar galt: Wer sie zuerst fand, durfte sie mitnehmen.
 
+---
+
 #### Die Pflege und Reinigung der Felder und Wälder
 
 Diese Tätigkeiten zur Sicherung des Lebensunterhalts hatten auch eine wichtige ökologische Nebenwirkung: Sie trugen dazu bei, Felder und Wälder sauber zu halten und die Ansammlung trockenen Pflanzenmaterials zu verringern, das später als Brennstoff für Waldbrände dienen konnte.
 
 Es handelte sich um eine traditionelle Form der Landschaftspflege, die unmittelbar aus den alltäglichen Bedürfnissen der ländlichen Bevölkerung entstand. Das Sammeln von Brennholz, Ginster, Kiefernnadeln und Kiefernzapfen war Teil eines Gleichgewichts zwischen Mensch und Natur, das im Laufe der Zeit verloren gegangen ist.
 
-Heute stellen trotz aller technischen Möglichkeiten und moderner Brandbekämpfung die mangelnde Pflege vieler Waldflächen und die Ansammlung trockener Vegetation weiterhin schwer lösbare Probleme dar.
+
+- Wenn man heute zurückblickt, wird deutlich, dass diese aus der Not heraus entstandenen Praktiken auch eine Form der traditionellen, wirksamen und nachhaltigen Waldbewirtschaftung darstellten, die  trotz aller Technologie und moderner Mittel zur Brandbekämpfung **nicht ersetzt werden konnte.**
+
+
+>Zusammenfassend lässt sich sagen, dass diese Praktiken eine Bedeutung hatten, die weit über die häusliche Wirtschaft hinausging. Durch das systematische Sammeln von trockenem Holz hielten die Menschen Felder, Wälder und Gebüsche frei und reduzierten so die Menge an pflanzlichem Brennstoff drastisch.
+
+>Mit begrenzten Mitteln, ohne Maschinen, ohne spezialisierte Einsatzkräfte und ohne Technologie gelang es den Dörfern, Großbrände zu verhindern. Die kontinuierliche Säuberung der Landschaft – aus der Not heraus, jeden Tag, von allen – schuf ein ländliches Mosaik, das die Ausbreitung der Flammen erschwerte. Deshalb gab es trotz der Armut nicht so viele verheerende Brände wie jene, die heute das Land heimsuchen, selbst mit modernen Überwachungs- und Löschsystemen.
+
+---
 
 #### Eine Frage der Sprache: Das Herdfeuer anzünden oder Feuer legen?
 
@@ -163,6 +193,8 @@ Ich kann mich nicht daran erinnern, dass man im Zusammenhang mit dem häuslichen
 Bevor strengere gesetzliche Regelungen in Kraft traten, wurde das Abbrennen von Gestrüpp und Buschwerk zur Reinigung landwirtschaftlicher Flächen relativ weitgehend toleriert und gehörte zu den traditionellen landwirtschaftlichen Praktiken. Viele der Brände der Vergangenheit, die Tausende Hektar Wald und Buschland verwüsteten oder zerstörten, waren jedoch gerade auf die mangelnde Kontrolle dieser Brandrodungen zurückzuführen. Ungünstige Wetterbedingungen, insbesondere starker Wind, verschärften das Problem zusätzlich.
 
 Noch schwieriger wurde die Situation dadurch, dass Wälder und Grundstücke immer seltener regelmäßig gepflegt und von Bewuchs befreit wurden. Das Unterholz nahm zu und schuf Bedingungen, unter denen sich Brände immer leichter ausbreiten und immer schwerer kontrollieren lassen.
+
+---
 
 #### Ein Kulturerbe aus Worten und Erinnerungen
 
@@ -177,10 +209,9 @@ Es sind kleine Geschichten aus einem ländlichen Leben, das heute weit entfernt 
 </details>
 
 ---
+### 🇪🇸 La leña, los tanganhos y las piñas
 
-### La leña, los tanganhos y las piñas
-
- ####  🌲 Ir os tanganhos
+####  🌲 Ir os tanganhos
  
  >Significaba recoger tanganhos
 
@@ -211,7 +242,7 @@ Para calentar los hornos comunitarios del pueblo o los hornos particulares y coc
 
 El pan lo elaboraban las propias familias a partir de los cereales que cultivaban. En mi pueblo predominaba el pan de maíz, muchas veces mezclado con harina de trigo o de centeno. Sin embargo, no recuerdo que el pan de centeno se cociera habitualmente en los hornos comunitarios.
 
-El cultivo de trigo y de otros cereales en aquella zona, si es que existía, seguramente era una excepción y no una práctica generalizada.
+ El maíz y el centeno eran los  cereales principales  que se cultivaban en las tierras de mi pueblo. El cultivo de trigo y de otros cereales en aquella zona, si es que existía, seguramente era una excepción y no una práctica generalizada.
 
 Quienes no tenían tierras para cultivar sus propios cereales encargaban a los molineros un saco de harina y después preparaban su propio pan en casa. Otra posibilidad era comprarlo en las tabernas, que recibían el suministro de los panaderos locales.
 
@@ -235,13 +266,22 @@ A diferencia de otras formas de recogida de leña, la recolección de piñas par
 
 Algo parecido ocurría con la búsqueda de míscaros, las setas silvestres. Eran productos que se encontraban en la naturaleza y que, según la costumbre, podía llevarse quien los encontrara primero.
 
+---
+
 #### La limpieza de los campos y los montes
 
 Estas actividades de subsistencia tenían también una consecuencia importante para el medio ambiente: contribuían a mantener limpios los campos y los montes, reduciendo la acumulación de material vegetal seco que podía alimentar los incendios forestales.
 
 Era una forma tradicional de gestionar el paisaje, vinculada directamente a las necesidades cotidianas de las familias rurales. La recogida de leña, retamas, agujas de pino y piñas formaba parte de un equilibrio entre las personas y la naturaleza que, con el paso del tiempo, se ha ido perdiendo.
 
-Hoy, a pesar de toda la tecnología y de los medios modernos de lucha contra los incendios, la falta de mantenimiento de muchas zonas forestales y la acumulación de vegetación seca siguen siendo problemas difíciles de resolver.
+- Hoy, al echar la vista atrás, se aprecia que estas prácticas, surgidas de la necesidad, constituían también una forma de gestión forestal tradicional, eficaz y sostenible, que, a pesar de toda la tecnología y los medios modernos de lucha contra los incendios, **no ha logrado sustituir.**
+
+
+>En resumen, estas prácticas tenían una importancia que iba mucho más allá de la economía doméstica. Al recoger sistemáticamente la ramas secas, las poblaciones mantenían limpios los campos, los bosques y los matorrales, reduciendo drásticamente la carga de combustible vegetal.
+
+>Con medios limitados, sin maquinaria, sin brigadas especializadas y sin tecnología, las aldeas lograban prevenir incendios de gran envergadura. La limpieza continua del paisaje —realizada por necesidad, todos los días y por todo el mundo— creaba un mosaico rural que dificultaba la propagación de las llamas. Por eso, a pesar de la pobreza, no había tantos incendios devastadores como los que hoy asolan el país, incluso con los modernos sistemas de vigilancia y extinción.
+
+---
 
 #### Una cuestión de lenguaje: encender el fuego o provocar un incendio
 
@@ -252,6 +292,8 @@ No recuerdo que se utilizara la expresión «acender o fogo» para referirse al 
 Antes de que entraran en vigor leyes más restrictivas, la quema de matorrales para limpiar los terrenos estaba relativamente tolerada y formaba parte de las prácticas agrícolas tradicionales. Sin embargo, muchos de los incendios del pasado, que devastaron o destruyeron miles de hectáreas de bosques y matorrales, se debieron precisamente a la falta de control de estas quemas, agravada por unas condiciones meteorológicas desfavorables, especialmente por el viento.
 
 La situación se volvió aún más problemática a medida que los bosques y los terrenos dejaron de limpiarse y mantenerse regularmente. La vegetación arbustiva se fue acumulando, creando condiciones que favorecían la propagación de incendios cada vez más difíciles de controlar.
+
+---
 
 #### Un patrimonio de palabras y recuerdos
 
@@ -266,7 +308,6 @@ Son pequeñas historias de una vida rural que hoy parece lejana, pero que sigue 
 </details>
 
 ---
-
 ### 🇬🇧 Firewood, Tanganhos and Pine Cones
 
 #### 🌲 Ir aos tanganhos 
@@ -300,7 +341,7 @@ To heat the communal village ovens or private ovens and bake bread, people mainl
 
 Families made their own bread using the cereals they cultivated. In my village, maize bread was the most common, often mixed with wheat or rye flour. However, I cannot remember rye bread being regularly baked in the communal ovens.
 
-The cultivation of wheat and other cereals in that area, if it existed at all, was probably the exception rather than the rule.
+Maize and rye were the main cereals grown on the land in my village. The cultivation of wheat and other cereals in that area, if it existed at all, was probably the exception rather than the rule.
 
 Those who did not own fields in which to grow their own grain would order a sack of flour from the millers and then make their own bread at home. Another option was to buy bread from the village taverns, which were supplied by local bakers.
 
@@ -330,7 +371,14 @@ These subsistence activities also had an important environmental benefit: they h
 
 It was a traditional form of landscape management, directly linked to the everyday needs of rural families. Gathering firewood, broom, pine needles and pine cones was part of a balance between people and nature that has gradually been lost.
 
-Today, despite all the technology and modern firefighting resources available, the lack of maintenance in many woodland areas and the accumulation of dry vegetation remain difficult problems to solve.
+- Today, looking back, it is clear that these practices, born of necessity, were also a form of traditional, effective and sustainable forest management, which,  despite all the technology and modern fire-fighting methods, **has not been able to replace.**
+
+
+>In short, these practices were of far greater importance than mere household economy. By systematically clearing away dry brushwood, the local people kept the fields, woods and thickets clear, drastically reducing the amount of plant fuel.
+
+>With limited resources, without machinery, specialised fire brigades or technology, the villages managed to prevent large-scale fires. The continuous clearing of the landscape — carried out out of necessity, every day, by everyone — created a rural mosaic that hindered the spread of flames. Consequently, despite the poverty, there were not as many devastating fires as those that ravage the country today, even with modern surveillance and fire-fighting systems.
+
+---
 
 #### A Matter of Language: Lighting the Fire or Starting a Wildfire
 
@@ -356,14 +404,23 @@ They are small stories of a rural way of life that may now seem distant, but whi
 
 ---
 
+### Links
+
 <details>
 <summary></summary>
 
 ⚠️  🇬🇧  🇪🇸  🇵🇹  🇩🇪 
 
+
+Resumindo estas práticas tinham uma importância que ia muito além da economia doméstica. Ao recolherem sistematicamente as pernadas secas, as populações mantinham os campos, as matas e as moitas limpas, reduzindo drasticamente a carga de combustível vegetal. 
+
+Com meios limitados, sem máquinas, sem brigadas especializadas e sem tecnologia, as aldeias conseguiam prevenir fogos de grande dimensão. A limpeza contínua da paisagem — feita por necessidade, todos os dias, por toda a gente — criava um mosaico rural que dificultava a propagação das chamas. Por isso, apesar da pobreza, não existiam tantos fogos devastadores como os que hoje assolam o país, mesmo com sistemas modernos de vigilância e combate.
+
 </details>
 
 ---
+
+↪ [O Rebusco](Before_1980/O_Rebusco.md)
 
 ↪ [Index](../Index.md)
 
@@ -377,7 +434,3 @@ They are small stories of a rural way of life that may now seem distant, but whi
 ↪ [Index](Index.md)
 
  ...→
-
-
-
-

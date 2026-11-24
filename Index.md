@@ -227,7 +227,7 @@
 -  
 -  [Die Raupe](Outros-Temas/A-lagarta.md)
 -   
--  [O Rebusco](Outros-Temas/O_Rebusco.md) 
+-  [O Rebusco](O_Rebusco.md) 
 - 
 -  [Richter 🇩🇪 vs 🇵🇹](Outros-Temas/Richter_DE_vs_PT.md)
 - 
