@@ -189,7 +189,7 @@ Eine weitere Besonderheit betrifft die Mühle an der Brücke. Auch sie wurde nic
 
 Für meine Ururgroßeltern oder Urgroßeltern muss diese Mühle damals einen unschätzbaren Wert gehabt haben. Niemand wollte sich von ihr trennen. Ich erinnere mich noch daran, wie mein Großonkel Manuel Cardoso die Mühle bis Ende der 1970er-Jahre betrieb.
 
-An einen besonderen Moment aus dieser Zeit erinnere ich mich bis heute sehr lebendig: Eines Tages nahm er mich auf seinem Pferd mit. Ich war damals etwa vier oder fünf Jahre alt. Als wir bei seinem Haus ankamen und er mich vom Pferd hob, stand ich plötzlich neben diesem riesigen Tier. Dieser überwältigende Eindruck hat sich tief in mein Gedächtnis eingeprägt und ist mir bis heute geblieben.
+> An einen besonderen Moment aus dieser Zeit erinnere ich mich bis heute sehr lebendig: Eines Tages nahm er mich auf seinem Pferd mit. Ich war damals etwa vier oder fünf Jahre alt. Als wir bei seinem Haus ankamen und er mich vom Pferd hob, stand ich plötzlich neben diesem riesigen Tier. Dieser überwältigende Eindruck hat sich tief in mein Gedächtnis eingeprägt und ist mir bis heute geblieben.
 
 Im Laufe der Zeit haben verschiedene Entwicklungen dazu beigetragen, dass viele dieser Mühlen ihre ursprüngliche Bedeutung verloren haben. Durch den Klimawandel steht mancherorts immer weniger Wasser zur Verfügung, um die Mühlräder anzutreiben und die Mühlsteine in Bewegung zu setzen. Gleichzeitig haben Modernisierung und Mechanisierung die traditionellen Mühlen weitgehend überflüssig gemacht. Abgesehen von ihrem nostalgischen und historischen Wert besitzen sie heute kaum noch den Stellenwert, den sie einst hatten, als sie das Getreide für das tägliche Brot mahlten.
 
@@ -409,13 +409,13 @@ Uma das minhas hipóteses é que, após a morte da minha bisavó, tenha ocorrido
 
 ### Nota
 
-Sei que existia em Carril um terreno que não foi vendido. Uma parte desse terreno herdado foi adquirida pelo meu avô na década de 1980. A outra parte foi comprada aos meus tios-avós, que na altura viviam no Brasil, pelo "Tio Agostinho", marido da  "Tia Elena".
+Sei que existia no Carril um terreno que não foi vendido. Uma parte desse terreno herdado foi adquirida pelo meu avô na década de 1980. A outra parte foi comprada aos meus tios-avós, que na altura viviam no Brasil, pelo "Tio Agostinho", marido da  "Tia Elena".
 
 Outra particularidade diz respeito ao moinho junto à ponte. Também ele não foi dividido, tendo permanecido como herança comum do meu bisavô Antonio Cardoso e do meu tio-avô Manuel Cardoso. Só na década de 1980 é que esta herança foi definitivamente regularizada.
 
 Naquela época, este moinho devia ter um valor incalculável para os meus trisavós ou bisavós. Ninguém queria separar-se dele. Ainda me lembro de como o meu tio-avô Manuel Cardoso continuou com  o moinho até ao final da década de 1970.
 
-Guardo até hoje uma recordação muito viva de um momento especial dessa época: um dia, levou-me consigo no seu cavalo. Eu tinha então cerca de quatro ou cinco anos. Quando chegámos a casa dele e me ajudou a descer do cavalo, fiquei de repente ao lado daquele animal enorme. A impressão que aquele momento me causou foi tão forte que ainda hoje permanece bem viva na minha memória.
+> Guardo até hoje uma recordação muito viva de um momento especial dessa época: um dia, levou-me consigo no seu cavalo. Eu tinha então cerca de quatro ou cinco anos. Quando chegámos a casa dele e me ajudou a descer do cavalo, fiquei de repente ao lado daquele animal enorme. A impressão que aquele momento me causou foi tão forte que ainda hoje permanece bem viva na minha memória.
 
 Ao longo do tempo, vários fatores contribuíram para que muitos destes moinhos perdessem a sua importância original. Devido às alterações climáticas, há cada vez menos água disponível em alguns locais para fazer mover as rodas dos moinhos e pôr as mós em funcionamento. Ao mesmo tempo, a modernização e a mecanização tornaram os moinhos tradicionais praticamente desnecessários. Para além do seu valor nostálgico e histórico, já não têm a importância que outrora tiveram, quando moíam os cereais destinados ao pão de todos os dias.
 
@@ -647,7 +647,7 @@ Otra particularidad tiene que ver con el molino situado junto al puente. Tampoco
 
 En aquella época, este molino debía de tener un valor incalculable para mis tatarabuelos o bisabuelos. Nadie quería desprenderse de él. Todavía recuerdo cómo mi tío abuelo Manuel Cardoso siguió trabajando en el molino hasta finales de la década de 1970.
 
-Conservo hasta hoy un recuerdo muy vivo de un momento especial de aquella época: un día me llevó consigo a lomos de su caballo. Yo tendría entonces unos cuatro o cinco años. Cuando llegamos a su casa y me ayudó a bajar del caballo, me encontré de repente junto a aquel enorme animal. La impresión que me causó aquel momento fue tan intensa que todavía hoy permanece muy viva en mi memoria.
+> Conservo hasta hoy un recuerdo muy vivo de un momento especial de aquella época: un día me llevó consigo a lomos de su caballo. Yo tendría entonces unos cuatro o cinco años. Cuando llegamos a su casa y me ayudó a bajar del caballo, me encontré de repente junto a aquel enorme animal. La impresión que me causó aquel momento fue tan intensa que todavía hoy permanece muy viva en mi memoria.
 
 Con el paso del tiempo, diversos factores han contribuido a que muchos de estos molinos hayan perdido su importancia original. Debido al cambio climático, en algunos lugares cada vez hay menos agua disponible para mover las ruedas de los molinos y poner en funcionamiento las piedras de moler. Al mismo tiempo, la modernización y la mecanización han hecho que los molinos tradicionales hayan dejado de ser necesarios. Más allá de su valor nostálgico e histórico, hoy apenas tienen la relevancia que tuvieron antaño, cuando molían el grano destinado al pan de cada día.
 
@@ -876,7 +876,7 @@ Another special case concerns the mill by the bridge. It, too, was never divided
 
 At the time, this mill must have been of immeasurable value to my great-great-grandparents or great-grandparents. Nobody wanted to part with it. I still remember my great-uncle Manuel Cardoso operating the mill until the end of the 1970s.
 
-I still have a particularly vivid memory of one special moment from that period: one day, he took me along on his horse. I was about four or five years old. When we arrived at his house and he lifted me down from the horse, I suddenly found myself standing beside this enormous animal. The impression that moment made on me was so powerful that it has stayed with me vividly to this day.
+> I still have a particularly vivid memory of one special moment from that period: one day, he took me along on his horse. I was about four or five years old. When we arrived at his house and he lifted me down from the horse, I suddenly found myself standing beside this enormous animal. The impression that moment made on me was so powerful that it has stayed with me vividly to this day.
 
 Over time, various developments have contributed to many of these mills losing their original importance. Due to climate change, less and less water is available in some places to turn the mill wheels and set the grinding stones in motion. At the same time, modernization and mechanization have made traditional mills largely obsolete. Apart from their nostalgic and historical value, they no longer hold the significance they once had, when they ground the grain used to make people's daily bread.
 
