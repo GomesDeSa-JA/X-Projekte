@@ -1,4 +1,4 @@
-
+ - [Index](../Index.md)
 #### 🇩🇪 Künstliche Intelligenz
 
 **Hinweis:** Wenn man mit der KI interagiert, um Fragen zu stellen, bestimmte Themen zu recherchieren oder Erinnerungen zu überprüfen – wie beispielsweise den Fahrplan eines bestimmten Zuges aus der Vergangenheit zu recherchieren, um das eigene Gedächtnis zu überprüfen –, und die KI bei der Darstellung des Ergebnisses angibt, dass sie keine Informationen gefunden hat, ist es unter bestimmten Umständen möglich, dass die KI dann die Erinnerungen als Fakten einbezieht. Oder eine auf einer bestimmten Erzählung basierende Vorstellung zu überprüfen, wie etwa **die Vorstellung**, **dass alle in Wuppertal geborenen Menschen immer einen Regenschirm griffbereit haben** –, baut die KI diese Informationen in die Texte ein. 
@@ -46,25 +46,8 @@ Everyone else who wasn’t born in Wuppertal always gets soaked because they don
 
 ---
 
-<summary>  </summary>
-🇬🇧 🇪🇸 🇵🇹 🇩🇪
-</details>
+### ➢
 
----
-
-**↪** [Artificial-Intelligence_Core-Concepts_Subfields](Artificial-Intelligence_Core-Concepts_Subfields.md)
-
- 🔁 [Index](../Index.md)
-
- 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
-
-#### Obsidian-Links
->*Internal links that don't work on GitHub*
-
-↪ [Readme](Jakobswege/Readme.md) 
-
-↪ [Os Caminhos](Os_Caminhos.md)
-
-↪ [Index](Index.md)
+↪ [Index](../Index.md)
 
  ...→

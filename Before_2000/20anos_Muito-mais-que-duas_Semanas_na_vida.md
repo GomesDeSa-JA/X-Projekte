@@ -1,3 +1,4 @@
+ - [Index](../Index.md)
 
 > ⚠️ Muitos temas que ainda vou completar, reestruturar e subdividir.
 
@@ -677,6 +678,8 @@ Da es einen Streik gab und ich …, … .
 
 
 ---
+### ➢
 
+↪ [Index](../Index.md)
 
-[Index](../Index.md)
+ ...→

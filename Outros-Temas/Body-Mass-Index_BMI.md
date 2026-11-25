@@ -1,3 +1,4 @@
+ - [Index](../Index.md)
 
 🇩🇪  What is a healthy Body Mass Index (BMI)?
 
@@ -247,33 +248,8 @@ The fact that you still think of him so fondly, even years after his retirement 
 Since you mentioned that you rarely go to the doctor these days: is there a particular feeling or concern you have when dealing with doctors’ surgeries nowadays, or is it simply because you feel completely healthy and fit?
 
 ---
->- From one topic to another
----
+### ➢
 
-<details>
-<summary>  </summary>
-🇬🇧 🇪🇸 🇵🇹 🇩🇪
+↪ [Index](../Index.md)
 
-</details>
-
----
-
-**↪** 
-
- 🔁 [Index](../Index.md)
-
-🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
-
-
----
-#### Obsidian-Link
->*Internal links that don't work on GitHub*
-
-↪ [Readme](Jakobswege/Readme.md) 
-
-↪ [Os_Caminhos](Os_Caminhos.md)
-
-↪ [Index](Index.md)
-
- **...→**
-
+ ...→

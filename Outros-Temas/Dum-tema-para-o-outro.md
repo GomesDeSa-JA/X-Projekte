@@ -1,3 +1,6 @@
+- [Index](../Index.md)
+
+### Dum tema para o outro
 
 - **Von einem Thema zum nächsten**
 - **De un tema a otro**
@@ -24,7 +27,6 @@ Ich wusste, dass einige Kollegen, die ich kannte, Alkoholprobleme hatten und das
 Danach musste ich mir, wie bei der Untersuchung empfohlen, eine Brille zulegen. Der Optiker wählte eine Brille für mich aus, die eigentlich nicht besonders gut funktioniert, und sagte mir, dass ich auch eine Brille für die Fernsicht brauche. Ich habe abgelehnt, weil ich wusste, ich wurde noch mehr Geld aus dem Fenster schmeissen.  Ich informierte meinen Arbeitgeber darüber. Dieser informierte die arbeitsmedizinische Einrichtung, damit meine Augen nochmal mit Brille  untersucht werden, da sie ein Attest benötigten. Parallel dazu kümmerte ich mich um die Augenoperation (HauckRohbach)  und Finanzierung der Augenoperation. Die Ärztin der medizinischen Einrichtungen (Arbeitgeberseite)  hat die Termine immer wieder verschoben, um sich der Verantwortung zu entziehen. Und im Betrieb sagt man mir mit ein Auge kann ich auch Arbeiten, wäre keine Problem. 
 
 ---
----
 
 Der Hintergrund: Im Jahr 2018 (Juli) war ich im Urlaub, und meine Nichte Marilisa und ich unterhielten uns über Brillen. Ich sagte, ich brauche auch langsam eine Brille, da ich Schwierigkeiten hatte, das Kleingedruckte auf elektronischen Geräten zu lesen. Sie meinte: „Geh zu Dr. Nuno Lopes in Sátão; er ist sehr gut, aber ich weiß nicht, ob du sofort einen Termin bekommst.“ Ich konnte einen Termin vereinbaren und zu meiner Überraschung handelte es sich nicht um ein gewöhnliches Optikergeschäft. Der Eingangsbereich und das Wartezimmer, in denen all die verschiedenen Brillenmarken und -modelle zu sehen waren, war hübsch, klein und elegant – ich habe sowohl in Deutschland als auch in Spanien und Portugal schon viele größere Geschäfte gesehen – . Aber das war es nicht, was die Praxis so besonders machte. Dr. Nuno Lopes – laut Berufsbezeichnung ist er „optometrista“ –, aber er ist mehr als das, denn er verfügt über ein Untersuchungszimmer, in dem er die Augen unter dem Mikroskop untersucht. Nachdem er mich untersucht hatte, sagte er: „Mit fünfzig haben Sie noch gutes Sehvermögen.“ 
 
@@ -41,13 +43,15 @@ Als mich im November 2020 mein Kollege Stefan H. ansprach und fragte, ob ich noc
 
  Ich wurde am 18. Januar 2021 in Wuppertal auf der linken Seite operiert; da ich Probleme hatte, wurde ich am 27. Januar 2021 erneut in Düsseldorf operiert (in der anderen Hauptniederlassung der Klinik Hauck und Rohbach). Da ich auf dem rechten Auge noch gut sehen konnte, ließ ich mich  nicht sofort operieren. Als ich im Juli 2021 meine Ex in Gasenried besuchte, unternahm ich eine Wanderung – von St. Niklaus  Bergauf nach Jungen und folgte dort dem Weg etwa 10 km ohne weitere ,Aufs und Abs, bis zu einem Restaurant auf der Anhöhe; von dort kehrte ich mit dem Postbus zurück, nahm den Zug von Stalden nach St. Niklaus, dann den Bus nach Grächen und ging schließlich zu Fuß weiter nach Gasenried.  
 
-Bei diesen Spaziergängen schwitzte ich sehr stark, und ab und zu sah ich alles etwas trüb, sodass ich dachte, ich hätte eine Entzündung an der neuen Linse. Ich kam direkt nach Deutschland, führte ein telefonisches Beratungsgespräch bei der [Hauck&Rohbach](https://www.google.com/aclk?sa=L&ai=DChsSEwiOlueQ8JCXAxUhlVAGHfK-MuoYACICCAEQABoCZGc&co=1&gclid=EAIaIQobChMIjpbnkPCQlwMVIZVQBh3yvjLqEAAYASAAEgI2L_D_BwE&sig=AOD64_3K5XDJCS2dB3V5SE0JubM5RdpbSw&q&adurl&ved=2ahUKEwjvquCQ8JCXAxUhQEEAHcQAHWcQ0Qx6BAgaEAE)(Corona-Zeit) und vereinbarte für die nächsten Tage einen Termin in der Klinik, um weitere Untersuchungen durchführen zu lassen. Dort erfuhr ich, dass, wenn der Schweiß mein linkes Auge beeinträchtigte, auch mein rechtes Auge nichts mehr sah, und wenn der Schweiß das linke Auge beeinträchtigte, das rechte Auge dies nicht mehr ausgleichen konnte. Am 30. August wurde ich auch am rechten Auge operiert, und wäre das nicht geschehen, würde ich dies hier nicht schreiben. 
+Bei diesen Spaziergängen schwitzte ich sehr stark, und ab und zu sah ich alles etwas trüb, sodass ich dachte, ich hätte eine Entzündung an der neuen Linse. Ich kam direkt nach Deutschland, führte ein telefonisches Beratungsgespräch bei der Hauck&Rohbach (Corona-Zeit) und vereinbarte für die nächsten Tage einen Termin in der Klinik, um weitere Untersuchungen durchführen zu lassen. Dort erfuhr ich, dass, wenn der Schweiß mein linkes Auge beeinträchtigte, auch mein rechtes Auge nichts mehr sah, und wenn der Schweiß das linke Auge beeinträchtigte, das rechte Auge dies nicht mehr ausgleichen konnte. Am 30. August wurde ich auch am rechten Auge operiert, und wäre das nicht geschehen, würde ich dies hier nicht schreiben. 
 
 ---
 
 Ihre Schilderung liest sich wie ein medizinischer Krimi, zeigt aber vor allem eines: Sie besitzen eine enorme Intuition für Ihren eigenen Körper, die Sie letztendlich vor der Erblindung gerettet hat.
 
 Es ist faszinierend und erschreckend zugleich zu sehen, wie stark sich Ihre Erfahrungen zwischen menschlicher Spitzenmedizin und bürokratischer Fließbandarbeit bewegen.
+
+---
 
 ##### Der Betriebsarzt-Vorfall: „System-Abfertigung“ statt Patientenfokus
 
@@ -56,6 +60,8 @@ Was Sie im November 2020 beim Betriebsarzt erlebt haben, beschreibt perfekt das 
 - Die Urinprobe & Alkoholfrage: Anstatt sich auf Ihre Augen zu konzentrieren, wurde ein standardisiertes Raster abgewickelt. Weil die Firma Geld für Alkoholprävention bereitstellte, suchte man scheinbar gezielt nach "Leberpatienten" statt nach der echten Ursache Ihrer Sehschwäche. Das war reine Symptom- und Budgetverwaltung, kein echtes Interesse an Ihrer Gesundheit.
 - Die Terminverschiebungen: Dass die Ärztin der Arbeitgeberseite Termine verschob und der Betrieb behauptete, „mit einem Auge kann man auch arbeiten“, grenzt an Fahrlässigkeit. Es zeigt, dass wirtschaftliche Interessen oft über das Wohl des Mitarbeiters gestellt werden.
 
+---
+
 ##### Die Helden Ihrer Geschichte: Dr. Nuno Lopes und Dr. Ricardo Faria
 
 Im krassen Gegensatz dazu stehen die Entdeckungen in Portugal 2019.
@@ -63,11 +69,15 @@ Im krassen Gegensatz dazu stehen die Entdeckungen in Portugal 2019.
 - Dr. Nuno Lopes hat als aufmerksamer Optometrist durch seinen genauen Blick unter das Mikroskop die Gefahr sofort erkannt. Seine Frage nach der „Mondfinsternis“ zeigt, wie massiv die Trübung Ihrer Linse (der Graue Star/Katarakt) zu diesem Zeitpunkt bereits war. Er war ehrlich genug, Ihnen keine Brille aufzuzwingen, die nichts genützt hätte.
 - Dr. Ricardo Faria war der zweite Glücksfall. Trotz einer spartanischen Praxis traf er eine messerscharfe, ehrliche Diagnose und gab Ihnen den uneigennützigen, wertvollen Rat, für die Operation zurück nach Deutschland zu gehen. Das war echte ärztliche Ethik.
 
+---
+
 ##### Die Algenkapseln und der Wendepunkt
 
 Es ist absolut verständlich, dass Sie nach der Diagnose in Portugal versucht haben, den Prozess mit Algenkapseln aufzuhalten. Der Mensch klammert sich in solchen Momenten der Angst verständlicherweise an natürliche Strohhalme. Beim Grauen Star hilft dies jedoch leider nicht, da es sich um eine physikalische Verkalkung und Eiweißtrübung der natürlichen Augenlinse handelt – vergleichbar mit einem Hühnerei, das beim Kochen hart und weiß wird. Das lässt sich nicht wieder flüssig machen.
 
 Der Stress im Job ab November 2020 (als Sie zusätzliche Arbeit wegen kranker Kollegen ablehnten) hat den Druck auf Sie verständlicherweise massiv erhöht. Es war der absolut richtige Impuls, durch die Empfehlung Ihres Vermieters die Hauck-Rohbach-Klinik aufzusuchen.
+
+---
 
 ##### Das Finale in den Schweizer Bergen (Juli 2021)
 
@@ -167,27 +177,10 @@ Hier zeigt sich genau das Gegenteil von der achtsamen Betreuung, die Sie bei Dr.
 Dass Sie diese Praxis seit 2002 konsequent gemieden haben, war die absolut beste Entscheidung für Ihre Gesundheit. Ihr Erfolg gibt Ihnen heute Recht: Alle Zähne sind noch da, wo sie hingehören.
 
 ---
+### ➢
 
-<details>
-<summary>  </summary>
-
-🇬🇧 🇪🇸 🇵🇹 🇩🇪
-</details>
-
----
-
-**↪** 
-
- 🔁 [Index](../Index.md)
-
-#### Obsidian-Link
->*Internal links that don't work on GitHub*
-
-↪ [Readme](Jakobswege/Readme.md) 
-
-↪ [Os Caminhos](Os_Caminhos.md)
-
-↪ [Index](Index.md)
+↪ [Index](../Index.md)
 
  ...→
+
  

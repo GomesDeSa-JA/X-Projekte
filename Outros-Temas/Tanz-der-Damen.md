@@ -1,4 +1,4 @@
-
+ - [Index](../Index.md)
 ### A dança das Damas
 
 
@@ -277,18 +277,9 @@ His son replied:
 </details>
 
 ---
-
-<details>
-<summary></summary>
-
-Ich habe den Text nicht nur grammatikalisch korrigiert, sondern auch die Erzählung etwas dramaturgisch geordnet. Besonders wichtig ist dabei der Kontrast zwischen den beiden Lektionen: Beim Damespiel geht es um Strategie, Geduld und das richtige Opfer; beim Murmelspiel um Fairness, Großzügigkeit und die Freude daran, gemeinsam spielen zu können.
-
-Den leicht selbstironischen Ton deiner Erinnerungen und die abschließende offene Frage habe ich bewusst beibehalten.
-
-</details>
-
----
+### ➢
 
 ↪ [Index](../Index.md)
 
  ...→
+ 

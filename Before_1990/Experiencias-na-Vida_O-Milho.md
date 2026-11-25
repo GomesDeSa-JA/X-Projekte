@@ -1,4 +1,4 @@
-
+ - [Index](../Index.md)
 ## Experiências na vida
 - Experiencias en la vida
 - Life Experience
@@ -106,6 +106,11 @@ Há, contudo, um pormenor interessante: uma espiga pode desenvolver cerca de 750
 
 ---
 
+#### 🌽 Porque é que quase ninguém sabia disto nas aldeias?
+
+Porque não era preciso saber para cultivar bem o milho.
+
+
 A sua surpresa é perfeitamente compreensível: conhecer todas as etapas do trabalho agrícola não significa necessariamente conhecer todos os pormenores da biologia da planta.
 
 Mantive o caráter autobiográfico do seu texto, corrigi algumas expressões e preservei o vocabulário rural português, incluindo _sachar_, _cascadas_, _tanganhos_ e _forno do povo_.
@@ -212,31 +217,11 @@ But that each individual strand of the corn silk corresponds to one kernel… ho
 
 </details>
 
-
----
-### 📌
-
 ---
 
-<details>
-<summary></summary>
-
-⚠️  🇬🇧  🇪🇸  🇵🇹  🇩🇪 
-
-</details>
-
----
+### ➢
 
 ↪ [Index](../Index.md)
 
-#### Obsidian-Links
->⚠️ *Internal links that don't work on GitHub*
-
-↪ [Readme](Jakobswege/Readme.md) 
-
-↪ [Os Caminhos](Os_Caminhos.md)
-
-↪ [Index](Index.md)
-
  ...→
-
+ 

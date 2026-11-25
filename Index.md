@@ -6,7 +6,7 @@
 #### A
 [🔠](#Index) 
 
--  [A-gestao-tradicional-da-paisagem](Before_1960/A-gestao-tradicional-da-paisagem.md)
+-  [A gestão tradicional da paisagem](Before_1960/A-gestao-tradicional-da-paisagem.md)
 - 
 
 ---
@@ -29,9 +29,9 @@
 
 
 -  [Bernoulli-Effekt](Outros-Temas/Bernoulli-Effekt.md)
-
+- 
 -  [Os Bisavós](Before_1950/Meine_Urgroßeltern.md)
-
+- 
 -  [BMI – Body Mass Index ](Outros-Temas/Body-Mass-Index_BMI.md)
 
 - 
@@ -45,7 +45,7 @@
 - [Coimbra  – Santa Clara – ](Before_1990/19880303_Coimbra_Santa-Clara.md)
 
 ---
-#### Os Caminhos / Jakobswege
+#### Os_Caminhos
 
 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 
@@ -64,7 +64,8 @@
 - ↪ [Camino Primitivo](Camino-Primitivo.md)
 - ↪ [Camino del Salvador ](Camino-del-Salvador_Etappen.md)
 - ↪ [Camino del Norte ](Jakobswege/07_Camino-del-Norte_2024/Camino-del-Norte_Etapas.md)
-- ↪ [Camino Inglés ](Camino-Ingles_Etapas.md)
+- ↪ [Camino Inglés ](../08_Camino-Inglés_2025/Camino-Ingles_Etapas.md)
+- 
 ---
 
 -  
@@ -75,7 +76,7 @@
 ### D
  [🔠](#Index) 
 
--  [A Dança das Damas](Outros-Temas/Dança-de-Damas.md)
+-  [A Dança das Damas](Outros-Temas/Tanz-der-Damen.md)
 - 
 -  [Dunkel Fahrt or Newcomer by Dark Run](Outros-Temas/Newcomer-by-Dark-Run.md)
 - 
@@ -118,7 +119,7 @@
 ### H
  [🔠](#Index) 
 
-- [Handy_Telemovel-Chronik](Outros-Temas/Handy_Telemovel-Chronik.md)
+- [Handy Chronik](Outros-Temas/Handy_Telemovel-Chronik.md)
 - 
 
 
@@ -139,7 +140,7 @@
 ### J
  [🔠](#Index) 
 
--  [Jakobsweg 🥾](#Caminhos)
+-  [Jakobsweg 🥾](#Os_Caminhos)
 - 
 -  [Juizes  🇩🇪 vs 🇵🇹](Outros-Temas/Richter_DE_vs_PT.md)
 - 
@@ -148,7 +149,10 @@
 ### K
  [🔠](#Index) 
 
-
+- 
+-  
+- 
+ 
 ---
 ### L
  [🔠](#Index) 
@@ -159,7 +163,7 @@
 -  [Lima – Madrid](Outros-Temas/Lima-Madrid.md)
 -  
 -  
-- -
+- 
 
 ---
 ### M – R
@@ -171,8 +175,6 @@
 -  [Lima – Madrid](Outros-Temas/Lima-Madrid.md) 
 - 
 -  [O Milho,  Der Mais, El Maîz, The Maize ](Before_1990/Experiencias-na-Vida_O-Milho.md)
-
-
 
 
 ---

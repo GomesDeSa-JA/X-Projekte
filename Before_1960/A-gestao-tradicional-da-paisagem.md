@@ -58,7 +58,7 @@ E, ao contrário do que hoje se pensa, as pessoas tinham plena consciência diss
 Era uma vigilância comunitária natural, baseada no bom senso e na interdependência.
 
 ---
-  ### ➢
+### ➢
 
 ↪ [Index](../Index.md)
 

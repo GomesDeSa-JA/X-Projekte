@@ -1,6 +1,10 @@
- ### Eine lebensgefährliche Überquerung
+ - [Index](../Index.md)
 
-Dass dies auf einer Brücke ein fataler Irrtum ist, liegt an einer Kombination lebensgefährlicher Faktoren:
+### Ein gemütlicher Spaziergang über die Eisenbahnbrücke
+
+*Ein Spaziergang entlang der Bahngleise oder über eine Eisenbahnbrücke sparte Zeit und bedeutete, dass man schnell sein Ziel erreichte.*
+
+⚠️  **Dass dies auf einer Brücke ein fataler Irrtum ist, liegt an einer Kombination lebensgefährlicher Faktoren:**
 
 ### 1.  Die aerodynamische Falle (Der Bernoulli-Effekt)
 - Wie oben beschrieben, erzeugt ein vorbeifahrender Zug bei entsprechender Geschwindigkeit eine enorme Druck- und Sogwelle.
@@ -34,20 +38,11 @@ Dass dies auf einer Brücke ein fataler Irrtum ist, liegt an einer Kombination l
 
 ⚠️ **Man kann nicht fliegende Steine ausweichen**. 
 
----
-
-**↪** 
-
- 🔁 [Index](../Index.md)
 
 ---
-#### Obsidian-Links
->*Internal links that don't work on GitHub*
+### ➢
 
-↪ [Readme](Jakobswege/Readme.md) 
-
-↪ [Os Caminhos](Os_Caminhos.md)
-
-↪ [Index](Index.md)
+↪ [Index](../Index.md)
 
  ...→
+ 

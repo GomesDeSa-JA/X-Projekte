@@ -1,4 +1,4 @@
-
+- [Index](../../Index.md)
 ### A odisseia para encontrar um quarto
 #### 🇵🇹  Agendamento de encontro com Ilda Pereira
 
@@ -36,28 +36,8 @@ Ich habe angerufen, um einen Termin zu vereinbaren, und wir haben uns vor dem Ho
 -  🇩🇪 Ich habe einen Anruf wegen der Verspätung erhalten, mir ging es gut und ich trank ein Bier – ich habe es gut überstanden.
 
 ---
-
-<details>
-<summary> ... </summary>
-
-⚠️  🇬🇧  🇪🇸  🇵🇹  🇩🇪  🥾  👣  🏠  📸  🛏️ ⏱️  📌 🇨🇭  ⁘  **⁘**   🔁  **↪**  **...**→**  **←**  **↓**  **→**  **↑** 
-
-➛  ✤  ➢   ➳ † ✝ ✥ ✰ ©
-
-</details>
-
----
+### ➢
 
 ↪ [Index](../../Index.md)
 
-#### Obsidian-Links
->⚠️ *Internal links that don't work on GitHub*
-
-↪ [Readme](Jakobswege/Readme.md) 
-
-↪ [Os Caminhos](Os_Caminhos.md)
-
-↪ [Index](Index.md)
-
- **...→**
-
+ ...→

@@ -1,4 +1,4 @@
-
+ - [Index](../Index.md)
 
 ----
 #### Um  de muitos casos estranhos
@@ -14,7 +14,9 @@ Amadora - PT - 2700-319
 
 ---
 
+### ➢
 
-[Index](../Index.md)
+↪ [Index](../Index.md)
 
- **... →**
+ ...→
+ 

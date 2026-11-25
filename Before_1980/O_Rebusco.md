@@ -1,3 +1,5 @@
+ - [Index](../Index.md)
+ 
 ## 🌾 O rebusco
 
 «Rebusco» deriva de «rebuscar» 
@@ -71,22 +73,9 @@ Hoy, al echar la vista atrás, me doy cuenta de que cada "Rebusco" era más que 
 
 ---
 
-<details>
-<summary></summary>
-
-</details>
-
----
+### ➢
 
 ↪ [Index](../Index.md)
 
-#### Obsidian-Links
->⚠️ *Internal links that don't work on GitHub*
-
-↪ [Readme](Jakobswege/Readme.md) 
-
-↪ [Os Caminhos](Os_Caminhos.md)
-
-↪ [Index](Index.md)
-
  ...→
+ 

@@ -260,6 +260,9 @@ Da die genaue interne Bauteilbezeichnung für den historischen Achszähler Az 65
 </details>
 
 ---
+### ➢
 
-[Index](../Index.md)
+↪ [Index](../Index.md)
 
+ ...→
+ 

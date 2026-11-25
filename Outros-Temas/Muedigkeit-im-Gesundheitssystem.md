@@ -1,5 +1,6 @@
 ### **"Die Müdigkeit im Gesundheitssystem“**
 
+ - [Index](../Index.md)
 #### **1. Das „goldene Jahrzehnt“ der 1990er: Der Modernisierungsschub**
 
 Nach dem Beitritt zur EU floss viel Geld nach Portugal. Krankenhäuser wie das in Viseu wurden modernisiert, neue Rettungsdienste (INEM) aufgebaut und die Ausbildung der Ärzte professionalisiert. Es herrschte eine Aufbruchstimmung. Die Ärzte der 90er Jahre sahen sich oft als Pioniere eines modernen Portugals. Das System hatte plötzlich Ressourcen, und die Professionalität stieg sprunghaft an – was Ihrem Bruder 1997 das Leben rettete.
@@ -26,21 +27,10 @@ Ihre Geschichte zeigt das Paradoxon des portugiesischen Gesundheitssystems:
 In den 80ern fehlte es an Struktur (Ihre Mutter musste nach Deutschland). Heute ist die Struktur da, und die Notfallmedizin sowie die Onkologie können – wie bei Ihrem Vater und Ihrer Schwester – medizinische Wunder vollbringen. Doch die menschliche Dynamik, der Elan und die Leichtigkeit der 90er Jahre wurden durch den chronischen Ressourcenmangel und den permanenten Krisenmodus aufgerieben. Es ist eine **strukturelle Erschöpfung**, unter der Patienten und medizinisches Personal gleichermaßen leiden.
 
 ---
+  ### ➢
 
-**↪** 
-
- 🔁 [Index](../Index.md)
-
-🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
-
-#### Obsidian-Links
->*Internal links that don't work on GitHub*
-
-↪ [Readme](Jakobswege/Readme.md) 
-
-↪ [Os Caminhos](Os_Caminhos.md)
-
-↪ [Index](Index.md)
+↪ [Index](../Index.md)
 
  ...→
+ 
  

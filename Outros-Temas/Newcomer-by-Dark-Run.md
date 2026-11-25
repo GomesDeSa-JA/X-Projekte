@@ -1,6 +1,8 @@
 
 #### 🇩🇪 Neuling bei Dunkel-Fahrt
 
+ - [Index](../Index.md)
+
 <details>
 <summary>Dunkel-Fahrt</summary>
 
@@ -52,32 +54,18 @@ Devo admitir que, apesar de ter várias pessoas a observar cada movimento meu, m
 
 ---
 
-<details>
-<summary>  </summary>
-
-🇬🇧 🇪🇸 🇵🇹 🇩🇪 
-
-</details>
-
----
-
 **↪** [20250903_Acidente_Elevador-da-Gloria](20250903_Acidente_Elevador-da-Gloria.md)
 
 **↪** [Lima-Madrid](Lima-Madrid.md)
 
 **↪**  [Pure-stress-and-incredibly-demotivating](Pure-stress-and-incredibly-demotivating.md)
 
- 🔁 [Index](../Index.md)
+---
 
+### ➢
 
-#### Obsidian-Links
->*Internal links that don't work on GitHub*
-
-↪ [Readme](Jakobswege/Readme.md) 
-
-↪ [Os Caminhos](Os_Caminhos.md)
-
-↪ [Index](Index.md)
+↪ [Index](../Index.md)
 
  ...→
+
 

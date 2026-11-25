@@ -1,3 +1,4 @@
+ - [Index](../Index.md)
 
 ### 🇵🇹 A lenha, os tanganhos e as pinhas
 
@@ -402,35 +403,12 @@ They are small stories of a rural way of life that may now seem distant, but whi
 
 </details>
 
----
-
-### Links
-
-<details>
-<summary></summary>
-
-⚠️  🇬🇧  🇪🇸  🇵🇹  🇩🇪 
-
-
-Resumindo estas práticas tinham uma importância que ia muito além da economia doméstica. Ao recolherem sistematicamente as pernadas secas, as populações mantinham os campos, as matas e as moitas limpas, reduzindo drasticamente a carga de combustível vegetal. 
-
-Com meios limitados, sem máquinas, sem brigadas especializadas e sem tecnologia, as aldeias conseguiam prevenir fogos de grande dimensão. A limpeza contínua da paisagem — feita por necessidade, todos os dias, por toda a gente — criava um mosaico rural que dificultava a propagação das chamas. Por isso, apesar da pobreza, não existiam tantos fogos devastadores como os que hoje assolam o país, mesmo com sistemas modernos de vigilância e combate.
-
-</details>
 
 ---
 
-↪ [O Rebusco](Before_1980/O_Rebusco.md)
+### ➢
 
 ↪ [Index](../Index.md)
 
-#### Obsidian-Links
->⚠️ *Internal links that don't work on GitHub*
-
-↪ [Readme](Jakobswege/Readme.md) 
-
-↪ [Os Caminhos](Os_Caminhos.md)
-
-↪ [Index](Index.md)
-
  ...→
+

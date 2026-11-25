@@ -234,12 +234,18 @@ Aufteilung des Nachlasses
 
 Decidi dedicar-me a um dos aspetos mais profundos das minhas origens: a família da minha mãe. Quero, em particular, dar à minha bisavó materna um lugar especial na história da nossa família.
 
-**O seu nome foi levado pelo vento do esquecimento.**
+**O seu nome foi levado pelo vento.**
+
+- Morreu-se tanto a trabalhar que só se recordou quem ficou com o trabalho.
+
+A Herança que deixou:
+- não deixou  joias , deixou o  cuidado da casa, o fogão e a responsabilidade por quatro homens (os irmãos) e o pai.
+
 
 <details>
 <summary> Como é que ela se chamava?</summary>
 
- #### Como é que ela se chamava?
+ #### Não sei ?
 
 Não me lembro do nome da minha bisavó. Quando, por vezes, o seu nome era mencionado, parecia que o vento do esquecimento o levava assim que era pronunciado. A minha memória nunca conseguiu retê-lo.
 
@@ -914,8 +920,7 @@ Distribution of the Estate
 </details>
 
 ---
-
-## 📌
+### ➢
 
 ↪ [Index](../Index.md)
 

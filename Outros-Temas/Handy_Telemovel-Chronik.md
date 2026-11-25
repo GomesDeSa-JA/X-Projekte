@@ -1,4 +1,4 @@
-
+ - [Index](../Index.md)
 ### Meine Handy-Chronik
 
 <details>
@@ -51,10 +51,7 @@ Wieder zu Hause angekommen, bot mir ein marokkanischer Mitbewohner sofort an, mi
 
 21:26
 
-![](20220927212608-A52S-Vila-Praia-de-A.webp)
-
-03:04
-![](Media01/20220928030436_Galaxy-Tab_Vila-Praia-de-A.webp)
+![](Media01/20220927212608-A52S-Vila-Praia-de-A.webp)
 
 03:22
 ![](Media01/20220928032250-A52_Vila-Praia-de-A.webp)
@@ -138,6 +135,20 @@ Continuei até ao posto da _Guarda Nacional Republicana_ (GNR) em Âncora Praia.
 
 Ao chegar novamente a casa, um colega de quarto marroquino ofereceu-se imediatamente para eu fazer login no Google através do portátil dele, para localizar o telemóvel. Recusei o favor – afinal, eu tinha o meu próprio tablet e o meu portátil. E aqui começou o meu plano sistemático: usei o meu tablet como objeto de teste. Testei as funções de localização do Google sob várias condições, para descobrir com exatidão que dados e valores o sistema enviava em função do modo online ou offline. Através deste teste, decifrei os sinais. Embora o telemóvel roubado estivesse offline, consegui ver o estado exato da bateria. Quando notei que a bateria tinha perdido uma quantidade mínima de energia, soube: alguém estava a mexer no aparelho.
 
+![](Media01/20220928025957_Galaxy-Tab_Vila-Praia-de-A.webp)
+
+<details>
+<summary></summary>
+
+21:26
+
+![](Media01/20220927212608-A52S-Vila-Praia-de-A.webp)
+
+03:22
+![](Media01/20220928032250-A52_Vila-Praia-de-A.webp)
+
+</details>
+
 A meio da noite, passei à ação. Ativei repetidamente o alarme estridente através do acesso remoto. A guerra psicológica surtiu efeito: o ladrão perdeu os nervos dentro de casa. Nos práticos compartimentos para cartões da capa do meu telemóvel, ele tinha encontrado exatamente o que procurava: cerca de 150 euros em dinheiro. Além disso, estavam lá dois cartões de visita de consultores imobiliários da Remax e algumas das minhas notas pessoais.
 
 Depois de ter ficado com o dinheiro e de ter arrancado o cartão SIM e o cartão Micro-SD (que não estava encriptado), o telemóvel, que tocava sem parar no silêncio noturno das ruas secundárias, tornou-se um perigo agudo para ele. Como não conseguia desligar o alarme estridente e tinha medo de ser descoberto, fugiu a meio da noite para a rua e atirou o telemóvel implacável para um beco.
@@ -173,20 +184,9 @@ Para manter viva a memória destes dias cheios de peripécias, aqui ficam regist
 </details>
 
 ---
+### ➢
 
-
-
-**↪** 
-
- 🔁 [Index](../Index.md)
-
-#### Obsidian-Links
->*Internal links that don't work on GitHub*
-
-↪ [Readme](Jakobswege/Readme.md) 
-
-↪ [Os Caminhos](Os_Caminhos.md)
-
-↪ [Index](Index.md)
+↪ [Index](../Index.md)
 
  ...→
+ 

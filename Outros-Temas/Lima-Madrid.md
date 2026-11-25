@@ -1,5 +1,4 @@
-
-
+ - [Index](../Index.md)
 #### 🇩🇪  Ein krasser Gegensatz
 
 Ein krasser Gegensatz zwischen der **streng regulierten Bürokratie der Deutschen Bahn** und dem **völligen Mangel an Kontrolle bei Carris** in Lissabon, wo einfach nicht zertifizierte Kabel verlegt wurden. Ein weiterer Aspekt für einen **vergleichenden Kommentar*
@@ -98,29 +97,14 @@ El 10 de junio de 2016, hacia las 19:00 horas, estaba en la cola para tomar mi v
 
 ---
 
-<details>
-<summary>  </summary>
-
-🇬🇧 🇪🇸 🇵🇹 🇩🇪 
-
-</details>
-
----
-
 **↪** [Newcomer-by-Dark-Run](Newcomer-by-Dark-Run.md)
 
 **↪** [Pure-stress-and-incredibly-demotivating](Pure-stress-and-incredibly-demotivating.md)
 
-🔁 [Index](../Index.md)
+### ➢
 
-#### Obsidian-Links
->*Internal links that don't work on GitHub*
+↪ [Index](../Index.md)
 
-↪ [Readme](Jakobswege/Readme.md) 
-
-↪ [Os Caminhos](Os_Caminhos.md)
-
-↪ [Index](Index.md)
- 
  ...→
+ 
 

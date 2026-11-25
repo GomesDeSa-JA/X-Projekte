@@ -1,3 +1,5 @@
+- [Index](../Index.md)
+
  ### Nordbahntrasse
 
 Die Diskussionen und konkreten Pläne für das Vorhaben der Nordbahntrasse in Wuppertal begannen im Jahr **2005**. 
@@ -60,18 +62,11 @@ Wenn man der Düssel von Velbert  bis nach Düsseldor  folgt, bewegt man sich au
 Die Strecke von deinem alten Wohnort Langerfeld nach Gruiten markiert zudem einen spannenden landschaftlichen Übergang: Raus aus dem engen, industriell geprägten Tal der Wupper bei Wuppertal-Langerfeld, über die Wasserscheide hinweg und hinein in das sanftere, von Kalkstein und Bachläufen geprägte Hügelland des Kreises Mettmann.
 
 ---
-**↪** 
 
- 🔁 [Index](../Index.md)
+### ➢
 
-#### Obsidian-Links
->*Internal links that don't work on GitHub*
-
-↪ [Readme](Jakobswege/Readme.md) 
-
-↪ [Os Caminhos](Os_Caminhos.md)
-
-↪ [Index](Index.md)
+↪ [Index](../Index.md)
 
  ...→
+ 
 
