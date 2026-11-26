@@ -2,7 +2,7 @@
 
 ### Alemanha vs Portugal
 
-Wie sah die wirtschaftliche Lage in Deutschland zwischen 2000 und 2007 aus?
+**Wie sah die wirtschaftliche Lage in Deutschland zwischen 2000 und 2007 aus?**
 
 Die Wirtschaftslage in Deutschland durchlief im Zeitraum von 2000 bis 2007 eine spürbare Trendwende: Sie wandelte sich **von einer Phase der wirtschaftlichen Stagnation und Rekordarbeitslosigkeit hin zu einem kräftigen Aufschwung**. In dieser Ära festigte Deutschland zudem seine Rolle als globaler „Exportweltmeister“.
 
@@ -38,7 +38,7 @@ Jahr	BIP-Wachstum (real)	Arbeitslosenquote (ILO-Schätzung)
 2007	+2,9 %	8,7 %
 
 
-Wie sah die wirtschaftliche Lage in Portugal zwischen 2000 und 2007 aus?
+**Wie sah die wirtschaftliche Lage in Portugal zwischen 2000 und 2007 aus?**
 
 Die Wirtschaftslage in Portugal entwickelte sich im Zeitraum von 2000 bis 2007 gegensätzlich zu Deutschland: Nach einem anfänglichen Boom erlebte das Land eine Phase hartnäckiger wirtschaftlicher Stagnation, steigender Arbeitslosigkeit und wachsender struktureller Probleme, bevor es ab 2006 zu einer moderaten Erholung ansetzte. Der Euro-Beitritt im Jahr 2002 prägte diese Phase maßgeblich. 
 

@@ -1,4 +1,4 @@
- - [Index](../Index.md)
+ - [Index](Index.md)
 ### Readme
 
 #### 🇩🇪 Was ist der Sinn des Lebens?
@@ -329,7 +329,7 @@ Today, I am writing all this down to come to terms with many aspects of my life 
 
 ### ➢
 
-↪ [Index](../Index.md)
+↪ [Index](Index.md)
 
  ...→
  

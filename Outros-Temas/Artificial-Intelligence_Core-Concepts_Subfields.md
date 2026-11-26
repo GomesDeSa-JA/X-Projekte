@@ -80,35 +80,10 @@ Eine andere KI hingegen unterzieht den Text einer Art Psychoanalyse. Diese freud
 </details>
 
 ---
+### ➢
 
-<details>
-<summary></summary>
+↪ [Artificial-Intelligence](Outros-Temas/Artificial-Intelligence.md)
 
-Textgestalltung
+↪ [Index](../Index.md)
 
-⚠️  🇬🇧  🇪🇸  🇵🇹  🇩🇪  🥾  👣  🏠  📸  🛏️ ⏱️  📌
-
-🇨🇭  ⁘  **⁘**   🔁  **↪**  **...**→**  **←**  **↓**  **→**  **↑**
-
-➛  ✤  ➢   ➳ † ✝ ✥ ✰ ©
-
-</details>
-
----
-
-**↪** [Artificial-Intelligence](Artificial-Intelligence.md)
-
- 🔁 [Index](../Index.md)
-
- 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
-
-#### Obsidian-Links
->*Internal links that don't work on GitHub*
-
-↪ [Readme](Jakobswege/Readme.md) 
-
-↪ [Os Caminhos](Os_Caminhos.md)
-
-↪ [Index](Index.md)
-
-**... →** 
+ ...→

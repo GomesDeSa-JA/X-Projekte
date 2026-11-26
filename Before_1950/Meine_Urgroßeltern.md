@@ -922,6 +922,8 @@ Distribution of the Estate
 ---
 ### ➢
 
+↪ [1930-1975_O-tio-Armando](1930-1975_O-tio-Armando.md)
+
 ↪ [Index](../Index.md)
 
  ...→

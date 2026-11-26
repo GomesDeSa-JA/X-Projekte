@@ -21,9 +21,12 @@
 ---
 
 -  [AI – Artificial Intelligence](Outros-Temas/Artificial-Intelligence.md)
+-  
+-  
+- [O Tio Armando 1930 – ? – 1975 ](Before_1950/1930-1975_O-tio-Armando.md)
 
 ---
-### B
+#### B
 [🔠](#Index) 
 
 
@@ -33,11 +36,11 @@
 -  [Os Bisavós](Before_1950/Meine_Urgroßeltern.md)
 - 
 -  [BMI – Body Mass Index ](Outros-Temas/Body-Mass-Index_BMI.md)
-
+- 
 - 
 
 ---
-### C
+#### C
 [🔠](#Index) 
 
 -  
@@ -50,8 +53,10 @@
 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 
 ---
-#### **Obsidia Links** 
+#### **Obsidian Links** 
 >*⚠️  Internal links that don't work on GitHub*
+
+##### [Os Caminhos](../Camino-del-Salvador/Os_Caminhos.md)
 
 - ↪ [A-Promessa-Herdada](A-Promessa-Herdada.md)
 - ↪ [Caminho de Fatima ](Camino-del-Salvador/Caminhos-de-Fatima/2_Santiago_Fatima_2019/Caminho-de-Fatima_Etapas.md)
@@ -73,7 +78,7 @@
 - 
 
 ---
-### D
+#### D
  [🔠](#Index) 
 
 -  [A Dança das Damas](Outros-Temas/Tanz-der-Damen.md)
@@ -81,13 +86,13 @@
 -  [Dunkel Fahrt or Newcomer by Dark Run](Outros-Temas/Newcomer-by-Dark-Run.md)
 - 
 -  [Dum-tema-para-o-outro](Outros-Temas/Dum-tema-para-o-outro.md)
-
+- 
 -  
-
+- 
 - 
 
 ---
-### E
+#### E
  [🔠](#Index) 
 
 -  [Erinnerungsfragmente](Outros-Temas/Erinnerungsfragmente.md)
@@ -95,20 +100,19 @@
 
 
 ---
-### F
+#### F
  [🔠](#Index) 
 
 
 -  [Fumadinha](202205_O-Retorno/20220521-19h00_Fumadinha.md)
-
+- 
 -  [Fátima](Before_2010/20200512_Fatima.md)
 - 
 
 ---
 ### G – L
 
-
-### G
+#### G
  [🔠](#Index) 
 
 - 
@@ -116,7 +120,7 @@
 - 
 
 ---
-### H
+#### H
  [🔠](#Index) 
 
 - [Handy Chronik](Outros-Temas/Handy_Telemovel-Chronik.md)
@@ -128,16 +132,16 @@
 
 
 ---
-### I
+#### I
  [🔠](#Index) 
  
-- 
+-   [IA – Inteligência Artificial ](Outros-Temas/Artificial-Intelligence.md)
 
 - 
 
 
 ---
-### J
+#### J
  [🔠](#Index) 
 
 -  [Jakobsweg 🥾](#Os_Caminhos)
@@ -146,15 +150,15 @@
 - 
 
 ---
-### K
+#### K
  [🔠](#Index) 
 
-- 
+-  [KI – Künstliche Intelligenz ](Outros-Temas/Artificial-Intelligence.md)
 -  
 - 
  
 ---
-### L
+#### L
  [🔠](#Index) 
 
 -  [A lagarta ](Outros-Temas/A-lagarta.md)
@@ -167,7 +171,7 @@
 
 ---
 ### M – R
-### M
+#### M
  [🔠](#Index) 
 
 - [Muedigkeit im Gesundheitssystem](Outros-Temas/Muedigkeit-im-Gesundheitssystem.md)
@@ -178,7 +182,7 @@
 
 
 ---
-### N
+#### N
  [🔠](#Index) 
 
 -  [Nine Eleven](Before_2010/20011109_Nine-Eleven.md)
@@ -187,7 +191,7 @@
 - 
 
 ---
-### O
+#### O
  [🔠](#Index) 
 
 -  
@@ -195,12 +199,12 @@
 -  
 
 ---
-### P
+#### P
  [🔠](#Index) 
 
--  [Praia Ancora –Termin– ver Quarto ](202205_O-Retorno/Vila-Praia-deAncora/20220904_Praia-Ancora_Termin_ver-um-Quarto.md)
+-  [Praia Ancora –Termin– ver Quarto ](202205_O-Retorno/20220904_Praia-Ancora_Termin_ver-um-Quarto.md)
 - 
--  [Perdido em Seixas](202205_O-Retorno/Minho/20220901_Perdido-em-Seixas_Minho.md)
+-  [Perdido em Seixas](202205_O-Retorno/20220901_Perdido-em-Seixas_Minho.md)
 - 
 ---
 #### Processo Judicial
@@ -214,18 +218,18 @@
 
 
 ---
-### Q
+#### Q
  [🔠](#Index) 
 
 - 
 -  
 -  
-- -
+- 
 
 
 
 ---
-### R
+#### R
  [🔠](#Index) 
 
 -  
@@ -235,11 +239,15 @@
 - 
 -  [Richter 🇩🇪 vs 🇵🇹](Outros-Temas/Richter_DE_vs_PT.md)
 - 
+- [O Regresso –Readme– ](202205_O-Retorno/Readme_O-Regresso.md)
+- 
+-  [202205_O-Retorno-Index](202205_O-Retorno/202205_O-Retorno-Index.md)
+
 
 
 ---
 ###  S – Z
-### S
+#### S
  [🔠](#Index) 
 
 -  [Der Sinn des Lebens / O sentido da Vida](Readme.md)
@@ -247,7 +255,7 @@
 -  
 
 ---
-### T
+#### T
  [🔠](#Index) 
 
 -  [Os Tanganhos ](Before_1990/Os-Tanganhos_A-Lenha.md)
@@ -256,14 +264,14 @@
 - 
 
 ---
-### U
+#### U
  [🔠](#Index) 
 
 - 
 - 
 
 ---
-### V
+#### V
  [🔠](#Index) 
 
 -  [Vinte anos: Muito mais que duas Semanas na Vida](Before_2000/20anos_Muito-mais-que-duas_Semanas_na_vida.md)
@@ -272,30 +280,34 @@
 
 
 ---
-### W
+#### W
  [🔠](#Index) 
 
 - 
 - 
 
 ---
-### X
+#### X
  [🔠](#Index) 
 
 - 
 - 
 ---
-### Y
+#### Y
  [🔠](#Index) 
 
 - 
 - 
 
 ---
-### Z
+#### Z
  [🔠](#Index) 
 
 - 
+- 
+- -
+
+
 
 ---
 

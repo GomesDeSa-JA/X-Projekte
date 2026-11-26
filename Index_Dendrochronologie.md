@@ -61,7 +61,7 @@
 #### 2022
 [📅](#Ano)
 
- - [20220904 Praia-Ancora –Termin– ver Quarto ](202205_O-Retorno/Vila-Praia-deAncora/20220904_Praia-Ancora_Termin_ver-um-Quarto.md)
+ - [20220904 Praia-Ancora –Termin– ver Quarto ](20220904_Praia-Ancora_Termin_ver-um-Quarto.md)
 
 
 
@@ -80,7 +80,6 @@
 ---
 #### 2025
 [📅](#Ano)
-
 
 
 ---
@@ -107,12 +106,11 @@
 
 ---
 
-## 📌
+### ➢
 
-**↪** [Index](Index.md)
-
+↪ [Index](Index.md)
 
 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 
- ...→
+ **...→**
 
