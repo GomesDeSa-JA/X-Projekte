@@ -16,7 +16,7 @@ Nach der Jahrtausendwende änderte sich die Dynamik. Das System stieß an finanz
 - **Bürokratie statt Patientenzeit:** Um Kosten zu sparen, wurde das System extrem zentralisiert und kontrolliert. Ärzte verbrachten plötzlich mehr Zeit mit dem Ausfüllen von Formularen am Computer als mit den Patienten. Das erzeugte die von Ihnen gespürte **Müdigkeit und Demotivation** beim Personal.
 
 > **Bemerkung:** Dieses Problem hat auch Deutschlanf erfast 
-Siehe: Gespräche am 30/31 Januar2012 mit Dr. Med. F. Armkreutz   
+> Siehe: Gespräche am 30/31 Januar2012 mit Dr. Med. F. Armkreutz   
 #### **3. Die Gegenwart: Ein System am Limit**
 
 Die Krebserkrankung Ihrer Schwester im Jahr 2018 fällt in eine Zeit, in der das System bereits chronisch unterfinanziert und überlastet war. Dass sie durch die Operationen dennoch ein weitgehend normales Leben führen kann, zeigt, dass die **fachliche Qualität der Chirurgen und Teams** nach wie vor exzellent ist. Aber das Drumherum – die Organisation, die Wartezeiten, der Stress auf den Fluren – hat sich massiv verschlechtert. Das System läuft heute oft nur noch deshalb, weil das verbliebene Personal sich bis zum Burnout aufreibt.

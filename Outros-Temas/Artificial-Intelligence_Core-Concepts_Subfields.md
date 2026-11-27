@@ -82,7 +82,7 @@ Eine andere KI hingegen unterzieht den Text einer Art Psychoanalyse. Diese freud
 ---
 ### ➢
 
-↪ [Artificial-Intelligence](Outros-Temas/Artificial-Intelligence.md)
+↪ [Artificial-Intelligence](Artificial-Intelligence.md)
 
 ↪ [Index](../Index.md)
 

@@ -3,7 +3,7 @@
 
 ..., ... . 
 
-Se não se for entomologista e se olhar para uma lagarta, vê-se um inseto feio que só anda a rastejar e a comer sem parar; mas um **lepidopterologista** verá que essa criatura feia se transforma em algo bonito através da metamorfose, o que, no entanto, não altera o facto de que, se forem em número excessivo, podem destruir os jardins bonitos.
+Se não se for entomologista e se olhar para uma lagarta, vê-se um inseto feio que só anda a rastejar e a comer sem parar; mas um **lepidopterologista** verá que essa criatura feia se transforma em algo belo através da metamorfose, o que, no entanto, não altera o facto de que, se forem em número excessivo, podem destruir os jardins bonitos.
 
 ---
 

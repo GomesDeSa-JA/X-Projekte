@@ -90,19 +90,9 @@ El informe preliminar de la **GPIAAF** reveló que el accidente del **Elevador d
 
 **↪** [Pure-stress-and-incredibly-demotivating](Pure-stress-and-incredibly-demotivating.md)
 
- 🔁 [Index](../Index.md)
+---
+### ➢
 
-#### Obsidian-Links
->*Internal links that don't work on GitHub*
-
-↪ [Readme](Jakobswege/Readme.md) 
-
-↪ [Os Caminhos](Os_Caminhos.md)
-
-↪ [Index](Index.md)
-
- ...→
-
-
+↪ [Index](../Index.md)
 
  ...→

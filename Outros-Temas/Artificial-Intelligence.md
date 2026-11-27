@@ -30,7 +30,7 @@ Todos os outros que não nasceram em Wuppertal acabam sempre por se molhar, porq
 
 ---
 
-Apesar de ter de me ocupar destas pequenos detalhes, estou muito satisfeito com as capacidades de processamento de texto do meu assistente de IA. Quando lhe pergunto o que é um café, ele dá-me explicações tão detalhadas que até um barista italiano ficaria impressionado. Mas quando se trata de fazer café, a situação é completamente diferente: Acho que vou ter de o inscrever num curso intensivo no «Italiano da esquina». Sempre que tento reservar algum tempo para preparar um café, perco o fio à meada das minhas reflexões intelectuais e espirituais — talvez ele se esconda nos grãos de café, para que eu não tenha de me confrontar comigo mesmo.
+Apesar de ter de me ocupar com estas pequenos detalhes, estou muito satisfeito com as capacidades de processamento de texto do meu assistente de IA. Quando lhe pergunto o que é um café, ele dá-me explicações tão detalhadas que até um barista italiano ficaria impressionado. Mas quando se trata de fazer café, a situação é completamente diferente: Acho que vou ter de o inscrever num curso intensivo no «Italiano da esquina». Sempre que tento reservar algum tempo para preparar um café, perco o fio à meada das minhas reflexões intelectuais e espirituais — talvez ele se esconda nos grãos de café, para que eu não tenha de me confrontar comigo mesmo.
 
 ---
 #### 🇪🇸 Inteligencia artificial
@@ -72,7 +72,7 @@ Although I have to deal with these minor details, I’m very pleased with my AI 
 
 ### ➢
 
-↪ [Artificial-Intelligence_Core-Concepts_Subfields](Outros-Temas/Artificial-Intelligence_Core-Concepts_Subfields.md)
+↪ [Artificial-Intelligence_Core-Concepts_Subfields](Artificial-Intelligence_Core-Concepts_Subfields.md)
 
 ↪ [Index](../Index.md)
 

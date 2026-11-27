@@ -59,7 +59,7 @@ Eram frequentes conversas como:
 
 — Sim, porque vou fazer o almoço e já não tenho nenhuma. Quando terminar as sementeiras, vou ter de ir apanhar mais.
 
-Ao contrário de outras formas de recolha de lenha, a apanha de pinhas parecia obedecer a costumes comunitários mais permissivos. As pessoas recolhiam-nas nas matas e noutros lugares sem que, aparentemente, existissem as mesmas restrições, proibições ou exigências de autorização dos proprietários.
+Ao contrário de outras formas de recolha de lenha, a apanha de pinhas parecia obedecer a costumes comunitários mais permissivos. As pessoas recolhiam-nas nas matas sem que, aparentemente, existissem as mesmas restrições, proibições ou exigências de autorização dos proprietários.
 
 O mesmo acontecia com a procura dos míscaros, os cogumelos silvestres. Eram produtos que se encontravam na natureza e que, segundo o costume, quem primeiro encontrasse podia apanhar.
 
@@ -263,7 +263,7 @@ Eran habituales conversaciones como esta:
 
 —Sí, porque voy a preparar la comida y ya no me queda ninguna. Cuando termine la siembra, tendré que ir a recoger más.
 
-A diferencia de otras formas de recogida de leña, la recolección de piñas parecía estar sujeta a unas normas comunitarias más permisivas. La gente las recogía en los pinares y en otros lugares sin que, aparentemente, existieran las mismas restricciones, prohibiciones o exigencias de autorización por parte de los propietarios.
+A diferencia de otras formas de recogida de leña, la recolección de piñas parecía estar sujeta a unas normas comunitarias más permisivas. La gente las recogía en los pinares sin que, aparentemente, existieran las mismas restricciones, prohibiciones o exigencias de autorización por parte de los propietarios.
 
 Algo parecido ocurría con la búsqueda de míscaros, las setas silvestres. Eran productos que se encontraban en la naturaleza y que, según la costumbre, podía llevarse quien los encontrara primero.
 

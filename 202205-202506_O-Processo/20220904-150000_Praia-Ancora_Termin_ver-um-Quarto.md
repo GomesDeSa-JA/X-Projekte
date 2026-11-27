@@ -1,4 +1,4 @@
-- [Index](../../Index.md)
+- [Index](../Index.md)
 
 ### A odisseia para encontrar um quarto
 #### 🇵🇹  Agendamento de encontro com Ilda Pereira
@@ -23,7 +23,7 @@ Liguei para marcar uma visita e combinámos encontrar-nos em frente ao Hotel Mei
 **Hintergrund:** Ich habe auf Idealista ein Angebot für ein Zimmer hier in der Casa Pereira für 250 Euro pro Monat gesehen.
 Ich habe angerufen, um einen Termin zu vereinbaren, und wir haben uns vor dem Hotel Meira verabredet.
 
-![](media04/20220904_Casa-Pereira_Vila-Praia-Ancora.webp)
+![](20220904_Casa-Pereira_Vila-Praia-Ancora.webp)
 - 36 Av. Dr. João Araújo
 - Vila Praia de Âncora, Distrikt Viana do Castelo
 
@@ -31,7 +31,7 @@ Ich habe angerufen, um einen Termin zu vereinbaren, und wir haben uns vor dem Ho
 
 #### Esperei na Pastelaria Benamor e bebi uma cerveja
 
-![](media04/20220904_Esperei-na-Pastelaria-Benamor.webp)
+![](20220904_Esperei-na-Pastelaria-Benamor.webp)
 
 -  🇵🇹  Recebi uma chamada por causa do atraso, estava bem e bebi uma cerveja – superei bem a situação.
 -  🇩🇪 Ich habe einen Anruf wegen der Verspätung erhalten, mir ging es gut und ich trank ein Bier – ich habe es gut überstanden.
@@ -39,6 +39,6 @@ Ich habe angerufen, um einen Termin zu vereinbaren, und wir haben uns vor dem Ho
 ---
 ### ➢
 
-↪ [Index](../../Index.md)
+↪ [Index](../Index.md)
 
  ...→

@@ -12,18 +12,18 @@
 ---
 #### Advogada(s)
 
--  [Vila Praia de Ancora → Nelas](202210-202506_O-Processo/20221007_Vila-Praia-de-Ancora_Nelas.md)
+-  [Vila Praia de Ancora → Nelas](202205-202506_O-Processo/20221007_Vila-Praia-de-Ancora_Nelas.md)
 - 
--  [Rechnung ohne Rechtsberatung](202210-202506_O-Processo/20230203_Rechnung-ohne-Rechtsberatung.md)
+-  [Rechnung ohne Rechtsberatung](202205-202506_O-Processo/20230203_Rechnung-ohne-Rechtsberatung.md)
 - 
--  [Haan → Viana do Castelo → Nelas](202210-202506_O-Processo/20230216_Haan_Viana-do-Castelo_Nelas.md)
+-  [Haan → Viana do Castelo → Nelas](202205-202506_O-Processo/20230216_Haan_Viana-do-Castelo_Nelas.md)
 - 
 ---
 
 -  [AI – Artificial Intelligence](Outros-Temas/Artificial-Intelligence.md)
 -  
 -  
-- [O Tio Armando 1930 – ? – 1975 ](Before_1950/1930-1975_O-tio-Armando.md)
+-  [O Tio Armando 1930 – ? – 1975 ](Before_1950/1930-1975_O-tio-Armando.md)
 
 ---
 #### B
@@ -43,9 +43,11 @@
 #### C
 [🔠](#Index) 
 
--  
+-  [Campo Gerês](202205-202506_O-Processo/20220507-10_Campo-Geres.md)
 - 
 - [Coimbra  – Santa Clara – ](Before_1990/19880303_Coimbra_Santa-Clara.md)
+-  
+- -
 
 ---
 #### Os_Caminhos
@@ -54,14 +56,13 @@
 
 ---
 #### **Obsidian Links** 
+
 >*⚠️  Internal links that don't work on GitHub*
 
-##### [Os Caminhos](../Camino-del-Salvador/Os_Caminhos.md)
-
+##### [Os Caminhos](Camino-del-Salvador/Os_Caminhos.md)
 - ↪ [A-Promessa-Herdada](A-Promessa-Herdada.md)
 - ↪ [Caminho de Fatima ](Camino-del-Salvador/Caminhos-de-Fatima/2_Santiago_Fatima_2019/Caminho-de-Fatima_Etapas.md)
 - ↪ [Rota Carmelita](Fatima_Rota-Carmelita_Etapas.md)
->
 - ↪ [Camino Francés ](Camino-Frances_Etapas.md)
 - ↪ [Camino Mozárabe](Camino_Mozarabe_Etapas.md)
 - ↪ [Camino de Levante](Camino-de-Levante_Etapas.md)
@@ -104,7 +105,7 @@
  [🔠](#Index) 
 
 
--  [Fumadinha](202205_O-Retorno/20220521-19h00_Fumadinha.md)
+-  [Fumadinha](202205-202506_O-Processo/20220521-19h00_Fumadinha.md)
 - 
 -  [Fátima](Before_2010/20200512_Fatima.md)
 - 
@@ -127,7 +128,7 @@
 - 
 
 
--   [Horacio Coimbra Rodrigues](202210-202506_O-Processo/Infos_Horacio-Coimbra-Rodrigues.md)
+-   [Horacio Coimbra Rodrigues](202205-202506_O-Processo/Infos_Horacio-Coimbra-Rodrigues.md)
 >Um  de muitos casos estranhos no processo
 
 
@@ -202,14 +203,14 @@
 #### P
  [🔠](#Index) 
 
--  [Praia Ancora –Termin– ver Quarto ](202205_O-Retorno/20220904_Praia-Ancora_Termin_ver-um-Quarto.md)
+-  [Praia Ancora –Termin– ver Quarto ](20220904-150000_Praia-Ancora_Termin_ver-um-Quarto.md)
 - 
--  [Perdido em Seixas](202205_O-Retorno/20220901_Perdido-em-Seixas_Minho.md)
+-  [Perdido em Seixas](20220901-130000_Perdido-em-Seixas_Minho.md)
 - 
 ---
 #### Processo Judicial
 
--  [Rechnung ohne Rechtsberatung](202210-202506_O-Processo/20230203_Rechnung-ohne-Rechtsberatung.md)
+-  [Rechnung ohne Rechtsberatung](202205-202506_O-Processo/20230203_Rechnung-ohne-Rechtsberatung.md)
 - 
 -  
 ---
@@ -239,9 +240,9 @@
 - 
 -  [Richter 🇩🇪 vs 🇵🇹](Outros-Temas/Richter_DE_vs_PT.md)
 - 
-- [O Regresso –Readme– ](202205_O-Retorno/Readme_O-Regresso.md)
+- [O Regresso –Readme– ](Readme_O-Regresso.md)
 - 
--  [202205_O-Retorno-Index](202205_O-Retorno/202205_O-Retorno-Index.md)
+-  [202205_O-Retorno-Index](202205-202506_O-Processo/202205_O-Retorno-Index.md)
 
 
 

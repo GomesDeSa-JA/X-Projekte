@@ -112,7 +112,7 @@ A nossa filosofia de jogo na aldeia consistia, na maioria das vezes, em proteger
 
 Ele ensinou-me uma filosofia de jogo completamente diferente. Juntos, praticámos muitas das suas jogadas. Infelizmente, nem nas damas nem na vida acabei por conseguir aplicar verdadeiramente aquelas jogadas ou princípios estratégicos.
 
-E, afinal, essa teria sido a verdadeira lição.
+**E, afinal, essa teria sido a verdadeira lição.**
 
 Agradeci-lhe por aquela experiência. Quando comentei que a suposta sabedoria da juventude dificilmente poderia competir com a experiência e a sabedoria da idade, ele discordou de mim.
 
@@ -181,7 +181,7 @@ Nuestra filosofía de juego en el pueblo consistía, por lo general, en proteger
 
 Él me enseñó una filosofía de juego completamente diferente. Practicamos juntos muchas de sus jugadas. Por desgracia, ni en las damas ni en la vida llegué a aplicar realmente aquellos movimientos o principios estratégicos.
 
-Y, sin embargo, esa habría sido precisamente la verdadera lección.
+**Y, sin embargo, esa habría sido precisamente la verdadera lección.**
 
 Le di las gracias por aquella experiencia. Cuando comenté que la supuesta sabiduría de la juventud difícilmente podía competir con la experiencia y la sabiduría de la edad, él no estuvo de acuerdo conmigo.
 
@@ -250,7 +250,7 @@ Our village philosophy was generally to protect as many of our own pieces as pos
 
 He taught me a completely different philosophy of playing. We practised many of his moves together. Unfortunately, neither in draughts nor in life did I ever really manage to put those moves or strategic principles into practice.
 
-And yet, that would have been the real lesson.
+**And yet, that would have been the real lesson.**
 
 I thanked him for the experience. When I remarked that the supposed wisdom of youth could hardly compete with the knowledge and experience of age, he disagreed with me.
 

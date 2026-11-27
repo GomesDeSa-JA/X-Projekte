@@ -1,12 +1,12 @@
 - [Index](../Index.md)
 ### 2022
 
-[20220521-19h00_Fumadinha](../202205_O-Retorno/20220521-19h00_Fumadinha.md)
+[20220521-19h00_Fumadinha](20220521-19h00_Fumadinha.md)
 
 ### 2023
 2026-11-13:  Bei dem nächsten Update Link testen
 
-[20230203_Rechnung-ohne-Rechtsberatung](20230203_Rechnung-ohne-Rechtsberatung)
+[20230203_Rechnung-ohne-Rechtsberatung](20230203_Rechnung-ohne-Rechtsberatung.md)
 
 ---
 ### ➢
