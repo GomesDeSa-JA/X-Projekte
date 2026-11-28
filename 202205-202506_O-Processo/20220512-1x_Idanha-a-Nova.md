@@ -2,7 +2,8 @@
 ### Idanha-a-Nova
 
 
-![](20220510-15h00-Braga–Guarda-Bilhete.webp)
+![](media-0/20220510-15h00-Braga–Guarda-Bilhete.webp)
+
 
 
 ---
